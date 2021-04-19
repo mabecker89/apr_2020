@@ -37,6 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-/data/base/ 
-/data/processed/ 
+/data/base/
 /beta/
