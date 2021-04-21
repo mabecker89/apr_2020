@@ -13,12 +13,12 @@ pacman::p_load(readr, dplyr, tidyr, janitor)
 df_apr <- read_csv("./data/base/SCBI_2020_camera_trap_survey.csv") %>%
   clean_names()
 
-# Species of interest
+# Species of interest (most abundant; but we can look at others later, too)
 sp <- c("American bison", "Mule deer", "Pronghorn", "White-tailed deer", "Coyote")
 
-# Leaving probabilities (gaps)
+# Predicted probabilities of leaving the camera field of view (of various image gap lengths) - from ABMI.
 df_leave_prob_pred <- read_csv("./data/lookup/gap-leave-prob_predictions_2020-06-25.csv")
-# Gap groups
+# Species gap groups
 df_gap_groups <- read_csv("./data/lookup/species-gap-groups.csv") %>%
   mutate(common_name = case_when(
     common_name == "Bison" ~ "American bison",
