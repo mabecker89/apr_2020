@@ -181,9 +181,11 @@ df_density <- df_tt_full %>%
   # Append Effective Detection Distance (EDD) information (from ABMI - we'll need to update this.)
   left_join(df_edd_groups, by = c("species" = "common_name")) %>%
   left_join(df_veg, by = "deployment_id") %>%
+  # Just use Grass/Shrub veg types in summer season
   mutate(veg_edd = ifelse(grass_cover > 50, "Grass", "Shrub"),
          season = "summer") %>%
   left_join(df_edd, by = c("dist_group", "season", "veg_edd" = "VegForDetectionDistance")) %>%
+  # Calculate density
   mutate(effort = duration_days * (detdist ^ 2 * pi * (cam_fov_angle / 360)) / 100,
          # Catch per unit effort
          cpue = total_duration / effort,
