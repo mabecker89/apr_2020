@@ -26,6 +26,7 @@ library(stringr)
 library(sf)
 library(ggplot2)
 library(readr)
+library(here)
 
 add_abmi_fonts()
 
@@ -44,7 +45,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="90%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics("image3.JPG")
+knitr::include_graphics(here("./image3.JPG"))
 
 ```
 
@@ -131,7 +132,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="85%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics("image1.JPG")
+knitr::include_graphics(here("image1.JPG"))
 
 ```
 
@@ -154,7 +155,7 @@ Monte Carlo simulation can be done to estimate uncertainty.
 library(abmi.themes)
 library(ggplot2)
 
-df_density <- readr::read_csv("density.csv")
+df_density <- readr::read_csv(here("density.csv"))
 
 df_density %>%
   filter(!str_detect(deployment_id, "_R2$"),
@@ -191,7 +192,7 @@ This gives us an average bison density of **5.4 individuals per km $^2$ (!!!)** 
 library(abmi.themes)
 library(ggplot2)
 
-df_density <- readr::read_csv("density.csv")
+df_density <- readr::read_csv(here("density.csv"))
 
 df_density %>%
   filter(!str_detect(deployment_id, "_R2$"),
@@ -226,7 +227,7 @@ Use bootstrapping (with day as the resampling unit) to estimate uncertainty.
 .pull-right[
 ```{r, echo=FALSE, out.width="100%", fig.align="center", warning=FALSE, message=FALSE, dpi=600, fig.showtext=TRUE}
 
-summarise_day <- readr::read_csv("summarise_day.csv")
+summarise_day <- readr::read_csv(here("summarise_day.csv"))
 
 summarise_day %>%
   filter(yday < 176) %>%
@@ -263,7 +264,7 @@ Estimate is better, but not necessarily higher precision (30 obs versus 80).
 .pull-right[
 ```{r, echo=FALSE, out.width="100%", fig.align="center", warning=FALSE, message=FALSE, dpi=600, fig.showtext=TRUE}
 
-summarise_day_R1 <- readr::read_csv("summarise_day_R1.csv")
+summarise_day_R1 <- readr::read_csv(here("summarise_day_R1.csv"))
 
 library(infer)
 
@@ -310,7 +311,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="85%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics("image2.JPG")
+knitr::include_graphics(here("image2.JPG"))
 
 ``` 
 
@@ -378,7 +379,7 @@ So something is going on regarding their movement and the placement of the camer
 
 ```{r, echo=FALSE, fig.height=5, out.width="75%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics("May2020-1.png")
+knitr::include_graphics(here("May2020-1.png"))
 
 ```
 
