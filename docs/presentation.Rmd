@@ -45,7 +45,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="90%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics(here("./image3.JPG"))
+knitr::include_graphics("image3.JPG")
 
 ```
 
@@ -132,7 +132,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="85%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics(here("image1.JPG"))
+knitr::include_graphics("image1.JPG")
 
 ```
 
@@ -311,7 +311,7 @@ class: hide-logo
 
 ```{r echo=FALSE, fig.height=7, out.width="85%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics(here("image2.JPG"))
+knitr::include_graphics("image2.JPG")
 
 ``` 
 
@@ -379,7 +379,7 @@ So something is going on regarding their movement and the placement of the camer
 
 ```{r, echo=FALSE, fig.height=5, out.width="75%", fig.align="center", warning=FALSE, message=FALSE, dpi=600}
 
-knitr::include_graphics(here("May2020-1.png"))
+knitr::include_graphics("May2020-1.png")
 
 ```
 
