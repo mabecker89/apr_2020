@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Bison in the American Prairie Reserve</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Marcus Becker" />
+    <meta name="date" content="2021-10-12" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="custom.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Bison in the American Prairie Reserve
+## 📷
+### Marcus Becker
+### 2021-10-12
+
+---
+
+
+
+class: hide-logo
+## Bison!
+
+&lt;img src="image3.JPG" width="90%" style="display: block; margin: auto;" /&gt;
+
+---
+class: center, middle
+name: interest
+
+# What's in it for us? (ABMI!)
+
+---
+
+## Bison!
+
+#### An opportunity to apply the TIFC method (Time in Front of Camera)
+
+---
+
+## TIFC
+
+.pull-left[
+&lt;img src="moose1.gif" height=300 width=500&gt;
+]
+
+.pull-right[
+&lt;img src="plot1.gif" height=265 width=300&gt;
+]
+
+.pull-right[.footnote[Refer to Becker et al 2021 for details &amp;#128513;]]
+
+---
+
+## Bison!
+
+#### An opportunity to apply the TIFC method (Time in Front of Camera)
+
+- American Prairie Reserve in Montana: 105-km `\(^2\)`. &lt;b&gt;Fenced!&lt;/b&gt;
+  
+- Aerial surveys are flown to count the number of bison
+  - 362 individuals in May 2020 (~ 3.6 individuals per km `\(^2\)`)
+  - 425 individuals in October 2020 (approx. 60 calves were born)
+  
+- ~ 80 cameras deployed from May-July 2020. 
+  
+---
+class: hide-logo
+### American Prairie Reserve, Montana
+
+&lt;iframe src="map1.html" width="800" height="500"&gt; &lt;/iframe&gt;
+
+---
+class: hide-logo
+## Bison!
+
+#### An opportunity to apply the TIFC method (Time in Front of Camera)
+
+- American Prairie Reserve in Montana: 105-km `\(^2\)`. &lt;b&gt;Fenced!&lt;/b&gt;
+  
+- Aerial surveys are flown to count the number of bison
+  - 362 individuals in May 2020 (~ 3.6 individuals per km `\(^2\)`)
+  - 425 individuals in October 2020 (approx. 60 calves were born)
+  
+- ~ 80 cameras deployed from May-August 2020.
+  - Three periods, with a refresh in between
+
+--
+
+#### Wrinkles
+
+- Slightly different protocols and camera model than ABMI uses
+
+- Shifting population size - can the cameras pick this up?
+
+- Distinctive herding behaviour
+
+---
+class: center, middle
+name: analysis
+
+# Analysis
+
+---
+class: hide-logo
+## First, another bison photo.
+
+&lt;img src="image1.JPG" width="85%" style="display: block; margin: auto;" /&gt;
+
+---
+
+## Analysis
+
+#### First, I'm going to look at the initial period (mid-May to mid-June)
+
+.pull-left[
+&lt;br&gt;
+&lt;br&gt;
+The conventional way we would estimate animal density is to derive a density estimate for each deployment, and then calculate an average across all deployments. &lt;br&gt; &lt;br&gt;
+Monte Carlo simulation can be done to estimate uncertainty.
+]
+
+.pull-right[
+&lt;img src="presentation_files/figure-html/unnamed-chunk-3-1.png" width="100%" style="display: block; margin: auto;" /&gt;
+]
+
+---
+
+## Analysis
+
+#### First, I'm going to look at the initial period (mid-May to mid-June)
+
+.pull-left[
+&lt;br&gt;
+&lt;br&gt;
+This gives us an average bison density of **5.4 individuals per km `\(^2\)` (!!!)** (90% CI: 3.1 to 8.57). &lt;br&gt; &lt;br&gt; High uncertainty, and obviously far from the true value (~ 3.6). 
+]
+
+.pull-right[
+&lt;img src="presentation_files/figure-html/unnamed-chunk-4-1.png" width="100%" style="display: block; margin: auto;" /&gt;
+]
+
+---
+
+## Analysis
+
+#### First, I'm going to look at the initial period (mid-May to mid-June)
+
+.pull-left[
+&lt;br&gt;
+But I tried something different here: estimate an average bison density **by day** instead (i.e. averaging across the 80 deployments each day). &lt;br&gt; &lt;br&gt;
+Logic: More variability by site than by day. &lt;br&gt; &lt;br&gt;
+Use bootstrapping (with day as the resampling unit) to estimate uncertainty.
+]
+
+.pull-right[
+&lt;img src="presentation_files/figure-html/unnamed-chunk-5-1.png" width="100%" style="display: block; margin: auto;" /&gt;
+
+]
+
+---
+
+## Analysis
+
+#### First, I'm going to look at the initial period (mid-May to mid-June)
+
+.pull-left[
+&lt;br&gt;
+&lt;br&gt;
+Average bison density is now **2.86 individuals per km `\(^2\)`** (90% CI: 1.55 to 4.44). &lt;br&gt; &lt;br&gt;
+Estimate is better, but not necessarily higher precision (30 obs versus 80). 
+]
+
+.pull-right[
+&lt;img src="presentation_files/figure-html/unnamed-chunk-6-1.png" width="100%" style="display: block; margin: auto;" /&gt;
+]
+
+---
+class: hide-logo
+## Quick, another bison photo.
+
+&lt;img src="image2.JPG" width="85%" style="display: block; margin: auto;" /&gt;
+
+---
+
+## Analysis
+
+#### What about the subsequent time periods? 
+
+--
+
+There's something funky going on with the second round (end of June to end of July).
+
+---
+class: hide-logo
+## Analysis
+
+#### Where did all the bison go?!
+
+&lt;img src="presentation_files/figure-html/unnamed-chunk-8-1.png" style="display: block; margin: auto 0 auto auto;" /&gt;
+
+---
+
+## Analysis
+
+#### Where did all the bison go?!
+
+Not sure at this point. However, if we included this second time period, the average daily density would drop to 1.8 individuals per `\(km^2\)`. 
+
+So something is going on regarding their movement and the placement of the cameras. 
+
+---
+
+## Next steps
+
+1. Investigate (rudimentary) movement data
+
+&lt;img src="May2020-1.png" width="75%" style="display: block; margin: auto;" /&gt;
+
+---
+
+## Next steps
+
+2. Use landscape predictors
+
+- NDVI
+- Slope, elevation
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+<style>
+.logo {
+  background-image: url(ABMI-notext.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 0em;
+  left: 2em;
+  width: 90px;
+  height: 100px;
+  z-index: 0;
+}
+</style>
+
+<script>
+document
+  .querySelectorAll(
+    '.remark-slide-content' +
+    ':not(.title-slide)' +
+    // add additional classes to exclude here, e.g.
+    // ':not(.inverse)' +
+    ':not(.hide-logo)'
+  )
+  .forEach(el => {
+    el.innerHTML += '<div class="logo"></div>';
+  });
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

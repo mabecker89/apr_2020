@@ -1,1961 +1,1961 @@
-deployment_id,species,time_in_fov_s,duration_days
-sun_prairie_10_R1,American bison,0,26
-sun_prairie_10_R1,Coyote,0,26
-sun_prairie_10_R1,Mule deer,886.4590617764887,26
-sun_prairie_10_R1,Pronghorn,19.857493104505053,26
-sun_prairie_10_R1,White-tailed deer,0,26
-Sun_Prairie_10_R2,American bison,0,35
-Sun_Prairie_10_R2,Coyote,0,35
-Sun_Prairie_10_R2,Mule deer,83.42162132514261,35
-Sun_Prairie_10_R2,Pronghorn,0,35
-Sun_Prairie_10_R2,White-tailed deer,0,35
-Sun_Prairie_10_R3,American bison,2.3199236188166075,29
-Sun_Prairie_10_R3,Coyote,0,29
-Sun_Prairie_10_R3,Mule deer,0,29
-Sun_Prairie_10_R3,Pronghorn,0,29
-Sun_Prairie_10_R3,White-tailed deer,0,29
-Sun_Prairie_10_R4,American bison,0,32
-Sun_Prairie_10_R4,Coyote,5.041743970315399,32
-Sun_Prairie_10_R4,Mule deer,0,32
-Sun_Prairie_10_R4,Pronghorn,0,32
-Sun_Prairie_10_R4,White-tailed deer,0,32
-Sun_Prairie_100_R1,American bison,0,0
-Sun_Prairie_100_R1,Coyote,0,0
-Sun_Prairie_100_R1,Mule deer,0,0
-Sun_Prairie_100_R1,Pronghorn,0,0
-Sun_Prairie_100_R1,White-tailed deer,0,0
-Sun_Prairie_100_R2,American bison,0,36
-Sun_Prairie_100_R2,Coyote,0,36
-Sun_Prairie_100_R2,Mule deer,294.1704497586661,36
-Sun_Prairie_100_R2,Pronghorn,0,36
-Sun_Prairie_100_R2,White-tailed deer,0,36
-Sun_Prairie_100_R3,American bison,42.50931256934947,28
-Sun_Prairie_100_R3,Coyote,0,28
-Sun_Prairie_100_R3,Mule deer,8.614414216761737,28
-Sun_Prairie_100_R3,Pronghorn,0,28
-Sun_Prairie_100_R3,White-tailed deer,0,28
-Sun_Prairie_100_R4,American bison,0,31
-Sun_Prairie_100_R4,Coyote,0,31
-Sun_Prairie_100_R4,Mule deer,0,31
-Sun_Prairie_100_R4,Pronghorn,0,31
-Sun_Prairie_100_R4,White-tailed deer,0,31
-Sun_Prairie_101_R1,American bison,1490.1442829541343,27
-Sun_Prairie_101_R1,Coyote,8.041743970315398,27
-Sun_Prairie_101_R1,Mule deer,876.3858753901575,27
-Sun_Prairie_101_R1,Pronghorn,2.4287465522525284,27
-Sun_Prairie_101_R1,White-tailed deer,0,27
-Sun_Prairie_101_R3,American bison,60.919541712899644,25
-Sun_Prairie_101_R3,Coyote,0,25
-Sun_Prairie_101_R3,Mule deer,12.614414216761737,25
-Sun_Prairie_101_R3,Pronghorn,10.857493104505057,25
-Sun_Prairie_101_R3,White-tailed deer,0,25
-Sun_Prairie_101_R4,American bison,840.2380786323187,22
-Sun_Prairie_101_R4,Coyote,0,22
-Sun_Prairie_101_R4,Mule deer,0,22
-Sun_Prairie_101_R4,Pronghorn,48.57186638063132,22
-Sun_Prairie_101_R4,White-tailed deer,0,22
-Sun_Prairie_101_R5,American bison,396.63232814233743,22
-Sun_Prairie_101_R5,Coyote,0,22
-Sun_Prairie_101_R5,Mule deer,0,22
-Sun_Prairie_101_R5,Pronghorn,0,22
-Sun_Prairie_101_R5,White-tailed deer,0,22
-Sun_Prairie_102_R1,American bison,292.62609417831675,30
-Sun_Prairie_102_R1,Coyote,10.041743970315398,30
-Sun_Prairie_102_R1,Mule deer,0,30
-Sun_Prairie_102_R1,Pronghorn,0,30
-Sun_Prairie_102_R1,White-tailed deer,0,30
-Sun_Prairie_102_R2,American bison,83.94923618816608,36
-Sun_Prairie_102_R2,Coyote,0,36
-Sun_Prairie_102_R2,Mule deer,8.807207108380869,36
-Sun_Prairie_102_R2,Pronghorn,0,36
-Sun_Prairie_102_R2,White-tailed deer,0,36
-Sun_Prairie_102_R3,American bison,148.73938895053286,28
-Sun_Prairie_102_R3,Coyote,2.041743970315399,28
-Sun_Prairie_102_R3,Mule deer,12.614414216761737,28
-Sun_Prairie_102_R3,Pronghorn,62.648746552252526,28
-Sun_Prairie_102_R3,White-tailed deer,0,28
-Sun_Prairie_102_R4,American bison,64.95977085644982,12
-Sun_Prairie_102_R4,Coyote,6.041743970315399,12
-Sun_Prairie_102_R4,Mule deer,0,12
-Sun_Prairie_102_R4,Pronghorn,0,12
-Sun_Prairie_102_R4,White-tailed deer,0,12
-Sun_Prairie_102_R5,American bison,105.40961809408304,22
-Sun_Prairie_102_R5,Coyote,11.083487940630798,22
-Sun_Prairie_102_R5,Mule deer,0,22
-Sun_Prairie_102_R5,Pronghorn,0,22
-Sun_Prairie_102_R5,White-tailed deer,0,22
-Sun_Prairie_103_R1,American bison,153.53938895053287,4
-Sun_Prairie_103_R1,Coyote,3.041743970315399,4
-Sun_Prairie_103_R1,Mule deer,0,4
-Sun_Prairie_103_R1,Pronghorn,0,4
-Sun_Prairie_103_R1,White-tailed deer,0,4
-Sun_Prairie_103_R2,American bison,83.6398472376332,0
-Sun_Prairie_103_R2,Coyote,0,0
-Sun_Prairie_103_R2,Mule deer,0,0
-Sun_Prairie_103_R2,Pronghorn,0,0
-Sun_Prairie_103_R2,White-tailed deer,0,0
-Sun_Prairie_103_R3,American bison,0,9
-Sun_Prairie_103_R3,Coyote,0,9
-Sun_Prairie_103_R3,Mule deer,15.807207108380869,9
-Sun_Prairie_103_R3,Pronghorn,0,9
-Sun_Prairie_103_R3,White-tailed deer,13.750875656742558,9
-Sun_Prairie_103_R4,American bison,76.95977085644982,32
-Sun_Prairie_103_R4,Coyote,120.39046382189238,32
-Sun_Prairie_103_R4,Mule deer,0,32
-Sun_Prairie_103_R4,Pronghorn,0,32
-Sun_Prairie_103_R4,White-tailed deer,0,32
-Sun_Prairie_103_R5,American bison,0,22
-Sun_Prairie_103_R5,Coyote,0,22
-Sun_Prairie_103_R5,Mule deer,0,22
-Sun_Prairie_103_R5,Pronghorn,0,22
-Sun_Prairie_103_R5,White-tailed deer,0,22
-Sun_Prairie_104_R1,American bison,218.6822176591734,8
-Sun_Prairie_104_R1,Coyote,4.041743970315399,8
-Sun_Prairie_104_R1,Mule deer,4.807207108380869,8
-Sun_Prairie_104_R1,Pronghorn,0,8
-Sun_Prairie_104_R1,White-tailed deer,0,8
-Sun_Prairie_104_R2,American bison,116.16031404020335,42
-Sun_Prairie_104_R2,Coyote,6.083487940630798,42
-Sun_Prairie_104_R2,Mule deer,11.807207108380869,42
-Sun_Prairie_104_R2,Pronghorn,0,42
-Sun_Prairie_104_R2,White-tailed deer,0,42
-Sun_Prairie_104_R3,American bison,102.17548060795292,21
-Sun_Prairie_104_R3,Coyote,0,21
-Sun_Prairie_104_R3,Mule deer,4.807207108380869,21
-Sun_Prairie_104_R3,Pronghorn,13.286239656757585,21
-Sun_Prairie_104_R3,White-tailed deer,0,21
-Sun_Prairie_104_R4,American bison,150.73144869745693,0
-Sun_Prairie_104_R4,Coyote,0,0
-Sun_Prairie_104_R4,Mule deer,0,0
-Sun_Prairie_104_R4,Pronghorn,0,0
-Sun_Prairie_104_R4,White-tailed deer,0,0
-Sun_Prairie_104_R5,American bison,483.5358327942575,22
-Sun_Prairie_104_R5,Coyote,0,22
-Sun_Prairie_104_R5,Mule deer,43.807207108380865,22
-Sun_Prairie_104_R5,Pronghorn,0,22
-Sun_Prairie_104_R5,White-tailed deer,0,22
-Sun_Prairie_105_R1,American bison,33.63984723763321,30
-Sun_Prairie_105_R1,Coyote,4.041743970315399,30
-Sun_Prairie_105_R1,Mule deer,0,30
-Sun_Prairie_105_R1,Pronghorn,0,30
-Sun_Prairie_105_R1,White-tailed deer,0,30
-Sun_Prairie_105_R2,American bison,389.393331268977,34
-Sun_Prairie_105_R2,Coyote,0,34
-Sun_Prairie_105_R2,Mule deer,3.8072071083808687,34
-Sun_Prairie_105_R2,Pronghorn,0,34
-Sun_Prairie_105_R2,White-tailed deer,0,34
-Sun_Prairie_105_R3,American bison,866.5578062705766,27
-Sun_Prairie_105_R3,Coyote,0,27
-Sun_Prairie_105_R3,Mule deer,0,27
-Sun_Prairie_105_R3,Pronghorn,0,27
-Sun_Prairie_105_R3,White-tailed deer,0,27
-Sun_Prairie_105_R4,American bison,0,34
-Sun_Prairie_105_R4,Coyote,0,34
-Sun_Prairie_105_R4,Mule deer,0,34
-Sun_Prairie_105_R4,Pronghorn,0,34
-Sun_Prairie_105_R4,White-tailed deer,0,34
-Sun_Prairie_105_R5,American bison,173.427621861012,19
-Sun_Prairie_105_R5,Coyote,0,19
-Sun_Prairie_105_R5,Mule deer,0,19
-Sun_Prairie_105_R5,Pronghorn,0,19
-Sun_Prairie_105_R5,White-tailed deer,0,19
-Sun_Prairie_106_R1,American bison,78.17686824245865,30
-Sun_Prairie_106_R1,Coyote,0,30
-Sun_Prairie_106_R1,Mule deer,0,30
-Sun_Prairie_106_R1,Pronghorn,0,30
-Sun_Prairie_106_R1,White-tailed deer,50.76474685559624,30
-Sun_Prairie_106_R2,American bison,328.71311092104406,26
-Sun_Prairie_106_R2,Coyote,0,26
-Sun_Prairie_106_R2,Mule deer,129.65441421676172,26
-Sun_Prairie_106_R2,Pronghorn,0,26
-Sun_Prairie_106_R2,White-tailed deer,0,26
-Sun_Prairie_106_R3,American bison,1827.3785464322846,1
-Sun_Prairie_106_R3,Coyote,0,1
-Sun_Prairie_106_R3,Mule deer,0,1
-Sun_Prairie_106_R3,Pronghorn,0,1
-Sun_Prairie_106_R3,White-tailed deer,0,1
-Sun_Prairie_106_R4,American bison,1025.0010543214019,13
-Sun_Prairie_106_R4,Coyote,0,13
-Sun_Prairie_106_R4,Mule deer,0,13
-Sun_Prairie_106_R4,Pronghorn,0,13
-Sun_Prairie_106_R4,White-tailed deer,0,13
-Sun_Prairie_106_R5,American bison,68.05977085644983,19
-Sun_Prairie_106_R5,Coyote,0,19
-Sun_Prairie_106_R5,Mule deer,0,19
-Sun_Prairie_106_R5,Pronghorn,0,19
-Sun_Prairie_106_R5,White-tailed deer,0,19
-Sun_Prairie_107_R1,American bison,0,16
-Sun_Prairie_107_R1,Coyote,0,16
-Sun_Prairie_107_R1,Mule deer,104.75742636221464,16
-Sun_Prairie_107_R1,Pronghorn,0,16
-Sun_Prairie_107_R1,White-tailed deer,0,16
-Sun_Prairie_107_R2,American bison,0,38
-Sun_Prairie_107_R2,Coyote,5.041743970315399,38
-Sun_Prairie_107_R2,Mule deer,0,38
-Sun_Prairie_107_R2,Pronghorn,0,38
-Sun_Prairie_107_R2,White-tailed deer,545.1913835376532,38
-Sun_Prairie_107_R3,American bison,4.319923618816608,25
-Sun_Prairie_107_R3,Coyote,0,25
-Sun_Prairie_107_R3,Mule deer,0,25
-Sun_Prairie_107_R3,Pronghorn,0,25
-Sun_Prairie_107_R3,White-tailed deer,173.50875656742556,25
-Sun_Prairie_107_R4,American bison,0,27
-Sun_Prairie_107_R4,Coyote,0,27
-Sun_Prairie_107_R4,Mule deer,0,27
-Sun_Prairie_107_R4,Pronghorn,0,27
-Sun_Prairie_107_R4,White-tailed deer,277.7346015761821,27
-Sun_Prairie_107_R5,American bison,7.319923618816608,18
-Sun_Prairie_107_R5,Coyote,0,18
-Sun_Prairie_107_R5,Mule deer,113.38441421676173,18
-Sun_Prairie_107_R5,Pronghorn,0,18
-Sun_Prairie_107_R5,White-tailed deer,89.38477816695855,18
-Sun_Prairie_108_R1,American bison,849.401561844448,30
-Sun_Prairie_108_R1,Coyote,0,30
-Sun_Prairie_108_R1,Mule deer,0,30
-Sun_Prairie_108_R1,Pronghorn,8.428746552252528,30
-Sun_Prairie_108_R1,White-tailed deer,0,30
-Sun_Prairie_108_R2,American bison,53.059847237633214,39
-Sun_Prairie_108_R2,Coyote,0,39
-Sun_Prairie_108_R2,Mule deer,0,39
-Sun_Prairie_108_R2,Pronghorn,9.428746552252528,39
-Sun_Prairie_108_R2,White-tailed deer,0,39
-Sun_Prairie_108_R3,American bison,36.95977085644982,21
-Sun_Prairie_108_R3,Coyote,0,21
-Sun_Prairie_108_R3,Mule deer,0,21
-Sun_Prairie_108_R3,Pronghorn,4.4287465522525284,21
-Sun_Prairie_108_R3,White-tailed deer,0,21
-Sun_Prairie_108_R4,American bison,241.20341464728116,34
-Sun_Prairie_108_R4,Coyote,0,34
-Sun_Prairie_108_R4,Mule deer,0,34
-Sun_Prairie_108_R4,Pronghorn,1.4287465522525284,34
-Sun_Prairie_108_R4,White-tailed deer,0,34
-Sun_Prairie_108_R5,American bison,0,6
-Sun_Prairie_108_R5,Coyote,0,6
-Sun_Prairie_108_R5,Mule deer,0,6
-Sun_Prairie_108_R5,Pronghorn,0,6
-Sun_Prairie_108_R5,White-tailed deer,0,6
-Sun_Prairie_109_R1,American bison,0,4
-Sun_Prairie_109_R1,Coyote,0,4
-Sun_Prairie_109_R1,Mule deer,0,4
-Sun_Prairie_109_R1,Pronghorn,12.428746552252528,4
-Sun_Prairie_109_R1,White-tailed deer,0,4
-Sun_Prairie_109_R2,American bison,46.84977085644982,38
-Sun_Prairie_109_R2,Coyote,0,38
-Sun_Prairie_109_R2,Mule deer,0,38
-Sun_Prairie_109_R2,Pronghorn,40.28623965675759,38
-Sun_Prairie_109_R2,White-tailed deer,0,38
-Sun_Prairie_109_R3,American bison,492.79718710089355,25
-Sun_Prairie_109_R3,Coyote,34.083487940630796,25
-Sun_Prairie_109_R3,Mule deer,0,25
-Sun_Prairie_109_R3,Pronghorn,2.4287465522525284,25
-Sun_Prairie_109_R3,White-tailed deer,0,25
-Sun_Prairie_109_R4,American bison,1244.3412590950124,34
-Sun_Prairie_109_R4,Coyote,7.041743970315399,34
-Sun_Prairie_109_R4,Mule deer,3.6144142167617375,34
-Sun_Prairie_109_R4,Pronghorn,45.14618449279804,34
-Sun_Prairie_109_R4,White-tailed deer,0,34
-Sun_Prairie_109_R5,American bison,276.3388542822491,1
-Sun_Prairie_109_R5,Coyote,0,1
-Sun_Prairie_109_R5,Mule deer,0,1
-Sun_Prairie_109_R5,Pronghorn,0,1
-Sun_Prairie_109_R5,White-tailed deer,0,1
-Sun_Prairie_110_R1,American bison,0,4
-Sun_Prairie_110_R1,Coyote,0,4
-Sun_Prairie_110_R1,Mule deer,68.39441421676173,4
-Sun_Prairie_110_R1,Pronghorn,23.428746552252527,4
-Sun_Prairie_110_R1,White-tailed deer,0,4
-Sun_Prairie_110_R2,American bison,70.0199236188166,36
-Sun_Prairie_110_R2,Coyote,0,36
-Sun_Prairie_110_R2,Mule deer,504.7920710838087,36
-Sun_Prairie_110_R2,Pronghorn,0,36
-Sun_Prairie_110_R2,White-tailed deer,0,36
-Sun_Prairie_110_R3,American bison,0,28
-Sun_Prairie_110_R3,Coyote,0,28
-Sun_Prairie_110_R3,Mule deer,47.4216213251426,28
-Sun_Prairie_110_R3,Pronghorn,36.05874655225253,28
-Sun_Prairie_110_R3,White-tailed deer,0,28
-Sun_Prairie_110_R4,American bison,0,22
-Sun_Prairie_110_R4,Coyote,27.125231910946198,22
-Sun_Prairie_110_R4,Mule deer,0,22
-Sun_Prairie_110_R4,Pronghorn,0,22
-Sun_Prairie_110_R4,White-tailed deer,0,22
-Sun_Prairie_110_R5,American bison,0,22
-Sun_Prairie_110_R5,Coyote,38.2434879406308,22
-Sun_Prairie_110_R5,Mule deer,0,22
-Sun_Prairie_110_R5,Pronghorn,0,22
-Sun_Prairie_110_R5,White-tailed deer,0,22
-Sun_Prairie_111_R1,American bison,6.639847237633216,8
-Sun_Prairie_111_R1,Coyote,0,8
-Sun_Prairie_111_R1,Mule deer,136.32853218021486,8
-Sun_Prairie_111_R1,Pronghorn,0,8
-Sun_Prairie_111_R1,White-tailed deer,0,8
-Sun_Prairie_111_R2,American bison,65.27969447526642,36
-Sun_Prairie_111_R2,Coyote,6.041743970315399,36
-Sun_Prairie_111_R2,Mule deer,251.45882843352348,36
-Sun_Prairie_111_R2,Pronghorn,0,36
-Sun_Prairie_111_R2,White-tailed deer,0,36
-Sun_Prairie_111_R3,American bison,57.63984723763322,28
-Sun_Prairie_111_R3,Coyote,0,28
-Sun_Prairie_111_R3,Mule deer,0,28
-Sun_Prairie_111_R3,Pronghorn,37.47273627383955,28
-Sun_Prairie_111_R3,White-tailed deer,0,28
-Sun_Prairie_111_R4,American bison,6.959770856449822,31
-Sun_Prairie_111_R4,Coyote,0,31
-Sun_Prairie_111_R4,Mule deer,0,31
-Sun_Prairie_111_R4,Pronghorn,0,31
-Sun_Prairie_111_R4,White-tailed deer,0,31
-Sun_Prairie_111_R5,American bison,269.6417883357836,22
-Sun_Prairie_111_R5,Coyote,0,22
-Sun_Prairie_111_R5,Mule deer,0,22
-Sun_Prairie_111_R5,Pronghorn,0,22
-Sun_Prairie_111_R5,White-tailed deer,0,22
-Sun_Prairie_112_R1,American bison,57.42992361881661,32
-Sun_Prairie_112_R1,Coyote,0,32
-Sun_Prairie_112_R1,Mule deer,25.07720710838087,32
-Sun_Prairie_112_R1,Pronghorn,0,32
-Sun_Prairie_112_R1,White-tailed deer,0,32
-Sun_Prairie_112_R2,American bison,40.63984723763322,6
-Sun_Prairie_112_R2,Coyote,0,6
-Sun_Prairie_112_R2,Mule deer,0,6
-Sun_Prairie_112_R2,Pronghorn,0,6
-Sun_Prairie_112_R2,White-tailed deer,0,6
-Sun_Prairie_112_R3,American bison,0,28
-Sun_Prairie_112_R3,Coyote,29.041743970315398,28
-Sun_Prairie_112_R3,Mule deer,0,28
-Sun_Prairie_112_R3,Pronghorn,0,28
-Sun_Prairie_112_R3,White-tailed deer,0,28
-Sun_Prairie_112_R4,American bison,55.45984723763322,7
-Sun_Prairie_112_R4,Coyote,0,7
-Sun_Prairie_112_R4,Mule deer,0,7
-Sun_Prairie_112_R4,Pronghorn,0,7
-Sun_Prairie_112_R4,White-tailed deer,0,7
-Sun_Prairie_112_R5,American bison,66.45742981905343,4
-Sun_Prairie_112_R5,Coyote,0,4
-Sun_Prairie_112_R5,Mule deer,0,4
-Sun_Prairie_112_R5,Pronghorn,0,4
-Sun_Prairie_112_R5,White-tailed deer,0,4
-Sun_Prairie_113_R1,American bison,47.47893066343251,28
-Sun_Prairie_113_R1,Coyote,0,28
-Sun_Prairie_113_R1,Mule deer,0,28
-Sun_Prairie_113_R1,Pronghorn,0,28
-Sun_Prairie_113_R1,White-tailed deer,0,28
-Sun_Prairie_113_R2,American bison,98.75532692399851,34
-Sun_Prairie_113_R2,Coyote,0,34
-Sun_Prairie_113_R2,Mule deer,0,34
-Sun_Prairie_113_R2,Pronghorn,0,34
-Sun_Prairie_113_R2,White-tailed deer,0,34
-Sun_Prairie_113_R3,American bison,583.4627997297333,2
-Sun_Prairie_113_R3,Coyote,0,2
-Sun_Prairie_113_R3,Mule deer,0,2
-Sun_Prairie_113_R3,Pronghorn,0,2
-Sun_Prairie_113_R3,White-tailed deer,0,2
-Sun_Prairie_113_R4,American bison,0,2
-Sun_Prairie_113_R4,Coyote,0,2
-Sun_Prairie_113_R4,Mule deer,0,2
-Sun_Prairie_113_R4,Pronghorn,0,2
-Sun_Prairie_113_R4,White-tailed deer,0,2
-Sun_Prairie_113_R5,American bison,353.69103670737314,5
-Sun_Prairie_113_R5,Coyote,0,5
-Sun_Prairie_113_R5,Mule deer,0,5
-Sun_Prairie_113_R5,Pronghorn,0,5
-Sun_Prairie_113_R5,White-tailed deer,0,5
-Sun_Prairie_114_R1,American bison,41.599898158422135,30
-Sun_Prairie_114_R1,Coyote,0,30
-Sun_Prairie_114_R1,Mule deer,0,30
-Sun_Prairie_114_R1,Pronghorn,0,30
-Sun_Prairie_114_R1,White-tailed deer,56.571751313485116,30
-Sun_Prairie_114_R2,American bison,0,14
-Sun_Prairie_114_R2,Coyote,0,14
-Sun_Prairie_114_R2,Mule deer,48.38162132514261,14
-Sun_Prairie_114_R2,Pronghorn,0,14
-Sun_Prairie_114_R2,White-tailed deer,0,14
-Sun_Prairie_114_R3,American bison,8.959770856449822,26
-Sun_Prairie_114_R3,Coyote,0,26
-Sun_Prairie_114_R3,Mule deer,96.80720710838087,26
-Sun_Prairie_114_R3,Pronghorn,0,26
-Sun_Prairie_114_R3,White-tailed deer,0,26
-Sun_Prairie_114_R4,American bison,0,34
-Sun_Prairie_114_R4,Coyote,0,34
-Sun_Prairie_114_R4,Mule deer,599.8319121676474,34
-Sun_Prairie_114_R4,Pronghorn,0,34
-Sun_Prairie_114_R4,White-tailed deer,0,34
-Sun_Prairie_114_R5,American bison,126.3199236188166,19
-Sun_Prairie_114_R5,Coyote,0,19
-Sun_Prairie_114_R5,Mule deer,98.87713387241689,19
-Sun_Prairie_114_R5,Pronghorn,0,19
-Sun_Prairie_114_R5,White-tailed deer,0,19
-Sun_Prairie_115_R1,American bison,0,26
-Sun_Prairie_115_R1,Coyote,0,26
-Sun_Prairie_115_R1,Mule deer,0,26
-Sun_Prairie_115_R1,Pronghorn,0,26
-Sun_Prairie_115_R1,White-tailed deer,68.07025826598864,26
-Sun_Prairie_115_R2,American bison,68.96954171289964,26
-Sun_Prairie_115_R2,Coyote,0,26
-Sun_Prairie_115_R2,Mule deer,0,26
-Sun_Prairie_115_R2,Pronghorn,0,26
-Sun_Prairie_115_R2,White-tailed deer,69.50875656742558,26
-Sun_Prairie_115_R3,American bison,613.8395417128996,2
-Sun_Prairie_115_R3,Coyote,0,2
-Sun_Prairie_115_R3,Mule deer,0,2
-Sun_Prairie_115_R3,Pronghorn,0,2
-Sun_Prairie_115_R3,White-tailed deer,0,2
-Sun_Prairie_115_R4,American bison,320.46984723763325,10
-Sun_Prairie_115_R4,Coyote,0,10
-Sun_Prairie_115_R4,Mule deer,0,10
-Sun_Prairie_115_R4,Pronghorn,0,10
-Sun_Prairie_115_R4,White-tailed deer,0,10
-Sun_Prairie_115_R5,American bison,1166.8993996610143,7
-Sun_Prairie_115_R5,Coyote,31.041743970315398,7
-Sun_Prairie_115_R5,Mule deer,118.38485496246575,7
-Sun_Prairie_115_R5,Pronghorn,0,7
-Sun_Prairie_115_R5,White-tailed deer,470.97700525394043,7
-Sun_Prairie_116_R1,American bison,99.39942714112455,12
-Sun_Prairie_116_R1,Coyote,0,12
-Sun_Prairie_116_R1,Mule deer,0,12
-Sun_Prairie_116_R1,Pronghorn,9.428746552252528,12
-Sun_Prairie_116_R1,White-tailed deer,0,12
-Sun_Prairie_116_R2,American bison,706.72017161037,35
-Sun_Prairie_116_R2,Coyote,0,35
-Sun_Prairie_116_R2,Mule deer,0,35
-Sun_Prairie_116_R2,Pronghorn,31.714986209010114,35
-Sun_Prairie_116_R2,White-tailed deer,0,35
-Sun_Prairie_116_R3,American bison,1082.984619698688,30
-Sun_Prairie_116_R3,Coyote,0,30
-Sun_Prairie_116_R3,Mule deer,0,30
-Sun_Prairie_116_R3,Pronghorn,0,30
-Sun_Prairie_116_R3,White-tailed deer,0,30
-Sun_Prairie_116_R4,American bison,499.7803896137569,13
-Sun_Prairie_116_R4,Coyote,0,13
-Sun_Prairie_116_R4,Mule deer,0,13
-Sun_Prairie_116_R4,Pronghorn,0,13
-Sun_Prairie_116_R4,White-tailed deer,0,13
-Sun_Prairie_116_R5,American bison,2752.2352331924762,7
-Sun_Prairie_116_R5,Coyote,0,7
-Sun_Prairie_116_R5,Mule deer,3.6144142167617375,7
-Sun_Prairie_116_R5,Pronghorn,47.863009500459704,7
-Sun_Prairie_116_R5,White-tailed deer,0,7
-Sun_Prairie_117_R1,American bison,171.76923618816608,31
-Sun_Prairie_117_R1,Coyote,8.041743970315398,31
-Sun_Prairie_117_R1,Mule deer,0,31
-Sun_Prairie_117_R1,Pronghorn,1406.5298636635303,31
-Sun_Prairie_117_R1,White-tailed deer,0,31
-Sun_Prairie_117_R2,American bison,0,35
-Sun_Prairie_117_R2,Coyote,0,35
-Sun_Prairie_117_R2,Mule deer,0,35
-Sun_Prairie_117_R2,Pronghorn,808.8110311740588,35
-Sun_Prairie_117_R2,White-tailed deer,0,35
-Sun_Prairie_117_R3,American bison,44.79885428224912,6
-Sun_Prairie_117_R3,Coyote,0,6
-Sun_Prairie_117_R3,Mule deer,0,6
-Sun_Prairie_117_R3,Pronghorn,0,6
-Sun_Prairie_117_R3,White-tailed deer,0,6
-Sun_Prairie_117_R4,American bison,382.11870151988234,32
-Sun_Prairie_117_R4,Coyote,0,32
-Sun_Prairie_117_R4,Mule deer,37.15301951798222,32
-Sun_Prairie_117_R4,Pronghorn,12.428746552252528,32
-Sun_Prairie_117_R4,White-tailed deer,0,32
-Sun_Prairie_117_R5,American bison,323.86946533171624,9
-Sun_Prairie_117_R5,Coyote,0,9
-Sun_Prairie_117_R5,Mule deer,0,9
-Sun_Prairie_117_R5,Pronghorn,0,9
-Sun_Prairie_117_R5,White-tailed deer,0,9
-Sun_Prairie_118_R1,American bison,365.78992361881666,32
-Sun_Prairie_118_R1,Coyote,0,32
-Sun_Prairie_118_R1,Mule deer,94.94720710838087,32
-Sun_Prairie_118_R1,Pronghorn,0,32
-Sun_Prairie_118_R1,White-tailed deer,0,32
-Sun_Prairie_118_R2,American bison,0,1
-Sun_Prairie_118_R2,Coyote,0,1
-Sun_Prairie_118_R2,Mule deer,0,1
-Sun_Prairie_118_R2,Pronghorn,0,1
-Sun_Prairie_118_R2,White-tailed deer,0,1
-Sun_Prairie_118_R3,American bison,10.639847237633216,28
-Sun_Prairie_118_R3,Coyote,131.9834879406308,28
-Sun_Prairie_118_R3,Mule deer,0,28
-Sun_Prairie_118_R3,Pronghorn,0,28
-Sun_Prairie_118_R3,White-tailed deer,0,28
-Sun_Prairie_118_R4,American bison,0,32
-Sun_Prairie_118_R4,Coyote,9.125231910946198,32
-Sun_Prairie_118_R4,Mule deer,0,32
-Sun_Prairie_118_R4,Pronghorn,2.4287465522525284,32
-Sun_Prairie_118_R4,White-tailed deer,0,32
-Sun_Prairie_118_R5,American bison,54.63984723763322,18
-Sun_Prairie_118_R5,Coyote,0,18
-Sun_Prairie_118_R5,Mule deer,0,18
-Sun_Prairie_118_R5,Pronghorn,38.42874655225253,18
-Sun_Prairie_118_R5,White-tailed deer,0,18
-Sun_Prairie_120_R1,American bison,0,31
-Sun_Prairie_120_R1,Coyote,0,31
-Sun_Prairie_120_R1,Mule deer,4.807207108380869,31
-Sun_Prairie_120_R1,Pronghorn,0,31
-Sun_Prairie_120_R1,White-tailed deer,818.377291189546,31
-Sun_Prairie_120_R2,American bison,88.51961809408304,39
-Sun_Prairie_120_R2,Coyote,2.041743970315399,39
-Sun_Prairie_120_R2,Mule deer,155.98053971039928,39
-Sun_Prairie_120_R2,Pronghorn,0,39
-Sun_Prairie_120_R2,White-tailed deer,220.6510716370611,39
-Sun_Prairie_120_R3,American bison,646.9344022148546,26
-Sun_Prairie_120_R3,Coyote,0,26
-Sun_Prairie_120_R3,Mule deer,208.35810662571302,26
-Sun_Prairie_120_R3,Pronghorn,0,26
-Sun_Prairie_120_R3,White-tailed deer,0,26
-Sun_Prairie_120_R4,American bison,26.639847237633212,32
-Sun_Prairie_120_R4,Coyote,0,32
-Sun_Prairie_120_R4,Mule deer,94.35650750480397,32
-Sun_Prairie_120_R4,Pronghorn,0,32
-Sun_Prairie_120_R4,White-tailed deer,157.49562171628722,32
-Sun_Prairie_120_R5,American bison,0,21
-Sun_Prairie_120_R5,Coyote,0,21
-Sun_Prairie_120_R5,Mule deer,119.09426286127773,21
-Sun_Prairie_120_R5,Pronghorn,37.28623965675759,21
-Sun_Prairie_120_R5,White-tailed deer,53.97064414164282,21
-Sun_Prairie_13_R1,American bison,0,25
-Sun_Prairie_13_R1,Coyote,0,25
-Sun_Prairie_13_R1,Mule deer,375.04089951733215,25
-Sun_Prairie_13_R1,Pronghorn,4.4287465522525284,25
-Sun_Prairie_13_R1,White-tailed deer,4.501751313485114,25
-Sun_Prairie_13_R2,American bison,4.639847237633215,35
-Sun_Prairie_13_R2,Coyote,0,35
-Sun_Prairie_13_R2,Mule deer,224.9148639754278,35
-Sun_Prairie_13_R2,Pronghorn,0,35
-Sun_Prairie_13_R2,White-tailed deer,0,35
-Sun_Prairie_13_R3,American bison,0,29
-Sun_Prairie_13_R3,Coyote,5.041743970315399,29
-Sun_Prairie_13_R3,Mule deer,627.8019847855512,29
-Sun_Prairie_13_R3,Pronghorn,0,29
-Sun_Prairie_13_R3,White-tailed deer,0,29
-Sun_Prairie_13_R4,American bison,239.59961809408304,14
-Sun_Prairie_13_R4,Coyote,0,14
-Sun_Prairie_13_R4,Mule deer,40.61441421676173,14
-Sun_Prairie_13_R4,Pronghorn,0,14
-Sun_Prairie_13_R4,White-tailed deer,0,14
-Sun_Prairie_13_R5,American bison,0,20
-Sun_Prairie_13_R5,Coyote,0,20
-Sun_Prairie_13_R5,Mule deer,0,20
-Sun_Prairie_13_R5,Pronghorn,0,20
-Sun_Prairie_13_R5,White-tailed deer,0,20
-Sun_Prairie_14_R1,American bison,121.6398472376332,26
-Sun_Prairie_14_R1,Coyote,0,26
-Sun_Prairie_14_R1,Mule deer,418.0976568670469,26
-Sun_Prairie_14_R1,Pronghorn,0,26
-Sun_Prairie_14_R1,White-tailed deer,0,26
-Sun_Prairie_14_R2,American bison,0,35
-Sun_Prairie_14_R2,Coyote,17.041743970315398,35
-Sun_Prairie_14_R2,Mule deer,93.37882843352348,35
-Sun_Prairie_14_R2,Pronghorn,0,35
-Sun_Prairie_14_R2,White-tailed deer,0,35
-Sun_Prairie_14_R3,American bison,0,29
-Sun_Prairie_14_R3,Coyote,64.0652319109462,29
-Sun_Prairie_14_R3,Mule deer,121.80557163229487,29
-Sun_Prairie_14_R3,Pronghorn,0,29
-Sun_Prairie_14_R3,White-tailed deer,0,29
-Sun_Prairie_14_R4,American bison,14.959770856449822,32
-Sun_Prairie_14_R4,Coyote,5.041743970315399,32
-Sun_Prairie_14_R4,Mule deer,0,32
-Sun_Prairie_14_R4,Pronghorn,0,32
-Sun_Prairie_14_R4,White-tailed deer,0,32
-Sun_Prairie_14_R5,American bison,0,12
-Sun_Prairie_14_R5,Coyote,22.041743970315398,12
-Sun_Prairie_14_R5,Mule deer,0,12
-Sun_Prairie_14_R5,Pronghorn,0,12
-Sun_Prairie_14_R5,White-tailed deer,0,12
-Sun_Prairie_18_R1,American bison,142.99845589477775,26
-Sun_Prairie_18_R1,Coyote,92.58174397031539,26
-Sun_Prairie_18_R1,Mule deer,38.84324265028521,26
-Sun_Prairie_18_R1,Pronghorn,0,26
-Sun_Prairie_18_R1,White-tailed deer,0,26
-Sun_Prairie_18_R2,American bison,398.529392199613,33
-Sun_Prairie_18_R2,Coyote,7.041743970315399,33
-Sun_Prairie_18_R2,Mule deer,18.80720710838087,33
-Sun_Prairie_18_R2,Pronghorn,0,33
-Sun_Prairie_18_R2,White-tailed deer,0,33
-Sun_Prairie_18_R3,American bison,0,29
-Sun_Prairie_18_R3,Coyote,0,29
-Sun_Prairie_18_R3,Mule deer,12.807207108380869,29
-Sun_Prairie_18_R3,Pronghorn,0,29
-Sun_Prairie_18_R3,White-tailed deer,0,29
-Sun_Prairie_18_R4,American bison,0,32
-Sun_Prairie_18_R4,Coyote,0,32
-Sun_Prairie_18_R4,Mule deer,0,32
-Sun_Prairie_18_R4,Pronghorn,0,32
-Sun_Prairie_18_R4,White-tailed deer,0,32
-Sun_Prairie_18_R5,American bison,0,20
-Sun_Prairie_18_R5,Coyote,4.041743970315399,20
-Sun_Prairie_18_R5,Mule deer,0,20
-Sun_Prairie_18_R5,Pronghorn,0,20
-Sun_Prairie_18_R5,White-tailed deer,0,20
-Sun_Prairie_19_R1,American bison,0,8
-Sun_Prairie_19_R1,Coyote,3.041743970315399,8
-Sun_Prairie_19_R1,Mule deer,0,8
-Sun_Prairie_19_R1,Pronghorn,0,8
-Sun_Prairie_19_R1,White-tailed deer,0,8
-Sun_Prairie_19_R2,American bison,0,32
-Sun_Prairie_19_R2,Coyote,367.6674693877551,32
-Sun_Prairie_19_R2,Mule deer,149.4488284335235,32
-Sun_Prairie_19_R2,Pronghorn,0,32
-Sun_Prairie_19_R2,White-tailed deer,0,32
-Sun_Prairie_19_R3,American bison,297.429618094083,29
-Sun_Prairie_19_R3,Coyote,34.208719851576994,29
-Sun_Prairie_19_R3,Mule deer,0,29
-Sun_Prairie_19_R3,Pronghorn,0,29
-Sun_Prairie_19_R3,White-tailed deer,0,29
-Sun_Prairie_19_R4,American bison,0,0
-Sun_Prairie_19_R4,Coyote,0,0
-Sun_Prairie_19_R4,Mule deer,0,0
-Sun_Prairie_19_R4,Pronghorn,0,0
-Sun_Prairie_19_R4,White-tailed deer,0,0
-Sun_Prairie_19_R5,American bison,0,20
-Sun_Prairie_19_R5,Coyote,0,20
-Sun_Prairie_19_R5,Mule deer,0,20
-Sun_Prairie_19_R5,Pronghorn,0,20
-Sun_Prairie_19_R5,White-tailed deer,0,20
-Sun_Prairie_23_R1,American bison,11.599618094083038,26
-Sun_Prairie_23_R1,Coyote,0,26
-Sun_Prairie_23_R1,Mule deer,23.80720710838087,26
-Sun_Prairie_23_R1,Pronghorn,6.4287465522525284,26
-Sun_Prairie_23_R1,White-tailed deer,0,26
-Sun_Prairie_23_R2,American bison,3032.8685512659636,23
-Sun_Prairie_23_R2,Coyote,0,23
-Sun_Prairie_23_R2,Mule deer,32.61441421676174,23
-Sun_Prairie_23_R2,Pronghorn,0,23
-Sun_Prairie_23_R2,White-tailed deer,0,23
-Sun_Prairie_23_R3,American bison,2.3199236188166075,6
-Sun_Prairie_23_R3,Coyote,0,6
-Sun_Prairie_23_R3,Mule deer,0,6
-Sun_Prairie_23_R3,Pronghorn,0,6
-Sun_Prairie_23_R3,White-tailed deer,0,6
-Sun_Prairie_23_R4,American bison,0,8
-Sun_Prairie_23_R4,Coyote,0,8
-Sun_Prairie_23_R4,Mule deer,0,8
-Sun_Prairie_23_R4,Pronghorn,0,8
-Sun_Prairie_23_R4,White-tailed deer,0,8
-Sun_Prairie_23_R5,American bison,0,20
-Sun_Prairie_23_R5,Coyote,0,20
-Sun_Prairie_23_R5,Mule deer,0,20
-Sun_Prairie_23_R5,Pronghorn,0,20
-Sun_Prairie_23_R5,White-tailed deer,0,20
-Sun_Prairie_24_R1,American bison,180.47735689727247,15
-Sun_Prairie_24_R1,Coyote,0,15
-Sun_Prairie_24_R1,Mule deer,465.72682616093516,15
-Sun_Prairie_24_R1,Pronghorn,0,15
-Sun_Prairie_24_R1,White-tailed deer,0,15
-Sun_Prairie_24_R2,American bison,33.31992361881661,22
-Sun_Prairie_24_R2,Coyote,2.041743970315399,22
-Sun_Prairie_24_R2,Mule deer,0,22
-Sun_Prairie_24_R2,Pronghorn,0,22
-Sun_Prairie_24_R2,White-tailed deer,0,22
-Sun_Prairie_24_R3,American bison,3.3199236188166075,29
-Sun_Prairie_24_R3,Coyote,0,29
-Sun_Prairie_24_R3,Mule deer,0,29
-Sun_Prairie_24_R3,Pronghorn,0,29
-Sun_Prairie_24_R3,White-tailed deer,0,29
-Sun_Prairie_24_R4,American bison,6.639847237633216,32
-Sun_Prairie_24_R4,Coyote,0,32
-Sun_Prairie_24_R4,Mule deer,0,32
-Sun_Prairie_24_R4,Pronghorn,0,32
-Sun_Prairie_24_R4,White-tailed deer,0,32
-Sun_Prairie_24_R5,American bison,829.7489688540242,19
-Sun_Prairie_24_R5,Coyote,0,19
-Sun_Prairie_24_R5,Mule deer,0,19
-Sun_Prairie_24_R5,Pronghorn,0,19
-Sun_Prairie_24_R5,White-tailed deer,0,19
-Sun_Prairie_25_R1,American bison,65.95977085644982,15
-Sun_Prairie_25_R1,Coyote,0,15
-Sun_Prairie_25_R1,Mule deer,2300.826032188293,15
-Sun_Prairie_25_R1,Pronghorn,0,15
-Sun_Prairie_25_R1,White-tailed deer,0,15
-Sun_Prairie_25_R3,American bison,0,29
-Sun_Prairie_25_R3,Coyote,0,29
-Sun_Prairie_25_R3,Mule deer,251.80997967428084,29
-Sun_Prairie_25_R3,Pronghorn,0,29
-Sun_Prairie_25_R3,White-tailed deer,0,29
-Sun_Prairie_25_R4,American bison,0,20
-Sun_Prairie_25_R4,Coyote,104.1252319109462,20
-Sun_Prairie_25_R4,Mule deer,0,20
-Sun_Prairie_25_R4,Pronghorn,0,20
-Sun_Prairie_25_R4,White-tailed deer,0,20
-Sun_Prairie_25_R5,American bison,0,20
-Sun_Prairie_25_R5,Coyote,0,20
-Sun_Prairie_25_R5,Mule deer,29.80720710838087,20
-Sun_Prairie_25_R5,Pronghorn,0,20
-Sun_Prairie_25_R5,White-tailed deer,0,20
-Sun_Prairie_26_R1,American bison,84.87740303976466,21
-Sun_Prairie_26_R1,Coyote,0,21
-Sun_Prairie_26_R1,Mule deer,30.72252084247477,21
-Sun_Prairie_26_R1,Pronghorn,0,21
-Sun_Prairie_26_R1,White-tailed deer,0,21
-Sun_Prairie_26_R2,American bison,44.399847237633224,7
-Sun_Prairie_26_R2,Coyote,0,7
-Sun_Prairie_26_R2,Mule deer,0,7
-Sun_Prairie_26_R2,Pronghorn,0,7
-Sun_Prairie_26_R2,White-tailed deer,0,7
-Sun_Prairie_26_R3,American bison,47.95977085644982,29
-Sun_Prairie_26_R3,Coyote,4.041743970315399,29
-Sun_Prairie_26_R3,Mule deer,12.421621325142606,29
-Sun_Prairie_26_R3,Pronghorn,0,29
-Sun_Prairie_26_R3,White-tailed deer,0,29
-Sun_Prairie_26_R4,American bison,0,1
-Sun_Prairie_26_R4,Coyote,17.041743970315398,1
-Sun_Prairie_26_R4,Mule deer,0,1
-Sun_Prairie_26_R4,Pronghorn,0,1
-Sun_Prairie_26_R4,White-tailed deer,0,1
-Sun_Prairie_26_R5,American bison,13.639847237633216,20
-Sun_Prairie_26_R5,Coyote,0,20
-Sun_Prairie_26_R5,Mule deer,33.72920804369414,20
-Sun_Prairie_26_R5,Pronghorn,0,20
-Sun_Prairie_26_R5,White-tailed deer,0,20
-Sun_Prairie_27_R1,American bison,576.2093889505329,29
-Sun_Prairie_27_R1,Coyote,0,29
-Sun_Prairie_27_R1,Mule deer,0,29
-Sun_Prairie_27_R1,Pronghorn,0,29
-Sun_Prairie_27_R1,White-tailed deer,0,29
-Sun_Prairie_27_R2,American bison,6.959770856449822,36
-Sun_Prairie_27_R2,Coyote,0,36
-Sun_Prairie_27_R2,Mule deer,0,36
-Sun_Prairie_27_R2,Pronghorn,0,36
-Sun_Prairie_27_R2,White-tailed deer,0,36
-Sun_Prairie_27_R3,American bison,73.43870151988233,27
-Sun_Prairie_27_R3,Coyote,0,27
-Sun_Prairie_27_R3,Mule deer,0,27
-Sun_Prairie_27_R3,Pronghorn,0,27
-Sun_Prairie_27_R3,White-tailed deer,0,27
-Sun_Prairie_27_R4,American bison,1071.943807189121,32
-Sun_Prairie_27_R4,Coyote,0,32
-Sun_Prairie_27_R4,Mule deer,206.12753680421747,32
-Sun_Prairie_27_R4,Pronghorn,0,32
-Sun_Prairie_27_R4,White-tailed deer,0,32
-Sun_Prairie_27_R5,American bison,198.67434779242896,21
-Sun_Prairie_27_R5,Coyote,0,21
-Sun_Prairie_27_R5,Mule deer,287.175671347082,21
-Sun_Prairie_27_R5,Pronghorn,0,21
-Sun_Prairie_27_R5,White-tailed deer,0,21
-Sun_Prairie_28_R1,American bison,165.80931256934946,31
-Sun_Prairie_28_R1,Coyote,0,31
-Sun_Prairie_28_R1,Mule deer,0,31
-Sun_Prairie_28_R1,Pronghorn,46.34874655225253,31
-Sun_Prairie_28_R1,White-tailed deer,0,31
-Sun_Prairie_28_R2,American bison,19.639847237633216,26
-Sun_Prairie_28_R2,Coyote,0,26
-Sun_Prairie_28_R2,Mule deer,0,26
-Sun_Prairie_28_R2,Pronghorn,0,26
-Sun_Prairie_28_R2,White-tailed deer,0,26
-Sun_Prairie_28_R3,American bison,0,12
-Sun_Prairie_28_R3,Coyote,0,12
-Sun_Prairie_28_R3,Mule deer,0,12
-Sun_Prairie_28_R3,Pronghorn,0,12
-Sun_Prairie_28_R3,White-tailed deer,0,12
-Sun_Prairie_28_R4,American bison,238.86088772012957,28
-Sun_Prairie_28_R4,Coyote,0,28
-Sun_Prairie_28_R4,Mule deer,204.35603554190436,28
-Sun_Prairie_28_R4,Pronghorn,0,28
-Sun_Prairie_28_R4,White-tailed deer,0,28
-Sun_Prairie_28_R5,American bison,90.61961809408305,14
-Sun_Prairie_28_R5,Coyote,0,14
-Sun_Prairie_28_R5,Mule deer,175.03927819218956,14
-Sun_Prairie_28_R5,Pronghorn,0,14
-Sun_Prairie_28_R5,White-tailed deer,0,14
-Sun_Prairie_30_R1,American bison,2.3199236188166075,25
-Sun_Prairie_30_R1,Coyote,0,25
-Sun_Prairie_30_R1,Mule deer,185.85255183194383,25
-Sun_Prairie_30_R1,Pronghorn,0,25
-Sun_Prairie_30_R1,White-tailed deer,0,25
-Sun_Prairie_30_R2,American bison,0,15
-Sun_Prairie_30_R2,Coyote,10.083487940630798,15
-Sun_Prairie_30_R2,Mule deer,75.03603554190434,15
-Sun_Prairie_30_R2,Pronghorn,0,15
-Sun_Prairie_30_R2,White-tailed deer,0,15
-Sun_Prairie_30_R3,American bison,26.59961809408304,29
-Sun_Prairie_30_R3,Coyote,30.083487940630796,29
-Sun_Prairie_30_R3,Mule deer,0,29
-Sun_Prairie_30_R3,Pronghorn,0,29
-Sun_Prairie_30_R3,White-tailed deer,0,29
-Sun_Prairie_30_R4,American bison,0,32
-Sun_Prairie_30_R4,Coyote,38.42697588126159,32
-Sun_Prairie_30_R4,Mule deer,51.79069036126957,32
-Sun_Prairie_30_R4,Pronghorn,0,32
-Sun_Prairie_30_R4,White-tailed deer,0,32
-Sun_Prairie_30_R5,American bison,0,20
-Sun_Prairie_30_R5,Coyote,0,20
-Sun_Prairie_30_R5,Mule deer,0,20
-Sun_Prairie_30_R5,Pronghorn,0,20
-Sun_Prairie_30_R5,White-tailed deer,0,20
-Sun_Prairie_31_R1,American bison,0,26
-Sun_Prairie_31_R1,Coyote,0,26
-Sun_Prairie_31_R1,Mule deer,0,26
-Sun_Prairie_31_R1,Pronghorn,1.4287465522525284,26
-Sun_Prairie_31_R1,White-tailed deer,0,26
-Sun_Prairie_31_R2,American bison,310.2145097085862,19
-Sun_Prairie_31_R2,Coyote,7.041743970315399,19
-Sun_Prairie_31_R2,Mule deer,0,19
-Sun_Prairie_31_R2,Pronghorn,77.50874655225253,19
-Sun_Prairie_31_R2,White-tailed deer,0,19
-Sun_Prairie_31_R3,American bison,56.83586594784722,29
-Sun_Prairie_31_R3,Coyote,0,29
-Sun_Prairie_31_R3,Mule deer,0,29
-Sun_Prairie_31_R3,Pronghorn,0,29
-Sun_Prairie_31_R3,White-tailed deer,0,29
-Sun_Prairie_31_R4,American bison,0,32
-Sun_Prairie_31_R4,Coyote,0,32
-Sun_Prairie_31_R4,Mule deer,0,32
-Sun_Prairie_31_R4,Pronghorn,0,32
-Sun_Prairie_31_R4,White-tailed deer,0,32
-Sun_Prairie_31_R5,American bison,0,20
-Sun_Prairie_31_R5,Coyote,0,20
-Sun_Prairie_31_R5,Mule deer,0,20
-Sun_Prairie_31_R5,Pronghorn,0,20
-Sun_Prairie_31_R5,White-tailed deer,0,20
-Sun_Prairie_32_R1,American bison,4287.841211673935,2
-Sun_Prairie_32_R1,Coyote,0,2
-Sun_Prairie_32_R1,Mule deer,0,2
-Sun_Prairie_32_R1,Pronghorn,0,2
-Sun_Prairie_32_R1,White-tailed deer,0,2
-Sun_Prairie_32_R2,American bison,88.06968492761851,11
-Sun_Prairie_32_R2,Coyote,0,11
-Sun_Prairie_32_R2,Mule deer,42.63720710838086,11
-Sun_Prairie_32_R2,Pronghorn,4.4287465522525284,11
-Sun_Prairie_32_R2,White-tailed deer,0,11
-Sun_Prairie_32_R3,American bison,0,0
-Sun_Prairie_32_R3,Coyote,0,0
-Sun_Prairie_32_R3,Mule deer,0,0
-Sun_Prairie_32_R3,Pronghorn,0,0
-Sun_Prairie_32_R3,White-tailed deer,0,0
-Sun_Prairie_32_R4,American bison,0,13
-Sun_Prairie_32_R4,Coyote,0,13
-Sun_Prairie_32_R4,Mule deer,2.8072071083808687,13
-Sun_Prairie_32_R4,Pronghorn,0,13
-Sun_Prairie_32_R4,White-tailed deer,0,13
-Sun_Prairie_32_R5,American bison,0,1
-Sun_Prairie_32_R5,Coyote,0,1
-Sun_Prairie_32_R5,Mule deer,0,1
-Sun_Prairie_32_R5,Pronghorn,0,1
-Sun_Prairie_32_R5,White-tailed deer,0,1
-Sun_Prairie_33_R1,American bison,459.143843413972,22
-Sun_Prairie_33_R1,Coyote,19.208719851576994,22
-Sun_Prairie_33_R1,Mule deer,984.5536353038435,22
-Sun_Prairie_33_R1,Pronghorn,0,22
-Sun_Prairie_33_R1,White-tailed deer,0,22
-Sun_Prairie_33_R2,American bison,0,11
-Sun_Prairie_33_R2,Coyote,0,11
-Sun_Prairie_33_R2,Mule deer,9.807207108380869,11
-Sun_Prairie_33_R2,Pronghorn,0,11
-Sun_Prairie_33_R2,White-tailed deer,0,11
-Sun_Prairie_33_R3,American bison,26.879312569349466,29
-Sun_Prairie_33_R3,Coyote,0,29
-Sun_Prairie_33_R3,Mule deer,15.421621325142606,29
-Sun_Prairie_33_R3,Pronghorn,0,29
-Sun_Prairie_33_R3,White-tailed deer,0,29
-Sun_Prairie_33_R4,American bison,54.95992361881661,32
-Sun_Prairie_33_R4,Coyote,0,32
-Sun_Prairie_33_R4,Mule deer,0,32
-Sun_Prairie_33_R4,Pronghorn,0,32
-Sun_Prairie_33_R4,White-tailed deer,0,32
-Sun_Prairie_33_R5,American bison,28.319923618816606,20
-Sun_Prairie_33_R5,Coyote,0,20
-Sun_Prairie_33_R5,Mule deer,48.61441421676174,20
-Sun_Prairie_33_R5,Pronghorn,0,20
-Sun_Prairie_33_R5,White-tailed deer,0,20
-Sun_Prairie_34_R1,American bison,527.3794653317162,26
-Sun_Prairie_34_R1,Coyote,14.166975881261596,26
-Sun_Prairie_34_R1,Mule deer,749.2394175331898,26
-Sun_Prairie_34_R1,Pronghorn,30.286239656757587,26
-Sun_Prairie_34_R1,White-tailed deer,0,26
-Sun_Prairie_34_R2,American bison,293.75931256934945,34
-Sun_Prairie_34_R2,Coyote,15.166975881261596,34
-Sun_Prairie_34_R2,Mule deer,1014.6995826261656,34
-Sun_Prairie_34_R2,Pronghorn,0,34
-Sun_Prairie_34_R2,White-tailed deer,0,34
-Sun_Prairie_34_R3,American bison,368.46938895053285,29
-Sun_Prairie_34_R3,Coyote,0,29
-Sun_Prairie_34_R3,Mule deer,392.01720198017017,29
-Sun_Prairie_34_R3,Pronghorn,0,29
-Sun_Prairie_34_R3,White-tailed deer,0,29
-Sun_Prairie_34_R4,American bison,3.3199236188166075,32
-Sun_Prairie_34_R4,Coyote,0,32
-Sun_Prairie_34_R4,Mule deer,97.69882843352349,32
-Sun_Prairie_34_R4,Pronghorn,0,32
-Sun_Prairie_34_R4,White-tailed deer,0,32
-Sun_Prairie_34_R5,American bison,13.639847237633216,20
-Sun_Prairie_34_R5,Coyote,0,20
-Sun_Prairie_34_R5,Mule deer,116.10603554190433,20
-Sun_Prairie_34_R5,Pronghorn,0,20
-Sun_Prairie_34_R5,White-tailed deer,0,20
-Sun_Prairie_38_R1,American bison,0,28
-Sun_Prairie_38_R1,Coyote,0,28
-Sun_Prairie_38_R1,Mule deer,0,28
-Sun_Prairie_38_R1,Pronghorn,0,28
-Sun_Prairie_38_R1,White-tailed deer,1.750875656742557,28
-Sun_Prairie_38_R2,American bison,47.919541712899644,36
-Sun_Prairie_38_R2,Coyote,13.041743970315398,36
-Sun_Prairie_38_R2,Mule deer,61.71441421676174,36
-Sun_Prairie_38_R2,Pronghorn,0,36
-Sun_Prairie_38_R2,White-tailed deer,6.501751313485114,36
-Sun_Prairie_38_R3,American bison,7.639847237633216,27
-Sun_Prairie_38_R3,Coyote,0,27
-Sun_Prairie_38_R3,Mule deer,1124.5759473347098,27
-Sun_Prairie_38_R3,Pronghorn,0,27
-Sun_Prairie_38_R3,White-tailed deer,0,27
-Sun_Prairie_38_R4,American bison,284.9070593244394,33
-Sun_Prairie_38_R4,Coyote,0,33
-Sun_Prairie_38_R4,Mule deer,415.6957063875133,33
-Sun_Prairie_38_R4,Pronghorn,0,33
-Sun_Prairie_38_R4,White-tailed deer,0,33
-Sun_Prairie_38_R5,American bison,448.69717389621445,20
-Sun_Prairie_38_R5,Coyote,0,20
-Sun_Prairie_38_R5,Mule deer,367.47825294545925,20
-Sun_Prairie_38_R5,Pronghorn,0,20
-Sun_Prairie_38_R5,White-tailed deer,0,20
-Sun_Prairie_39_R1,American bison,0,23
-Sun_Prairie_39_R1,Coyote,4.041743970315399,23
-Sun_Prairie_39_R1,Mule deer,1311.9121610355419,23
-Sun_Prairie_39_R1,Pronghorn,0,23
-Sun_Prairie_39_R1,White-tailed deer,0,23
-Sun_Prairie_39_R2,American bison,0,38
-Sun_Prairie_39_R2,Coyote,13.083487940630796,38
-Sun_Prairie_39_R2,Mule deer,401.6256156858921,38
-Sun_Prairie_39_R2,Pronghorn,0,38
-Sun_Prairie_39_R2,White-tailed deer,0,38
-Sun_Prairie_39_R4,American bison,0,36
-Sun_Prairie_39_R4,Coyote,4.041743970315399,36
-Sun_Prairie_39_R4,Mule deer,70.81306274681879,36
-Sun_Prairie_39_R4,Pronghorn,0,36
-Sun_Prairie_39_R4,White-tailed deer,0,36
-Sun_Prairie_39_R5,American bison,0,18
-Sun_Prairie_39_R5,Coyote,0,18
-Sun_Prairie_39_R5,Mule deer,59.4216213251426,18
-Sun_Prairie_39_R5,Pronghorn,0,18
-Sun_Prairie_39_R5,White-tailed deer,0,18
-Sun_Prairie_45_R1,American bison,50.96992361881661,10
-Sun_Prairie_45_R1,Coyote,0,10
-Sun_Prairie_45_R1,Mule deer,0,10
-Sun_Prairie_45_R1,Pronghorn,0,10
-Sun_Prairie_45_R1,White-tailed deer,0,10
-Sun_Prairie_45_R2,American bison,19.319923618816606,36
-Sun_Prairie_45_R2,Coyote,19.041743970315398,36
-Sun_Prairie_45_R2,Mule deer,0,36
-Sun_Prairie_45_R2,Pronghorn,7.286239656757585,36
-Sun_Prairie_45_R2,White-tailed deer,0,36
-Sun_Prairie_45_R3,American bison,174.41969447526643,27
-Sun_Prairie_45_R3,Coyote,0,27
-Sun_Prairie_45_R3,Mule deer,20.80720710838087,27
-Sun_Prairie_45_R3,Pronghorn,1.4287465522525284,27
-Sun_Prairie_45_R3,White-tailed deer,0,27
-Sun_Prairie_45_R4,American bison,26.27969447526643,30
-Sun_Prairie_45_R4,Coyote,0,30
-Sun_Prairie_45_R4,Mule deer,15.228828433523475,30
-Sun_Prairie_45_R4,Pronghorn,0,30
-Sun_Prairie_45_R4,White-tailed deer,0,30
-Sun_Prairie_45_R5,American bison,155.9598472376332,20
-Sun_Prairie_45_R5,Coyote,0,20
-Sun_Prairie_45_R5,Mule deer,8.807207108380869,20
-Sun_Prairie_45_R5,Pronghorn,0,20
-Sun_Prairie_45_R5,White-tailed deer,0,20
-Sun_Prairie_46_R1,American bison,53.14992361881661,12
-Sun_Prairie_46_R1,Coyote,0,12
-Sun_Prairie_46_R1,Mule deer,0,12
-Sun_Prairie_46_R1,Pronghorn,0,12
-Sun_Prairie_46_R1,White-tailed deer,0,12
-Sun_Prairie_46_R2,American bison,8.319923618816608,36
-Sun_Prairie_46_R2,Coyote,0,36
-Sun_Prairie_46_R2,Mule deer,0,36
-Sun_Prairie_46_R2,Pronghorn,1.4287465522525284,36
-Sun_Prairie_46_R2,White-tailed deer,0,36
-Sun_Prairie_46_R3,American bison,27.959770856449822,20
-Sun_Prairie_46_R3,Coyote,0,20
-Sun_Prairie_46_R3,Mule deer,0,20
-Sun_Prairie_46_R3,Pronghorn,0,20
-Sun_Prairie_46_R3,White-tailed deer,0,20
-Sun_Prairie_46_R4,American bison,4.639847237633215,25
-Sun_Prairie_46_R4,Coyote,0,25
-Sun_Prairie_46_R4,Mule deer,0,25
-Sun_Prairie_46_R4,Pronghorn,0,25
-Sun_Prairie_46_R4,White-tailed deer,0,25
-Sun_Prairie_46_R5,American bison,69.69828142337367,21
-Sun_Prairie_46_R5,Coyote,0,21
-Sun_Prairie_46_R5,Mule deer,24.80720710838087,21
-Sun_Prairie_46_R5,Pronghorn,13.429972418020228,21
-Sun_Prairie_46_R5,White-tailed deer,0,21
-Sun_Prairie_47_R1,American bison,440.23852934927686,26
-Sun_Prairie_47_R1,Coyote,47.37569573283859,26
-Sun_Prairie_47_R1,Mule deer,0,26
-Sun_Prairie_47_R1,Pronghorn,0,26
-Sun_Prairie_47_R1,White-tailed deer,0,26
-Sun_Prairie_47_R2,American bison,1164.1363914371223,23
-Sun_Prairie_47_R2,Coyote,51.22541743970315,23
-Sun_Prairie_47_R2,Mule deer,60.03603554190434,23
-Sun_Prairie_47_R2,Pronghorn,5.4287465522525284,23
-Sun_Prairie_47_R2,White-tailed deer,0,23
-Sun_Prairie_47_R3,American bison,569.3418876554819,29
-Sun_Prairie_47_R3,Coyote,0,29
-Sun_Prairie_47_R3,Mule deer,53.228828433523475,29
-Sun_Prairie_47_R3,Pronghorn,0,29
-Sun_Prairie_47_R3,White-tailed deer,0,29
-Sun_Prairie_47_R4,American bison,155.19923618816608,32
-Sun_Prairie_47_R4,Coyote,2.041743970315399,32
-Sun_Prairie_47_R4,Mule deer,87.00603554190434,32
-Sun_Prairie_47_R4,Pronghorn,0,32
-Sun_Prairie_47_R4,White-tailed deer,0,32
-Sun_Prairie_47_R5,American bison,1048.3450238670218,14
-Sun_Prairie_47_R5,Coyote,0,14
-Sun_Prairie_47_R5,Mule deer,21.421621325142606,14
-Sun_Prairie_47_R5,Pronghorn,0,14
-Sun_Prairie_47_R5,White-tailed deer,0,14
-Sun_Prairie_48_R1,American bison,488.14973997019626,1
-Sun_Prairie_48_R1,Coyote,0,1
-Sun_Prairie_48_R1,Mule deer,0,1
-Sun_Prairie_48_R1,Pronghorn,0,1
-Sun_Prairie_48_R1,White-tailed deer,0,1
-Sun_Prairie_48_R2,American bison,504.58969447526647,24
-Sun_Prairie_48_R2,Coyote,0,24
-Sun_Prairie_48_R2,Mule deer,0,24
-Sun_Prairie_48_R2,Pronghorn,6.4287465522525284,24
-Sun_Prairie_48_R2,White-tailed deer,0,24
-Sun_Prairie_48_R3,American bison,5434.003094538795,29
-Sun_Prairie_48_R3,Coyote,48.1052319109462,29
-Sun_Prairie_48_R3,Mule deer,0,29
-Sun_Prairie_48_R3,Pronghorn,0,29
-Sun_Prairie_48_R3,White-tailed deer,0,29
-Sun_Prairie_48_R4,American bison,871.7376624737738,23
-Sun_Prairie_48_R4,Coyote,42.375695732838594,23
-Sun_Prairie_48_R4,Mule deer,26.330089951733214,23
-Sun_Prairie_48_R4,Pronghorn,0,23
-Sun_Prairie_48_R4,White-tailed deer,0,23
-Sun_Prairie_48_R5,American bison,995.4631483195,13
-Sun_Prairie_48_R5,Coyote,0,13
-Sun_Prairie_48_R5,Mule deer,0,13
-Sun_Prairie_48_R5,Pronghorn,0,13
-Sun_Prairie_48_R5,White-tailed deer,0,13
-Sun_Prairie_49_R1,American bison,1085.4883824362216,13
-Sun_Prairie_49_R1,Coyote,24.083487940630796,13
-Sun_Prairie_49_R1,Mule deer,0,13
-Sun_Prairie_49_R1,Pronghorn,14.286239656757585,13
-Sun_Prairie_49_R1,White-tailed deer,0,13
-Sun_Prairie_49_R2,American bison,162.1031311395926,10
-Sun_Prairie_49_R2,Coyote,19.250463821892392,10
-Sun_Prairie_49_R2,Mule deer,0,10
-Sun_Prairie_49_R2,Pronghorn,10.857493104505057,10
-Sun_Prairie_49_R2,White-tailed deer,0,10
-Sun_Prairie_49_R3,American bison,5305.897976927078,29
-Sun_Prairie_49_R3,Coyote,0,29
-Sun_Prairie_49_R3,Mule deer,16.614414216761737,29
-Sun_Prairie_49_R3,Pronghorn,7.4287465522525284,29
-Sun_Prairie_49_R3,White-tailed deer,0,29
-Sun_Prairie_49_R4,American bison,5119.5810288241255,32
-Sun_Prairie_49_R4,Coyote,40.083487940630796,32
-Sun_Prairie_49_R4,Mule deer,0,32
-Sun_Prairie_49_R4,Pronghorn,2.4287465522525284,32
-Sun_Prairie_49_R4,White-tailed deer,0,32
-Sun_Prairie_49_R5,American bison,329.839618094083,16
-Sun_Prairie_49_R5,Coyote,0,16
-Sun_Prairie_49_R5,Mule deer,60.61441421676173,16
-Sun_Prairie_49_R5,Pronghorn,0,16
-Sun_Prairie_49_R5,White-tailed deer,0,16
-Sun_Prairie_50_R1,American bison,261.35992361881665,0
-Sun_Prairie_50_R1,Coyote,0,0
-Sun_Prairie_50_R1,Mule deer,0,0
-Sun_Prairie_50_R1,Pronghorn,0,0
-Sun_Prairie_50_R1,White-tailed deer,0,0
-Sun_Prairie_50_R2,American bison,0,7
-Sun_Prairie_50_R2,Coyote,0,7
-Sun_Prairie_50_R2,Mule deer,0,7
-Sun_Prairie_50_R2,Pronghorn,0,7
-Sun_Prairie_50_R2,White-tailed deer,0,7
-Sun_Prairie_50_R3,American bison,4.639847237633215,29
-Sun_Prairie_50_R3,Coyote,0,29
-Sun_Prairie_50_R3,Mule deer,21.80720710838087,29
-Sun_Prairie_50_R3,Pronghorn,0,29
-Sun_Prairie_50_R3,White-tailed deer,0,29
-Sun_Prairie_50_R4,American bison,6.639847237633215,32
-Sun_Prairie_50_R4,Coyote,0,32
-Sun_Prairie_50_R4,Mule deer,13.807207108380869,32
-Sun_Prairie_50_R4,Pronghorn,0,32
-Sun_Prairie_50_R4,White-tailed deer,0,32
-Sun_Prairie_50_R5,American bison,213.7397708564498,16
-Sun_Prairie_50_R5,Coyote,0,16
-Sun_Prairie_50_R5,Mule deer,4.807207108380869,16
-Sun_Prairie_50_R5,Pronghorn,0,16
-Sun_Prairie_50_R5,White-tailed deer,0,16
-Sun_Prairie_52_R1,American bison,0,10
-Sun_Prairie_52_R1,Coyote,0,10
-Sun_Prairie_52_R1,Mule deer,50.61441421676173,10
-Sun_Prairie_52_R1,Pronghorn,0,10
-Sun_Prairie_52_R1,White-tailed deer,0,10
-Sun_Prairie_52_R2,American bison,0,35
-Sun_Prairie_52_R2,Coyote,0,35
-Sun_Prairie_52_R2,Mule deer,148.13603554190433,35
-Sun_Prairie_52_R2,Pronghorn,0,35
-Sun_Prairie_52_R2,White-tailed deer,12.750875656742558,35
-Sun_Prairie_52_R3,American bison,0,24
-Sun_Prairie_52_R3,Coyote,0,24
-Sun_Prairie_52_R3,Mule deer,79.05882843352347,24
-Sun_Prairie_52_R3,Pronghorn,0,24
-Sun_Prairie_52_R3,White-tailed deer,0,24
-Sun_Prairie_52_R4,American bison,15.639847237633216,34
-Sun_Prairie_52_R4,Coyote,0,34
-Sun_Prairie_52_R4,Mule deer,0,34
-Sun_Prairie_52_R4,Pronghorn,0,34
-Sun_Prairie_52_R4,White-tailed deer,0,34
-Sun_Prairie_52_R5,American bison,0,19
-Sun_Prairie_52_R5,Coyote,0,19
-Sun_Prairie_52_R5,Mule deer,0,19
-Sun_Prairie_52_R5,Pronghorn,0,19
-Sun_Prairie_52_R5,White-tailed deer,0,19
-Sun_Prairie_53_R1,American bison,8.319923618816608,28
-Sun_Prairie_53_R1,Coyote,2.041743970315399,28
-Sun_Prairie_53_R1,Mule deer,469.5653137340939,28
-Sun_Prairie_53_R1,Pronghorn,51.48623965675758,28
-Sun_Prairie_53_R1,White-tailed deer,0,28
-Sun_Prairie_53_R2,American bison,0,0
-Sun_Prairie_53_R2,Coyote,0,0
-Sun_Prairie_53_R2,Mule deer,0,0
-Sun_Prairie_53_R2,Pronghorn,0,0
-Sun_Prairie_53_R2,White-tailed deer,0,0
-Sun_Prairie_53_R3,American bison,7.959770856449822,14
-Sun_Prairie_53_R3,Coyote,0,14
-Sun_Prairie_53_R3,Mule deer,115.9816213251426,14
-Sun_Prairie_53_R3,Pronghorn,0,14
-Sun_Prairie_53_R3,White-tailed deer,0,14
-Sun_Prairie_53_R4,American bison,597.9405009429845,28
-Sun_Prairie_53_R4,Coyote,75.20174397031539,28
-Sun_Prairie_53_R4,Mule deer,0,28
-Sun_Prairie_53_R4,Pronghorn,149.16225831715872,28
-Sun_Prairie_53_R4,White-tailed deer,0,28
-Sun_Prairie_53_R5,American bison,17.27969447526643,19
-Sun_Prairie_53_R5,Coyote,0,19
-Sun_Prairie_53_R5,Mule deer,0,19
-Sun_Prairie_53_R5,Pronghorn,0,19
-Sun_Prairie_53_R5,White-tailed deer,0,19
-Sun_Prairie_54_R1,American bison,3564.5552622848413,22
-Sun_Prairie_54_R1,Coyote,10.083487940630798,22
-Sun_Prairie_54_R1,Mule deer,0,22
-Sun_Prairie_54_R1,Pronghorn,0,22
-Sun_Prairie_54_R1,White-tailed deer,0,22
-Sun_Prairie_54_R2,American bison,2.3199236188166075,35
-Sun_Prairie_54_R2,Coyote,8.041743970315398,35
-Sun_Prairie_54_R2,Mule deer,0,35
-Sun_Prairie_54_R2,Pronghorn,0,35
-Sun_Prairie_54_R2,White-tailed deer,0,35
-Sun_Prairie_54_R3,American bison,13.319923618816608,26
-Sun_Prairie_54_R3,Coyote,0,26
-Sun_Prairie_54_R3,Mule deer,64.94720710838087,26
-Sun_Prairie_54_R3,Pronghorn,0,26
-Sun_Prairie_54_R3,White-tailed deer,0,26
-Sun_Prairie_54_R4,American bison,18.319923618816606,13
-Sun_Prairie_54_R4,Coyote,0,13
-Sun_Prairie_54_R4,Mule deer,0,13
-Sun_Prairie_54_R4,Pronghorn,0,13
-Sun_Prairie_54_R4,White-tailed deer,0,13
-Sun_Prairie_54_R5,American bison,258.59267291875955,19
-Sun_Prairie_54_R5,Coyote,4.041743970315399,19
-Sun_Prairie_54_R5,Mule deer,1.8072071083808687,19
-Sun_Prairie_54_R5,Pronghorn,12.143732761262642,19
-Sun_Prairie_54_R5,White-tailed deer,0,19
-Sun_Prairie_55_R1,American bison,0,6
-Sun_Prairie_55_R1,Coyote,0,6
-Sun_Prairie_55_R1,Mule deer,0,6
-Sun_Prairie_55_R1,Pronghorn,0,6
-Sun_Prairie_55_R1,White-tailed deer,0,6
-Sun_Prairie_55_R2,American bison,0,5
-Sun_Prairie_55_R2,Coyote,0,5
-Sun_Prairie_55_R2,Mule deer,0,5
-Sun_Prairie_55_R2,Pronghorn,0,5
-Sun_Prairie_55_R2,White-tailed deer,0,5
-Sun_Prairie_55_R3,American bison,0,6
-Sun_Prairie_55_R3,Coyote,0,6
-Sun_Prairie_55_R3,Mule deer,0,6
-Sun_Prairie_55_R3,Pronghorn,0,6
-Sun_Prairie_55_R3,White-tailed deer,0,6
-Sun_Prairie_55_R5,American bison,76.5399236188166,3
-Sun_Prairie_55_R5,Coyote,0,3
-Sun_Prairie_55_R5,Mule deer,0,3
-Sun_Prairie_55_R5,Pronghorn,0,3
-Sun_Prairie_55_R5,White-tailed deer,0,3
-Sun_Prairie_56_R1,American bison,0,7
-Sun_Prairie_56_R1,Coyote,0,7
-Sun_Prairie_56_R1,Mule deer,0,7
-Sun_Prairie_56_R1,Pronghorn,0,7
-Sun_Prairie_56_R1,White-tailed deer,0,7
-Sun_Prairie_56_R2,American bison,17.639847237633216,18
-Sun_Prairie_56_R2,Coyote,0,18
-Sun_Prairie_56_R2,Mule deer,0,18
-Sun_Prairie_56_R2,Pronghorn,0,18
-Sun_Prairie_56_R2,White-tailed deer,0,18
-Sun_Prairie_56_R3,American bison,44.27969447526643,27
-Sun_Prairie_56_R3,Coyote,0,27
-Sun_Prairie_56_R3,Mule deer,0,27
-Sun_Prairie_56_R3,Pronghorn,0,27
-Sun_Prairie_56_R3,White-tailed deer,0,27
-Sun_Prairie_56_R4,American bison,107.5289306634325,34
-Sun_Prairie_56_R4,Coyote,0,34
-Sun_Prairie_56_R4,Mule deer,159.71471405587243,34
-Sun_Prairie_56_R4,Pronghorn,0,34
-Sun_Prairie_56_R4,White-tailed deer,0,34
-Sun_Prairie_56_R5,American bison,485.97335483704484,19
-Sun_Prairie_56_R5,Coyote,0,19
-Sun_Prairie_56_R5,Mule deer,165.67990566037736,19
-Sun_Prairie_56_R5,Pronghorn,0,19
-Sun_Prairie_56_R5,White-tailed deer,0,19
-Sun_Prairie_57_R1,American bison,8.319923618816608,14
-Sun_Prairie_57_R1,Coyote,0,14
-Sun_Prairie_57_R1,Mule deer,0,14
-Sun_Prairie_57_R1,Pronghorn,0,14
-Sun_Prairie_57_R1,White-tailed deer,0,14
-Sun_Prairie_57_R2,American bison,4.319923618816608,10
-Sun_Prairie_57_R2,Coyote,0,10
-Sun_Prairie_57_R2,Mule deer,0,10
-Sun_Prairie_57_R2,Pronghorn,4.4287465522525284,10
-Sun_Prairie_57_R2,White-tailed deer,0,10
-Sun_Prairie_57_R3,American bison,0,1
-Sun_Prairie_57_R3,Coyote,0,1
-Sun_Prairie_57_R3,Mule deer,0,1
-Sun_Prairie_57_R3,Pronghorn,0,1
-Sun_Prairie_57_R3,White-tailed deer,0,1
-Sun_Prairie_57_R5,American bison,2.3199236188166075,18
-Sun_Prairie_57_R5,Coyote,0,18
-Sun_Prairie_57_R5,Mule deer,50.1620527344529,18
-Sun_Prairie_57_R5,Pronghorn,0,18
-Sun_Prairie_57_R5,White-tailed deer,0,18
-Sun_Prairie_58_R1,American bison,91.67839599514876,24
-Sun_Prairie_58_R1,Coyote,0,24
-Sun_Prairie_58_R1,Mule deer,1262.2799330989328,24
-Sun_Prairie_58_R1,Pronghorn,67.85749310450507,24
-Sun_Prairie_58_R1,White-tailed deer,0,24
-Sun_Prairie_58_R2,American bison,157.15961809408304,4
-Sun_Prairie_58_R2,Coyote,0,4
-Sun_Prairie_58_R2,Mule deer,0,4
-Sun_Prairie_58_R2,Pronghorn,0,4
-Sun_Prairie_58_R2,White-tailed deer,0,4
-Sun_Prairie_58_R3,American bison,15.959770856449824,28
-Sun_Prairie_58_R3,Coyote,0,28
-Sun_Prairie_58_R3,Mule deer,57.76720710838087,28
-Sun_Prairie_58_R3,Pronghorn,0,28
-Sun_Prairie_58_R3,White-tailed deer,0,28
-Sun_Prairie_58_R4,American bison,4.319923618816608,31
-Sun_Prairie_58_R4,Coyote,4.041743970315399,31
-Sun_Prairie_58_R4,Mule deer,75.49756242538037,31
-Sun_Prairie_58_R4,Pronghorn,0,31
-Sun_Prairie_58_R4,White-tailed deer,0,31
-Sun_Prairie_58_R5,American bison,0,21
-Sun_Prairie_58_R5,Coyote,0,21
-Sun_Prairie_58_R5,Mule deer,13.807207108380869,21
-Sun_Prairie_58_R5,Pronghorn,0,21
-Sun_Prairie_58_R5,White-tailed deer,0,21
-Sun_Prairie_61_R1,American bison,196.83954171289963,23
-Sun_Prairie_61_R1,Coyote,0,23
-Sun_Prairie_61_R1,Mule deer,233.4316213251426,23
-Sun_Prairie_61_R1,Pronghorn,0,23
-Sun_Prairie_61_R1,White-tailed deer,129.7217513134851,23
-Sun_Prairie_61_R2,American bison,252.7600215809494,36
-Sun_Prairie_61_R2,Coyote,0,36
-Sun_Prairie_61_R2,Mule deer,0,36
-Sun_Prairie_61_R2,Pronghorn,0,36
-Sun_Prairie_61_R2,White-tailed deer,0,36
-Sun_Prairie_61_R3,American bison,89.54977085644983,27
-Sun_Prairie_61_R3,Coyote,0,27
-Sun_Prairie_61_R3,Mule deer,135.52774105329755,27
-Sun_Prairie_61_R3,Pronghorn,0,27
-Sun_Prairie_61_R3,White-tailed deer,0,27
-Sun_Prairie_61_R4,American bison,0,32
-Sun_Prairie_61_R4,Coyote,0,32
-Sun_Prairie_61_R4,Mule deer,0,32
-Sun_Prairie_61_R4,Pronghorn,0,32
-Sun_Prairie_61_R4,White-tailed deer,0,32
-Sun_Prairie_61_R5,American bison,104.58969447526643,22
-Sun_Prairie_61_R5,Coyote,0,22
-Sun_Prairie_61_R5,Mule deer,31.614414216761737,22
-Sun_Prairie_61_R5,Pronghorn,0,22
-Sun_Prairie_61_R5,White-tailed deer,0,22
-Sun_Prairie_62_R1,American bison,67.61969447526644,11
-Sun_Prairie_62_R1,Coyote,0,11
-Sun_Prairie_62_R1,Mule deer,75.34882843352348,11
-Sun_Prairie_62_R1,Pronghorn,29.428746552252527,11
-Sun_Prairie_62_R1,White-tailed deer,0,11
-Sun_Prairie_62_R2,American bison,123.69938895053286,36
-Sun_Prairie_62_R2,Coyote,0,36
-Sun_Prairie_62_R2,Mule deer,123.44316185827115,36
-Sun_Prairie_62_R2,Pronghorn,0,36
-Sun_Prairie_62_R2,White-tailed deer,0,36
-Sun_Prairie_62_R3,American bison,101.2498472376332,6
-Sun_Prairie_62_R3,Coyote,0,6
-Sun_Prairie_62_R3,Mule deer,0,6
-Sun_Prairie_62_R3,Pronghorn,0,6
-Sun_Prairie_62_R3,White-tailed deer,0,6
-Sun_Prairie_62_R4,American bison,180.58969447526644,4
-Sun_Prairie_62_R4,Coyote,0,4
-Sun_Prairie_62_R4,Mule deer,0,4
-Sun_Prairie_62_R4,Pronghorn,0,4
-Sun_Prairie_62_R4,White-tailed deer,0,4
-Sun_Prairie_62_R5,American bison,43.05977085644982,4
-Sun_Prairie_62_R5,Coyote,0,4
-Sun_Prairie_62_R5,Mule deer,5.6144142167617375,4
-Sun_Prairie_62_R5,Pronghorn,1.4287465522525284,4
-Sun_Prairie_62_R5,White-tailed deer,0,4
-Sun_Prairie_63_R2,American bison,1913.3866392279308,12
-Sun_Prairie_63_R2,Coyote,0,12
-Sun_Prairie_63_R2,Mule deer,0,12
-Sun_Prairie_63_R2,Pronghorn,4.4287465522525284,12
-Sun_Prairie_63_R2,White-tailed deer,0,12
-Sun_Prairie_63_R3,American bison,18.319923618816606,6
-Sun_Prairie_63_R3,Coyote,0,6
-Sun_Prairie_63_R3,Mule deer,0,6
-Sun_Prairie_63_R3,Pronghorn,0,6
-Sun_Prairie_63_R3,White-tailed deer,0,6
-Sun_Prairie_63_R4,American bison,1844.1270091903718,1
-Sun_Prairie_63_R4,Coyote,0,1
-Sun_Prairie_63_R4,Mule deer,0,1
-Sun_Prairie_63_R4,Pronghorn,0,1
-Sun_Prairie_63_R4,White-tailed deer,0,1
-Sun_Prairie_63_R5,American bison,136.54366332929064,16
-Sun_Prairie_63_R5,Coyote,0,16
-Sun_Prairie_63_R5,Mule deer,243.88882843352349,16
-Sun_Prairie_63_R5,Pronghorn,27.528746552252528,16
-Sun_Prairie_63_R5,White-tailed deer,0,16
-Sun_Prairie_66_R1,American bison,1374.961001195179,3
-Sun_Prairie_66_R1,Coyote,0,3
-Sun_Prairie_66_R1,Mule deer,0,3
-Sun_Prairie_66_R1,Pronghorn,0,3
-Sun_Prairie_66_R1,White-tailed deer,0,3
-Sun_Prairie_66_R2,American bison,0,35
-Sun_Prairie_66_R2,Coyote,0,35
-Sun_Prairie_66_R2,Mule deer,5.807207108380869,35
-Sun_Prairie_66_R2,Pronghorn,0,35
-Sun_Prairie_66_R2,White-tailed deer,0,35
-Sun_Prairie_66_R3,American bison,71.59961809408304,26
-Sun_Prairie_66_R3,Coyote,0,26
-Sun_Prairie_66_R3,Mule deer,35.75441421676174,26
-Sun_Prairie_66_R3,Pronghorn,0,26
-Sun_Prairie_66_R3,White-tailed deer,0,26
-Sun_Prairie_66_R4,American bison,434.7372977377434,31
-Sun_Prairie_66_R4,Coyote,0,31
-Sun_Prairie_66_R4,Mule deer,0,31
-Sun_Prairie_66_R4,Pronghorn,0,31
-Sun_Prairie_66_R4,White-tailed deer,0,31
-Sun_Prairie_66_R5,American bison,0,19
-Sun_Prairie_66_R5,Coyote,0,19
-Sun_Prairie_66_R5,Mule deer,0,19
-Sun_Prairie_66_R5,Pronghorn,0,19
-Sun_Prairie_66_R5,White-tailed deer,0,19
-Sun_Prairie_67_R1,American bison,0,11
-Sun_Prairie_67_R1,Coyote,0,11
-Sun_Prairie_67_R1,Mule deer,0,11
-Sun_Prairie_67_R1,Pronghorn,0,11
-Sun_Prairie_67_R1,White-tailed deer,0,11
-Sun_Prairie_67_R2,American bison,0,4
-Sun_Prairie_67_R2,Coyote,0,4
-Sun_Prairie_67_R2,Mule deer,0,4
-Sun_Prairie_67_R2,Pronghorn,0,4
-Sun_Prairie_67_R2,White-tailed deer,0,4
-Sun_Prairie_67_R3,American bison,113.91558611177827,26
-Sun_Prairie_67_R3,Coyote,0,26
-Sun_Prairie_67_R3,Mule deer,24.421621325142606,26
-Sun_Prairie_67_R3,Pronghorn,0,26
-Sun_Prairie_67_R3,White-tailed deer,0,26
-Sun_Prairie_67_R4,American bison,0,20
-Sun_Prairie_67_R4,Coyote,0,20
-Sun_Prairie_67_R4,Mule deer,0,20
-Sun_Prairie_67_R4,Pronghorn,0,20
-Sun_Prairie_67_R4,White-tailed deer,0,20
-Sun_Prairie_67_R5,American bison,351.5188182716117,17
-Sun_Prairie_67_R5,Coyote,0,17
-Sun_Prairie_67_R5,Mule deer,0,17
-Sun_Prairie_67_R5,Pronghorn,0,17
-Sun_Prairie_67_R5,White-tailed deer,0,17
-Sun_Prairie_68_R1,American bison,0,28
-Sun_Prairie_68_R1,Coyote,0,28
-Sun_Prairie_68_R1,Mule deer,0,28
-Sun_Prairie_68_R1,Pronghorn,0,28
-Sun_Prairie_68_R1,White-tailed deer,0,28
-Sun_Prairie_68_R2,American bison,34.31992361881661,34
-Sun_Prairie_68_R2,Coyote,0,34
-Sun_Prairie_68_R2,Mule deer,9.614414216761737,34
-Sun_Prairie_68_R2,Pronghorn,0,34
-Sun_Prairie_68_R2,White-tailed deer,5.750875656742557,34
-Sun_Prairie_68_R3,American bison,21.319923618816606,26
-Sun_Prairie_68_R3,Coyote,0,26
-Sun_Prairie_68_R3,Mule deer,0,26
-Sun_Prairie_68_R3,Pronghorn,0,26
-Sun_Prairie_68_R3,White-tailed deer,0,26
-Sun_Prairie_68_R4,American bison,18.319923618816606,11
-Sun_Prairie_68_R4,Coyote,0,11
-Sun_Prairie_68_R4,Mule deer,0,11
-Sun_Prairie_68_R4,Pronghorn,0,11
-Sun_Prairie_68_R4,White-tailed deer,0,11
-Sun_Prairie_68_R5,American bison,0,19
-Sun_Prairie_68_R5,Coyote,0,19
-Sun_Prairie_68_R5,Mule deer,1.8072071083808687,19
-Sun_Prairie_68_R5,Pronghorn,0,19
-Sun_Prairie_68_R5,White-tailed deer,0,19
-Sun_Prairie_69_R1,American bison,0,24
-Sun_Prairie_69_R1,Coyote,0,24
-Sun_Prairie_69_R1,Mule deer,0,24
-Sun_Prairie_69_R1,Pronghorn,0,24
-Sun_Prairie_69_R1,White-tailed deer,1.750875656742557,24
-Sun_Prairie_69_R2,American bison,54.69984274462243,20
-Sun_Prairie_69_R2,Coyote,0,20
-Sun_Prairie_69_R2,Mule deer,3.8072071083808687,20
-Sun_Prairie_69_R2,Pronghorn,0,20
-Sun_Prairie_69_R2,White-tailed deer,16.750875656742558,20
-Sun_Prairie_69_R3,American bison,116.35938895053286,26
-Sun_Prairie_69_R3,Coyote,27.041743970315398,26
-Sun_Prairie_69_R3,Mule deer,0,26
-Sun_Prairie_69_R3,Pronghorn,0,26
-Sun_Prairie_69_R3,White-tailed deer,18.750875656742558,26
-Sun_Prairie_69_R4,American bison,7.639847237633216,34
-Sun_Prairie_69_R4,Coyote,0,34
-Sun_Prairie_69_R4,Mule deer,4.807207108380869,34
-Sun_Prairie_69_R4,Pronghorn,0,34
-Sun_Prairie_69_R4,White-tailed deer,0,34
-Sun_Prairie_69_R5,American bison,403.81694646000005,13
-Sun_Prairie_69_R5,Coyote,0,13
-Sun_Prairie_69_R5,Mule deer,0,13
-Sun_Prairie_69_R5,Pronghorn,0,13
-Sun_Prairie_69_R5,White-tailed deer,0,13
-Sun_Prairie_70_R1,American bison,0,28
-Sun_Prairie_70_R1,Coyote,0,28
-Sun_Prairie_70_R1,Mule deer,0,28
-Sun_Prairie_70_R1,Pronghorn,0,28
-Sun_Prairie_70_R1,White-tailed deer,0,28
-Sun_Prairie_70_R2,American bison,0,3
-Sun_Prairie_70_R2,Coyote,0,3
-Sun_Prairie_70_R2,Mule deer,0,3
-Sun_Prairie_70_R2,Pronghorn,0,3
-Sun_Prairie_70_R2,White-tailed deer,0,3
-Sun_Prairie_70_R3,American bison,0,0
-Sun_Prairie_70_R3,Coyote,0,0
-Sun_Prairie_70_R3,Mule deer,0,0
-Sun_Prairie_70_R3,Pronghorn,0,0
-Sun_Prairie_70_R3,White-tailed deer,0,0
-Sun_Prairie_70_R4,American bison,0,34
-Sun_Prairie_70_R4,Coyote,0,34
-Sun_Prairie_70_R4,Mule deer,0,34
-Sun_Prairie_70_R4,Pronghorn,0,34
-Sun_Prairie_70_R4,White-tailed deer,0,34
-Sun_Prairie_70_R5,American bison,0,20
-Sun_Prairie_70_R5,Coyote,0,20
-Sun_Prairie_70_R5,Mule deer,3.8072071083808687,20
-Sun_Prairie_70_R5,Pronghorn,0,20
-Sun_Prairie_70_R5,White-tailed deer,49.501751313485116,20
-Sun_Prairie_71_R1,American bison,81.03977085644982,11
-Sun_Prairie_71_R1,Coyote,4.041743970315399,11
-Sun_Prairie_71_R1,Mule deer,70.43720710838086,11
-Sun_Prairie_71_R1,Pronghorn,24.428746552252527,11
-Sun_Prairie_71_R1,White-tailed deer,0,11
-Sun_Prairie_71_R2,American bison,135.96946533171626,3
-Sun_Prairie_71_R2,Coyote,0,3
-Sun_Prairie_71_R2,Mule deer,0,3
-Sun_Prairie_71_R2,Pronghorn,0,3
-Sun_Prairie_71_R2,White-tailed deer,0,3
-Sun_Prairie_71_R3,American bison,587.1494038946776,11
-Sun_Prairie_71_R3,Coyote,0,11
-Sun_Prairie_71_R3,Mule deer,0,11
-Sun_Prairie_71_R3,Pronghorn,91.41749310450506,11
-Sun_Prairie_71_R3,White-tailed deer,0,11
-Sun_Prairie_71_R4,American bison,334.5689660961732,25
-Sun_Prairie_71_R4,Coyote,0,25
-Sun_Prairie_71_R4,Mule deer,0,25
-Sun_Prairie_71_R4,Pronghorn,113.02077309491132,25
-Sun_Prairie_71_R4,White-tailed deer,0,25
-Sun_Prairie_71_R5,American bison,954.6536677653107,5
-Sun_Prairie_71_R5,Coyote,0,5
-Sun_Prairie_71_R5,Mule deer,139.25602073277756,5
-Sun_Prairie_71_R5,Pronghorn,0,5
-Sun_Prairie_71_R5,White-tailed deer,0,5
-Sun_Prairie_72_R1,American bison,212.91961809408303,24
-Sun_Prairie_72_R1,Coyote,0,24
-Sun_Prairie_72_R1,Mule deer,44.42162132514261,24
-Sun_Prairie_72_R1,Pronghorn,0,24
-Sun_Prairie_72_R1,White-tailed deer,0,24
-Sun_Prairie_72_R2,American bison,320.07895794242654,14
-Sun_Prairie_72_R2,Coyote,2.041743970315399,14
-Sun_Prairie_72_R2,Mule deer,0,14
-Sun_Prairie_72_R2,Pronghorn,0,14
-Sun_Prairie_72_R2,White-tailed deer,0,14
-Sun_Prairie_72_R3,American bison,857.2931926963436,10
-Sun_Prairie_72_R3,Coyote,0,10
-Sun_Prairie_72_R3,Mule deer,0,10
-Sun_Prairie_72_R3,Pronghorn,0,10
-Sun_Prairie_72_R3,White-tailed deer,0,10
-Sun_Prairie_72_R4,American bison,511.6196861943826,34
-Sun_Prairie_72_R4,Coyote,0,34
-Sun_Prairie_72_R4,Mule deer,167.14720710838088,34
-Sun_Prairie_72_R4,Pronghorn,0,34
-Sun_Prairie_72_R4,White-tailed deer,0,34
-Sun_Prairie_72_R5,American bison,842.5428413531573,21
-Sun_Prairie_72_R5,Coyote,0,21
-Sun_Prairie_72_R5,Mule deer,15.614414216761737,21
-Sun_Prairie_72_R5,Pronghorn,0,21
-Sun_Prairie_72_R5,White-tailed deer,0,21
-Sun_Prairie_73_R1,American bison,614.9871644262907,5
-Sun_Prairie_73_R1,Coyote,0,5
-Sun_Prairie_73_R1,Mule deer,0,5
-Sun_Prairie_73_R1,Pronghorn,0,5
-Sun_Prairie_73_R1,White-tailed deer,0,5
-Sun_Prairie_73_R2,American bison,317.87984723763327,4
-Sun_Prairie_73_R2,Coyote,0,4
-Sun_Prairie_73_R2,Mule deer,36.807207108380865,4
-Sun_Prairie_73_R2,Pronghorn,0,4
-Sun_Prairie_73_R2,White-tailed deer,0,4
-Sun_Prairie_73_R3,American bison,135.69050982563226,28
-Sun_Prairie_73_R3,Coyote,0,28
-Sun_Prairie_73_R3,Mule deer,17.80720710838087,28
-Sun_Prairie_73_R3,Pronghorn,0,28
-Sun_Prairie_73_R3,White-tailed deer,0,28
-Sun_Prairie_73_R4,American bison,38.63984723763321,34
-Sun_Prairie_73_R4,Coyote,0,34
-Sun_Prairie_73_R4,Mule deer,73.22882843352347,34
-Sun_Prairie_73_R4,Pronghorn,0,34
-Sun_Prairie_73_R4,White-tailed deer,0,34
-Sun_Prairie_73_R5,American bison,0,21
-Sun_Prairie_73_R5,Coyote,0,21
-Sun_Prairie_73_R5,Mule deer,223.61441421676176,21
-Sun_Prairie_73_R5,Pronghorn,0,21
-Sun_Prairie_73_R5,White-tailed deer,0,21
-Sun_Prairie_76_R1,American bison,148.31954171289965,32
-Sun_Prairie_76_R1,Coyote,3.041743970315399,32
-Sun_Prairie_76_R1,Mule deer,19.614414216761737,32
-Sun_Prairie_76_R1,Pronghorn,51.42874655225253,32
-Sun_Prairie_76_R1,White-tailed deer,0,32
-Sun_Prairie_76_R3,American bison,48.63984723763322,19
-Sun_Prairie_76_R3,Coyote,0,19
-Sun_Prairie_76_R3,Mule deer,4.807207108380869,19
-Sun_Prairie_76_R3,Pronghorn,0,19
-Sun_Prairie_76_R3,White-tailed deer,0,19
-Sun_Prairie_76_R4,American bison,34.65992361881661,32
-Sun_Prairie_76_R4,Coyote,0,32
-Sun_Prairie_76_R4,Mule deer,0,32
-Sun_Prairie_76_R4,Pronghorn,0,32
-Sun_Prairie_76_R4,White-tailed deer,0,32
-Sun_Prairie_76_R5,American bison,0,22
-Sun_Prairie_76_R5,Coyote,0,22
-Sun_Prairie_76_R5,Mule deer,0,22
-Sun_Prairie_76_R5,Pronghorn,0,22
-Sun_Prairie_76_R5,White-tailed deer,0,22
-Sun_Prairie_77_R1,American bison,213.7697708564498,2
-Sun_Prairie_77_R1,Coyote,0,2
-Sun_Prairie_77_R1,Mule deer,0,2
-Sun_Prairie_77_R1,Pronghorn,0,2
-Sun_Prairie_77_R1,White-tailed deer,0,2
-Sun_Prairie_77_R2,American bison,2.3199236188166075,11
-Sun_Prairie_77_R2,Coyote,0,11
-Sun_Prairie_77_R2,Mule deer,0,11
-Sun_Prairie_77_R2,Pronghorn,0,11
-Sun_Prairie_77_R2,White-tailed deer,0,11
-Sun_Prairie_77_R3,American bison,874.5422640552366,6
-Sun_Prairie_77_R3,Coyote,0,6
-Sun_Prairie_77_R3,Mule deer,163.1337418839944,6
-Sun_Prairie_77_R3,Pronghorn,0,6
-Sun_Prairie_77_R3,White-tailed deer,0,6
-Sun_Prairie_77_R4,American bison,17.959770856449822,4
-Sun_Prairie_77_R4,Coyote,0,4
-Sun_Prairie_77_R4,Mule deer,0,4
-Sun_Prairie_77_R4,Pronghorn,0,4
-Sun_Prairie_77_R4,White-tailed deer,0,4
-Sun_Prairie_77_R5,American bison,0,2
-Sun_Prairie_77_R5,Coyote,0,2
-Sun_Prairie_77_R5,Mule deer,55.807207108380865,2
-Sun_Prairie_77_R5,Pronghorn,0,2
-Sun_Prairie_77_R5,White-tailed deer,0,2
-Sun_Prairie_78_R1,American bison,165.97938895053287,8
-Sun_Prairie_78_R1,Coyote,0,8
-Sun_Prairie_78_R1,Mule deer,0,8
-Sun_Prairie_78_R1,Pronghorn,0,8
-Sun_Prairie_78_R1,White-tailed deer,0,8
-Sun_Prairie_78_R2,American bison,147.6998472376332,1
-Sun_Prairie_78_R2,Coyote,0,1
-Sun_Prairie_78_R2,Mule deer,0,1
-Sun_Prairie_78_R2,Pronghorn,0,1
-Sun_Prairie_78_R2,White-tailed deer,0,1
-Sun_Prairie_78_R3,American bison,30843.57465172851,10
-Sun_Prairie_78_R3,Coyote,0,10
-Sun_Prairie_78_R3,Mule deer,0,10
-Sun_Prairie_78_R3,Pronghorn,0,10
-Sun_Prairie_78_R3,White-tailed deer,0,10
-Sun_Prairie_78_R4,American bison,3177.049877052634,25
-Sun_Prairie_78_R4,Coyote,0,25
-Sun_Prairie_78_R4,Mule deer,32.907207108380874,25
-Sun_Prairie_78_R4,Pronghorn,0,25
-Sun_Prairie_78_R4,White-tailed deer,0,25
-Sun_Prairie_78_R5,American bison,400.92977085644986,13
-Sun_Prairie_78_R5,Coyote,0,13
-Sun_Prairie_78_R5,Mule deer,22.80720710838087,13
-Sun_Prairie_78_R5,Pronghorn,0,13
-Sun_Prairie_78_R5,White-tailed deer,0,13
-Sun_Prairie_84_R1,American bison,174.05938895053288,28
-Sun_Prairie_84_R1,Coyote,4.041743970315399,28
-Sun_Prairie_84_R1,Mule deer,0,28
-Sun_Prairie_84_R1,Pronghorn,3.4287465522525284,28
-Sun_Prairie_84_R1,White-tailed deer,88.85437828371279,28
-Sun_Prairie_84_R2,American bison,86.979388950532865,35
-Sun_Prairie_84_R2,Coyote,0,35
-Sun_Prairie_84_R2,Mule deer,0,35
-Sun_Prairie_84_R2,Pronghorn,0,35
-Sun_Prairie_84_R2,White-tailed deer,0,35
-Sun_Prairie_84_R3,American bison,214.47870151988232,26
-Sun_Prairie_84_R3,Coyote,0,26
-Sun_Prairie_84_R3,Mule deer,0,26
-Sun_Prairie_84_R3,Pronghorn,0,26
-Sun_Prairie_84_R3,White-tailed deer,0,26
-Sun_Prairie_84_R4,American bison,678.7363771837018,34
-Sun_Prairie_84_R4,Coyote,10.083487940630798,34
-Sun_Prairie_84_R4,Mule deer,0,34
-Sun_Prairie_84_R4,Pronghorn,0,34
-Sun_Prairie_84_R4,White-tailed deer,0,34
-Sun_Prairie_84_R5,American bison,122.23946533171625,19
-Sun_Prairie_84_R5,Coyote,0,19
-Sun_Prairie_84_R5,Mule deer,54.954538934080404,19
-Sun_Prairie_84_R5,Pronghorn,0,19
-Sun_Prairie_84_R5,White-tailed deer,0,19
-Sun_Prairie_85_R1,American bison,0,26
-Sun_Prairie_85_R1,Coyote,0,26
-Sun_Prairie_85_R1,Mule deer,0,26
-Sun_Prairie_85_R1,Pronghorn,1.4287465522525284,26
-Sun_Prairie_85_R1,White-tailed deer,0,26
-Sun_Prairie_85_R2,American bison,18.959770856449822,27
-Sun_Prairie_85_R2,Coyote,0,27
-Sun_Prairie_85_R2,Mule deer,0,27
-Sun_Prairie_85_R2,Pronghorn,0,27
-Sun_Prairie_85_R2,White-tailed deer,0,27
-Sun_Prairie_85_R3,American bison,16.959770856449822,26
-Sun_Prairie_85_R3,Coyote,0,26
-Sun_Prairie_85_R3,Mule deer,47.61441421676174,26
-Sun_Prairie_85_R3,Pronghorn,0,26
-Sun_Prairie_85_R3,White-tailed deer,0,26
-Sun_Prairie_85_R4,American bison,376.6240470299226,8
-Sun_Prairie_85_R4,Coyote,0,8
-Sun_Prairie_85_R4,Mule deer,0,8
-Sun_Prairie_85_R4,Pronghorn,0,8
-Sun_Prairie_85_R4,White-tailed deer,0,8
-Sun_Prairie_85_R5,American bison,2049.6784722684297,18
-Sun_Prairie_85_R5,Coyote,0,18
-Sun_Prairie_85_R5,Mule deer,101.79399316220565,18
-Sun_Prairie_85_R5,Pronghorn,0,18
-Sun_Prairie_85_R5,White-tailed deer,99.85788091068302,18
-Sun_Prairie_86_R1,American bison,83.37969447526643,30
-Sun_Prairie_86_R1,Coyote,0,30
-Sun_Prairie_86_R1,Mule deer,0,30
-Sun_Prairie_86_R1,Pronghorn,6.857493104505057,30
-Sun_Prairie_86_R1,White-tailed deer,0,30
-Sun_Prairie_86_R2,American bison,887.7097708564498,3
-Sun_Prairie_86_R2,Coyote,0,3
-Sun_Prairie_86_R2,Mule deer,0,3
-Sun_Prairie_86_R2,Pronghorn,0,3
-Sun_Prairie_86_R2,White-tailed deer,0,3
-Sun_Prairie_86_R3,American bison,12.27969447526643,11
-Sun_Prairie_86_R3,Coyote,0,11
-Sun_Prairie_86_R3,Mule deer,0,11
-Sun_Prairie_86_R3,Pronghorn,0,11
-Sun_Prairie_86_R3,White-tailed deer,0,11
-Sun_Prairie_86_R4,American bison,2.3199236188166075,34
-Sun_Prairie_86_R4,Coyote,0,34
-Sun_Prairie_86_R4,Mule deer,85.64729706011408,34
-Sun_Prairie_86_R4,Pronghorn,0,34
-Sun_Prairie_86_R4,White-tailed deer,0,34
-Sun_Prairie_86_R5,American bison,826.3911259135824,19
-Sun_Prairie_86_R5,Coyote,0,19
-Sun_Prairie_86_R5,Mule deer,59.15837812637122,19
-Sun_Prairie_86_R5,Pronghorn,0,19
-Sun_Prairie_86_R5,White-tailed deer,0,19
-Sun_Prairie_87_R1,American bison,13.27969447526643,5
-Sun_Prairie_87_R1,Coyote,0,5
-Sun_Prairie_87_R1,Mule deer,0,5
-Sun_Prairie_87_R1,Pronghorn,0,5
-Sun_Prairie_87_R1,White-tailed deer,0,5
-Sun_Prairie_87_R2,American bison,500.71908342579934,35
-Sun_Prairie_87_R2,Coyote,0,35
-Sun_Prairie_87_R2,Mule deer,0,35
-Sun_Prairie_87_R2,Pronghorn,4.4287465522525284,35
-Sun_Prairie_87_R2,White-tailed deer,0,35
-Sun_Prairie_87_R3,American bison,6.639847237633215,27
-Sun_Prairie_87_R3,Coyote,4.041743970315399,27
-Sun_Prairie_87_R3,Mule deer,0,27
-Sun_Prairie_87_R3,Pronghorn,0,27
-Sun_Prairie_87_R3,White-tailed deer,0,27
-Sun_Prairie_87_R4,American bison,3.3199236188166075,34
-Sun_Prairie_87_R4,Coyote,9.083487940630798,34
-Sun_Prairie_87_R4,Mule deer,0,34
-Sun_Prairie_87_R4,Pronghorn,986.4479985195115,34
-Sun_Prairie_87_R4,White-tailed deer,0,34
-Sun_Prairie_87_R5,American bison,0,21
-Sun_Prairie_87_R5,Coyote,7.083487940630798,21
-Sun_Prairie_87_R5,Mule deer,29.117207108380867,21
-Sun_Prairie_87_R5,Pronghorn,94.53884131167638,21
-Sun_Prairie_87_R5,White-tailed deer,0,21
-Sun_Prairie_88_R1,American bison,1127.4587076049193,9
-Sun_Prairie_88_R1,Coyote,7.041743970315399,9
-Sun_Prairie_88_R1,Mule deer,59.58441421676173,9
-Sun_Prairie_88_R1,Pronghorn,7.857493104505057,9
-Sun_Prairie_88_R1,White-tailed deer,0,9
-Sun_Prairie_88_R2,American bison,550.4785834762353,35
-Sun_Prairie_88_R2,Coyote,0,35
-Sun_Prairie_88_R2,Mule deer,0,35
-Sun_Prairie_88_R2,Pronghorn,24.258746552252525,35
-Sun_Prairie_88_R2,White-tailed deer,0,35
-Sun_Prairie_88_R3,American bison,630.8815003178639,28
-Sun_Prairie_88_R3,Coyote,0,28
-Sun_Prairie_88_R3,Mule deer,33.807207108380865,28
-Sun_Prairie_88_R3,Pronghorn,0,28
-Sun_Prairie_88_R3,White-tailed deer,0,28
-Sun_Prairie_88_R4,American bison,57.998090470415185,34
-Sun_Prairie_88_R4,Coyote,17.125231910946198,34
-Sun_Prairie_88_R4,Mule deer,0,34
-Sun_Prairie_88_R4,Pronghorn,3.4287465522525284,34
-Sun_Prairie_88_R4,White-tailed deer,0,34
-Sun_Prairie_88_R5,American bison,9.27969447526643,21
-Sun_Prairie_88_R5,Coyote,0,21
-Sun_Prairie_88_R5,Mule deer,0,21
-Sun_Prairie_88_R5,Pronghorn,0,21
-Sun_Prairie_88_R5,White-tailed deer,0,21
-Sun_Prairie_88b_R1,American bison,2804.5729068486876,11
-Sun_Prairie_88b_R1,Coyote,0,11
-Sun_Prairie_88b_R1,Mule deer,1.8072071083808687,11
-Sun_Prairie_88b_R1,Pronghorn,0,11
-Sun_Prairie_88b_R1,White-tailed deer,0,11
-Sun_Prairie_89_R1,American bison,788.1788874144607,32
-Sun_Prairie_89_R1,Coyote,35.6552319109462,32
-Sun_Prairie_89_R1,Mule deer,4038.6663723124743,32
-Sun_Prairie_89_R1,Pronghorn,0,32
-Sun_Prairie_89_R1,White-tailed deer,0,32
-Sun_Prairie_89_R2,American bison,314.57977085644984,36
-Sun_Prairie_89_R2,Coyote,0,36
-Sun_Prairie_89_R2,Mule deer,73.43720710838086,36
-Sun_Prairie_89_R2,Pronghorn,0,36
-Sun_Prairie_89_R2,White-tailed deer,0,36
-Sun_Prairie_89_R3,American bison,11.639847237633216,28
-Sun_Prairie_89_R3,Coyote,0,28
-Sun_Prairie_89_R3,Mule deer,422.6251338306275,28
-Sun_Prairie_89_R3,Pronghorn,0,28
-Sun_Prairie_89_R3,White-tailed deer,0,28
-Sun_Prairie_89_R4,American bison,0,31
-Sun_Prairie_89_R4,Coyote,0,31
-Sun_Prairie_89_R4,Mule deer,16.80720710838087,31
-Sun_Prairie_89_R4,Pronghorn,0,31
-Sun_Prairie_89_R4,White-tailed deer,0,31
-Sun_Prairie_89_R5,American bison,0,22
-Sun_Prairie_89_R5,Coyote,0,22
-Sun_Prairie_89_R5,Mule deer,0,22
-Sun_Prairie_89_R5,Pronghorn,1.4287465522525284,22
-Sun_Prairie_89_R5,White-tailed deer,0,22
-Sun_Prairie_90_R1,American bison,57.09977085644982,1
-Sun_Prairie_90_R1,Coyote,0,1
-Sun_Prairie_90_R1,Mule deer,0,1
-Sun_Prairie_90_R1,Pronghorn,0,1
-Sun_Prairie_90_R1,White-tailed deer,0,1
-Sun_Prairie_90_R2,American bison,195.3898472376332,3
-Sun_Prairie_90_R2,Coyote,0,3
-Sun_Prairie_90_R2,Mule deer,0,3
-Sun_Prairie_90_R2,Pronghorn,0,3
-Sun_Prairie_90_R2,White-tailed deer,0,3
-Sun_Prairie_90_R3,American bison,4.319923618816608,28
-Sun_Prairie_90_R3,Coyote,89.6204638218924,28
-Sun_Prairie_90_R3,Mule deer,123.78882843352346,28
-Sun_Prairie_90_R3,Pronghorn,0,28
-Sun_Prairie_90_R3,White-tailed deer,0,28
-Sun_Prairie_90_R4,American bison,77.6398472376332,8
-Sun_Prairie_90_R4,Coyote,0,8
-Sun_Prairie_90_R4,Mule deer,0,8
-Sun_Prairie_90_R4,Pronghorn,0,8
-Sun_Prairie_90_R4,White-tailed deer,0,8
-Sun_Prairie_90_R5,American bison,243.71225266842762,11
-Sun_Prairie_90_R5,Coyote,2.041743970315399,11
-Sun_Prairie_90_R5,Mule deer,51.955810662571295,11
-Sun_Prairie_90_R5,Pronghorn,0,11
-Sun_Prairie_90_R5,White-tailed deer,0,11
-Sun_Prairie_91_R1,American bison,276.2114799695732,8
-Sun_Prairie_91_R1,Coyote,0,8
-Sun_Prairie_91_R1,Mule deer,0,8
-Sun_Prairie_91_R1,Pronghorn,0,8
-Sun_Prairie_91_R1,White-tailed deer,0,8
-Sun_Prairie_91_R2,American bison,197.91954171289964,37
-Sun_Prairie_91_R2,Coyote,56.1252319109462,37
-Sun_Prairie_91_R2,Mule deer,0,37
-Sun_Prairie_91_R2,Pronghorn,17.857493104505057,37
-Sun_Prairie_91_R2,White-tailed deer,0,37
-Sun_Prairie_91_R3,American bison,40.31992361881661,4
-Sun_Prairie_91_R3,Coyote,0,4
-Sun_Prairie_91_R3,Mule deer,0,4
-Sun_Prairie_91_R3,Pronghorn,0,4
-Sun_Prairie_91_R3,White-tailed deer,0,4
-Sun_Prairie_91_R4,American bison,314.98346030558207,7
-Sun_Prairie_91_R4,Coyote,0,7
-Sun_Prairie_91_R4,Mule deer,0,7
-Sun_Prairie_91_R4,Pronghorn,0,7
-Sun_Prairie_91_R4,White-tailed deer,0,7
-Sun_Prairie_91_R5,American bison,0,22
-Sun_Prairie_91_R5,Coyote,0,22
-Sun_Prairie_91_R5,Mule deer,0,22
-Sun_Prairie_91_R5,Pronghorn,0,22
-Sun_Prairie_91_R5,White-tailed deer,0,22
-Sun_Prairie_92_R1,American bison,292.4596136815214,9
-Sun_Prairie_92_R1,Coyote,0,9
-Sun_Prairie_92_R1,Mule deer,0,9
-Sun_Prairie_92_R1,Pronghorn,29.47874655225253,9
-Sun_Prairie_92_R1,White-tailed deer,0,9
-Sun_Prairie_92_R2,American bison,170.7997708564498,36
-Sun_Prairie_92_R2,Coyote,0,36
-Sun_Prairie_92_R2,Mule deer,0,36
-Sun_Prairie_92_R2,Pronghorn,0,36
-Sun_Prairie_92_R2,White-tailed deer,0,36
-Sun_Prairie_92_R3,American bison,217.35564627254664,27
-Sun_Prairie_92_R3,Coyote,0,27
-Sun_Prairie_92_R3,Mule deer,0,27
-Sun_Prairie_92_R3,Pronghorn,244.17647752186522,27
-Sun_Prairie_92_R3,White-tailed deer,0,27
-Sun_Prairie_92_R4,American bison,40.239465331716254,12
-Sun_Prairie_92_R4,Coyote,0,12
-Sun_Prairie_92_R4,Mule deer,3.8072071083808687,12
-Sun_Prairie_92_R4,Pronghorn,20.286239656757587,12
-Sun_Prairie_92_R4,White-tailed deer,0,12
-Sun_Prairie_92_R5,American bison,287.87946533171623,14
-Sun_Prairie_92_R5,Coyote,0,14
-Sun_Prairie_92_R5,Mule deer,0,14
-Sun_Prairie_92_R5,Pronghorn,0,14
-Sun_Prairie_92_R5,White-tailed deer,0,14
-Sun_Prairie_93_R1,American bison,57.87992361881661,7
-Sun_Prairie_93_R1,Coyote,0,7
-Sun_Prairie_93_R1,Mule deer,0,7
-Sun_Prairie_93_R1,Pronghorn,0,7
-Sun_Prairie_93_R1,White-tailed deer,0,7
-Sun_Prairie_93_R2,American bison,113.17961809408303,26
-Sun_Prairie_93_R2,Coyote,0,26
-Sun_Prairie_93_R2,Mule deer,0,26
-Sun_Prairie_93_R2,Pronghorn,0,26
-Sun_Prairie_93_R2,White-tailed deer,0,26
-Sun_Prairie_93_R3,American bison,8.319923618816608,10
-Sun_Prairie_93_R3,Coyote,0,10
-Sun_Prairie_93_R3,Mule deer,0,10
-Sun_Prairie_93_R3,Pronghorn,0,10
-Sun_Prairie_93_R3,White-tailed deer,0,10
-Sun_Prairie_93_R4,American bison,1511.6160219438582,7
-Sun_Prairie_93_R4,Coyote,0,7
-Sun_Prairie_93_R4,Mule deer,0,7
-Sun_Prairie_93_R4,Pronghorn,0,7
-Sun_Prairie_93_R4,White-tailed deer,0,7
-Sun_Prairie_93_R5,American bison,4.639847237633215,19
-Sun_Prairie_93_R5,Coyote,0,19
-Sun_Prairie_93_R5,Mule deer,0,19
-Sun_Prairie_93_R5,Pronghorn,0,19
-Sun_Prairie_93_R5,White-tailed deer,0,19
-Sun_Prairie_95_R1,American bison,78.95977085644982,17
-Sun_Prairie_95_R1,Coyote,0,17
-Sun_Prairie_95_R1,Mule deer,0,17
-Sun_Prairie_95_R1,Pronghorn,37.57309224639902,17
-Sun_Prairie_95_R1,White-tailed deer,0,17
-Sun_Prairie_95_R2,American bison,228.53831661382685,34
-Sun_Prairie_95_R2,Coyote,0,34
-Sun_Prairie_95_R2,Mule deer,0,34
-Sun_Prairie_95_R2,Pronghorn,31.286239656757584,34
-Sun_Prairie_95_R2,White-tailed deer,0,34
-Sun_Prairie_95_R3,American bison,0,0
-Sun_Prairie_95_R3,Coyote,0,0
-Sun_Prairie_95_R3,Mule deer,0,0
-Sun_Prairie_95_R3,Pronghorn,0,0
-Sun_Prairie_95_R3,White-tailed deer,0,0
-Sun_Prairie_95_R4,American bison,7.639847237633216,2
-Sun_Prairie_95_R4,Coyote,0,2
-Sun_Prairie_95_R4,Mule deer,0,2
-Sun_Prairie_95_R4,Pronghorn,0,2
-Sun_Prairie_95_R4,White-tailed deer,0,2
-Sun_Prairie_95_R5,American bison,63.279649010276316,11
-Sun_Prairie_95_R5,Coyote,0,11
-Sun_Prairie_95_R5,Mule deer,0,11
-Sun_Prairie_95_R5,Pronghorn,0,11
-Sun_Prairie_95_R5,White-tailed deer,0,11
-Sun_Prairie_96_R1,American bison,0,19
-Sun_Prairie_96_R1,Coyote,0,19
-Sun_Prairie_96_R1,Mule deer,0,19
-Sun_Prairie_96_R1,Pronghorn,0,19
-Sun_Prairie_96_R1,White-tailed deer,4.750875656742557,19
-Sun_Prairie_96_R2,American bison,13.639847237633216,28
-Sun_Prairie_96_R2,Coyote,0,28
-Sun_Prairie_96_R2,Mule deer,0,28
-Sun_Prairie_96_R2,Pronghorn,0,28
-Sun_Prairie_96_R2,White-tailed deer,15.750875656742558,28
-Sun_Prairie_96_R3,American bison,11.319923618816608,27
-Sun_Prairie_96_R3,Coyote,0,27
-Sun_Prairie_96_R3,Mule deer,0,27
-Sun_Prairie_96_R3,Pronghorn,0,27
-Sun_Prairie_96_R3,White-tailed deer,0,27
-Sun_Prairie_96_R4,American bison,0,34
-Sun_Prairie_96_R4,Coyote,0,34
-Sun_Prairie_96_R4,Mule deer,327.9218026683852,34
-Sun_Prairie_96_R4,Pronghorn,0,34
-Sun_Prairie_96_R4,White-tailed deer,0,34
-Sun_Prairie_96_R5,American bison,0,20
-Sun_Prairie_96_R5,Coyote,0,20
-Sun_Prairie_96_R5,Mule deer,40.42162132514261,20
-Sun_Prairie_96_R5,Pronghorn,0,20
-Sun_Prairie_96_R5,White-tailed deer,0,20
-Sun_Prairie_97_R1,American bison,3111.4987142321206,30
-Sun_Prairie_97_R1,Coyote,0,30
-Sun_Prairie_97_R1,Mule deer,0,30
-Sun_Prairie_97_R1,Pronghorn,3.4287465522525284,30
-Sun_Prairie_97_R1,White-tailed deer,0,30
-Sun_Prairie_97_R2,American bison,629.1944946197714,38
-Sun_Prairie_97_R2,Coyote,0,38
-Sun_Prairie_97_R2,Mule deer,0,38
-Sun_Prairie_97_R2,Pronghorn,17.857493104505057,38
-Sun_Prairie_97_R2,White-tailed deer,0,38
-Sun_Prairie_97_R3,American bison,280.19159806982685,25
-Sun_Prairie_97_R3,Coyote,0,25
-Sun_Prairie_97_R3,Mule deer,0,25
-Sun_Prairie_97_R3,Pronghorn,0,25
-Sun_Prairie_97_R3,White-tailed deer,0,25
-Sun_Prairie_97_R4,American bison,117.15915980698267,24
-Sun_Prairie_97_R4,Coyote,0,24
-Sun_Prairie_97_R4,Mule deer,0,24
-Sun_Prairie_97_R4,Pronghorn,0,24
-Sun_Prairie_97_R4,White-tailed deer,0,24
-Sun_Prairie_97_R5,American bison,78.0716486465564,5
-Sun_Prairie_97_R5,Coyote,0,5
-Sun_Prairie_97_R5,Mule deer,31.87720710838087,5
-Sun_Prairie_97_R5,Pronghorn,0,5
-Sun_Prairie_97_R5,White-tailed deer,0,5
-Sun_Prairie_98_R1,American bison,247.0597708564498,23
-Sun_Prairie_98_R1,Coyote,0,23
-Sun_Prairie_98_R1,Mule deer,0,23
-Sun_Prairie_98_R1,Pronghorn,10.286239656757585,23
-Sun_Prairie_98_R1,White-tailed deer,0,23
-Sun_Prairie_98_R2,American bison,183.67230754012758,0
-Sun_Prairie_98_R2,Coyote,0,0
-Sun_Prairie_98_R2,Mule deer,0,0
-Sun_Prairie_98_R2,Pronghorn,0,0
-Sun_Prairie_98_R2,White-tailed deer,0,0
-Sun_Prairie_98_R3,American bison,423.1218558585549,3
-Sun_Prairie_98_R3,Coyote,0,3
-Sun_Prairie_98_R3,Mule deer,0,3
-Sun_Prairie_98_R3,Pronghorn,0,3
-Sun_Prairie_98_R3,White-tailed deer,0,3
-Sun_Prairie_98_R4,American bison,1596.669118162564,32
-Sun_Prairie_98_R4,Coyote,0,32
-Sun_Prairie_98_R4,Mule deer,27.036035541904344,32
-Sun_Prairie_98_R4,Pronghorn,132.6585238533047,32
-Sun_Prairie_98_R4,White-tailed deer,0,32
-Sun_Prairie_98_R5,American bison,1436.449434961081,6
-Sun_Prairie_98_R5,Coyote,0,6
-Sun_Prairie_98_R5,Mule deer,28.440900614304518,6
-Sun_Prairie_98_R5,Pronghorn,0,6
-Sun_Prairie_98_R5,White-tailed deer,0,6
-Sun_Prairie_99_R1,American bison,152.6798472376332,1
-Sun_Prairie_99_R1,Coyote,0,1
-Sun_Prairie_99_R1,Mule deer,0,1
-Sun_Prairie_99_R1,Pronghorn,0,1
-Sun_Prairie_99_R1,White-tailed deer,0,1
-Sun_Prairie_99_R2,American bison,20.684334116068435,13
-Sun_Prairie_99_R2,Coyote,4.041743970315399,13
-Sun_Prairie_99_R2,Mule deer,8.614414216761737,13
-Sun_Prairie_99_R2,Pronghorn,0,13
-Sun_Prairie_99_R2,White-tailed deer,0,13
-Sun_Prairie_99_R3,American bison,16.83180140892318,25
-Sun_Prairie_99_R3,Coyote,0,25
-Sun_Prairie_99_R3,Mule deer,4.807207108380869,25
-Sun_Prairie_99_R3,Pronghorn,0,25
-Sun_Prairie_99_R3,White-tailed deer,0,25
-Sun_Prairie_99_R4,American bison,0,34
-Sun_Prairie_99_R4,Coyote,50.29220779220779,34
-Sun_Prairie_99_R4,Mule deer,19.80720710838087,34
-Sun_Prairie_99_R4,Pronghorn,5.4287465522525284,34
-Sun_Prairie_99_R4,White-tailed deer,0,34
-Sun_Prairie_99_R5,American bison,0,18
-Sun_Prairie_99_R5,Coyote,0,18
-Sun_Prairie_99_R5,Mule deer,16.80720710838087,18
-Sun_Prairie_99_R5,Pronghorn,0,18
-Sun_Prairie_99_R5,White-tailed deer,0,18
+deployment_id,species,time_in_fov_s,image_time_s,duration_days
+SUN_PRAIRIE_10_R1,American bison,0,0,25.80521991
+SUN_PRAIRIE_10_R1,Coyote,0,0,25.80521991
+SUN_PRAIRIE_10_R1,Mule deer,887.0850508687038,920,25.80521991
+SUN_PRAIRIE_10_R1,Pronghorn,20.494344644045242,26,25.80521991
+SUN_PRAIRIE_10_R1,White-tailed deer,0,0,25.80521991
+SUN_PRAIRIE_10_R2,American bison,0,0,34.96375
+SUN_PRAIRIE_10_R2,Coyote,0,0,34.96375
+SUN_PRAIRIE_10_R2,Mule deer,83.68651808549507,138,34.96375
+SUN_PRAIRIE_10_R2,Pronghorn,0,0,34.96375
+SUN_PRAIRIE_10_R2,White-tailed deer,0,0,34.96375
+SUN_PRAIRIE_10_R3,American bison,0,0,28.97431713
+SUN_PRAIRIE_10_R3,Coyote,0,0,28.97431713
+SUN_PRAIRIE_10_R3,Mule deer,0,0,28.97431713
+SUN_PRAIRIE_10_R3,Pronghorn,0,0,28.97431713
+SUN_PRAIRIE_10_R3,White-tailed deer,0,0,28.97431713
+SUN_PRAIRIE_10_R4,American bison,0,0,32.06153935
+SUN_PRAIRIE_10_R4,Coyote,5.041758241758242,8,32.06153935
+SUN_PRAIRIE_10_R4,Mule deer,0,0,32.06153935
+SUN_PRAIRIE_10_R4,Pronghorn,0,0,32.06153935
+SUN_PRAIRIE_10_R4,White-tailed deer,0,0,32.06153935
+SUN_PRAIRIE_100_R1,American bison,0,0,0.004803241
+SUN_PRAIRIE_100_R1,Coyote,0,0,0.004803241
+SUN_PRAIRIE_100_R1,Mule deer,0,0,0.004803241
+SUN_PRAIRIE_100_R1,Pronghorn,0,0,0.004803241
+SUN_PRAIRIE_100_R1,White-tailed deer,0,0,0.004803241
+SUN_PRAIRIE_100_R2,American bison,0,0,35.96418981
+SUN_PRAIRIE_100_R2,Coyote,0,0,35.96418981
+SUN_PRAIRIE_100_R2,Mule deer,0,0,35.96418981
+SUN_PRAIRIE_100_R2,Pronghorn,0,0,35.96418981
+SUN_PRAIRIE_100_R2,White-tailed deer,0,0,35.96418981
+SUN_PRAIRIE_100_R3,American bison,0,0,28.04516204
+SUN_PRAIRIE_100_R3,Coyote,0,0,28.04516204
+SUN_PRAIRIE_100_R3,Mule deer,0,0,28.04516204
+SUN_PRAIRIE_100_R3,Pronghorn,0,0,28.04516204
+SUN_PRAIRIE_100_R3,White-tailed deer,0,0,28.04516204
+SUN_PRAIRIE_100_R4,American bison,0,0,31.13994213
+SUN_PRAIRIE_100_R4,Coyote,0,0,31.13994213
+SUN_PRAIRIE_100_R4,Mule deer,0,0,31.13994213
+SUN_PRAIRIE_100_R4,Pronghorn,0,0,31.13994213
+SUN_PRAIRIE_100_R4,White-tailed deer,0,0,31.13994213
+SUN_PRAIRIE_101_R1,American bison,0,0,27.02858796
+SUN_PRAIRIE_101_R1,Coyote,0,0,27.02858796
+SUN_PRAIRIE_101_R1,Mule deer,0,0,27.02858796
+SUN_PRAIRIE_101_R1,Pronghorn,0,0,27.02858796
+SUN_PRAIRIE_101_R1,White-tailed deer,0,0,27.02858796
+SUN_PRAIRIE_101_R3,American bison,0,0,24.79546296
+SUN_PRAIRIE_101_R3,Coyote,0,0,24.79546296
+SUN_PRAIRIE_101_R3,Mule deer,0,0,24.79546296
+SUN_PRAIRIE_101_R3,Pronghorn,0,0,24.79546296
+SUN_PRAIRIE_101_R3,White-tailed deer,0,0,24.79546296
+SUN_PRAIRIE_101_R4,American bison,669.5498981936219,538,21.60496528
+SUN_PRAIRIE_101_R4,Coyote,0,0,21.60496528
+SUN_PRAIRIE_101_R4,Mule deer,0,0,21.60496528
+SUN_PRAIRIE_101_R4,Pronghorn,49.36793080505655,18,21.60496528
+SUN_PRAIRIE_101_R4,White-tailed deer,0,0,21.60496528
+SUN_PRAIRIE_101_R5,American bison,404.03568728692915,480,22.10350694
+SUN_PRAIRIE_101_R5,Coyote,0,0,22.10350694
+SUN_PRAIRIE_101_R5,Mule deer,0,0,22.10350694
+SUN_PRAIRIE_101_R5,Pronghorn,0,0,22.10350694
+SUN_PRAIRIE_101_R5,White-tailed deer,0,0,22.10350694
+SUN_PRAIRIE_102_R1,American bison,138.53162795354427,26,29.90532407
+SUN_PRAIRIE_102_R1,Coyote,10.041758241758242,14,29.90532407
+SUN_PRAIRIE_102_R1,Mule deer,0,0,29.90532407
+SUN_PRAIRIE_102_R1,Pronghorn,0,0,29.90532407
+SUN_PRAIRIE_102_R1,White-tailed deer,0,0,29.90532407
+SUN_PRAIRIE_102_R2,American bison,0,0,36.01777778
+SUN_PRAIRIE_102_R2,Coyote,0,0,36.01777778
+SUN_PRAIRIE_102_R2,Mule deer,0,0,36.01777778
+SUN_PRAIRIE_102_R2,Pronghorn,0,0,36.01777778
+SUN_PRAIRIE_102_R2,White-tailed deer,0,0,36.01777778
+SUN_PRAIRIE_102_R3,American bison,0,0,27.91331019
+SUN_PRAIRIE_102_R3,Coyote,0,0,27.91331019
+SUN_PRAIRIE_102_R3,Mule deer,0,0,27.91331019
+SUN_PRAIRIE_102_R3,Pronghorn,0,0,27.91331019
+SUN_PRAIRIE_102_R3,White-tailed deer,0,0,27.91331019
+SUN_PRAIRIE_102_R4,American bison,65.23162795354425,68,11.51523148
+SUN_PRAIRIE_102_R4,Coyote,6.041758241758242,10,11.51523148
+SUN_PRAIRIE_102_R4,Mule deer,0,0,11.51523148
+SUN_PRAIRIE_102_R4,Pronghorn,0,0,11.51523148
+SUN_PRAIRIE_102_R4,White-tailed deer,0,0,11.51523148
+SUN_PRAIRIE_102_R5,American bison,105.86271325590708,138,22.00486111
+SUN_PRAIRIE_102_R5,Coyote,11.083516483516483,10,22.00486111
+SUN_PRAIRIE_102_R5,Mule deer,0,0,22.00486111
+SUN_PRAIRIE_102_R5,Pronghorn,0,0,22.00486111
+SUN_PRAIRIE_102_R5,White-tailed deer,0,0,22.00486111
+SUN_PRAIRIE_103_R1,American bison,35.410542651181416,54,4.160509259
+SUN_PRAIRIE_103_R1,Coyote,3.0417582417582416,4,4.160509259
+SUN_PRAIRIE_103_R1,Mule deer,0,0,4.160509259
+SUN_PRAIRIE_103_R1,Pronghorn,0,0,4.160509259
+SUN_PRAIRIE_103_R1,White-tailed deer,0,0,4.160509259
+SUN_PRAIRIE_103_R2,American bison,0,0,0.286064815
+SUN_PRAIRIE_103_R2,Coyote,0,0,0.286064815
+SUN_PRAIRIE_103_R2,Mule deer,0,0,0.286064815
+SUN_PRAIRIE_103_R2,Pronghorn,0,0,0.286064815
+SUN_PRAIRIE_103_R2,White-tailed deer,0,0,0.286064815
+SUN_PRAIRIE_103_R3,American bison,0,0,8.856608796
+SUN_PRAIRIE_103_R3,Coyote,0,0,8.856608796
+SUN_PRAIRIE_103_R3,Mule deer,0,0,8.856608796
+SUN_PRAIRIE_103_R3,Pronghorn,0,0,8.856608796
+SUN_PRAIRIE_103_R3,White-tailed deer,0,0,8.856608796
+SUN_PRAIRIE_103_R4,American bison,77.23162795354425,62,32.03387731
+SUN_PRAIRIE_103_R4,Coyote,120.39054945054946,92,32.03387731
+SUN_PRAIRIE_103_R4,Mule deer,0,0,32.03387731
+SUN_PRAIRIE_103_R4,Pronghorn,0,0,32.03387731
+SUN_PRAIRIE_103_R4,White-tailed deer,0,0,32.03387731
+SUN_PRAIRIE_103_R5,American bison,0,0,22.00788194
+SUN_PRAIRIE_103_R5,Coyote,0,0,22.00788194
+SUN_PRAIRIE_103_R5,Mule deer,0,0,22.00788194
+SUN_PRAIRIE_103_R5,Pronghorn,0,0,22.00788194
+SUN_PRAIRIE_103_R5,White-tailed deer,0,0,22.00788194
+SUN_PRAIRIE_104_R1,American bison,216.31516170833575,138,8.191724537
+SUN_PRAIRIE_104_R1,Coyote,4.041758241758242,6,8.191724537
+SUN_PRAIRIE_104_R1,Mule deer,4.895506028498356,8,8.191724537
+SUN_PRAIRIE_104_R1,Pronghorn,0,0,8.191724537
+SUN_PRAIRIE_104_R1,White-tailed deer,0,0,8.191724537
+SUN_PRAIRIE_104_R2,American bison,0,0,41.97313657
+SUN_PRAIRIE_104_R2,Coyote,0,0,41.97313657
+SUN_PRAIRIE_104_R2,Mule deer,0,0,41.97313657
+SUN_PRAIRIE_104_R2,Pronghorn,0,0,41.97313657
+SUN_PRAIRIE_104_R2,White-tailed deer,0,0,41.97313657
+SUN_PRAIRIE_104_R3,American bison,0,0,20.83571759
+SUN_PRAIRIE_104_R3,Coyote,0,0,20.83571759
+SUN_PRAIRIE_104_R3,Mule deer,0,0,20.83571759
+SUN_PRAIRIE_104_R3,Pronghorn,0,0,20.83571759
+SUN_PRAIRIE_104_R3,White-tailed deer,0,0,20.83571759
+SUN_PRAIRIE_104_R4,American bison,126.51054265118141,86,0.013090278
+SUN_PRAIRIE_104_R4,Coyote,0,0,0.013090278
+SUN_PRAIRIE_104_R4,Mule deer,0,0,0.013090278
+SUN_PRAIRIE_104_R4,Pronghorn,0,0,0.013090278
+SUN_PRAIRIE_104_R4,White-tailed deer,0,0,0.013090278
+SUN_PRAIRIE_104_R5,American bison,267.20217060472567,246,22.07222222
+SUN_PRAIRIE_104_R5,Coyote,0,0,22.07222222
+SUN_PRAIRIE_104_R5,Mule deer,43.89550602849835,44,22.07222222
+SUN_PRAIRIE_104_R5,Pronghorn,0,0,22.07222222
+SUN_PRAIRIE_104_R5,White-tailed deer,0,0,22.07222222
+SUN_PRAIRIE_105_R1,American bison,33.82108530236283,44,29.94638889
+SUN_PRAIRIE_105_R1,Coyote,4.041758241758242,4,29.94638889
+SUN_PRAIRIE_105_R1,Mule deer,0,0,29.94638889
+SUN_PRAIRIE_105_R1,Pronghorn,0,0,29.94638889
+SUN_PRAIRIE_105_R1,White-tailed deer,0,0,29.94638889
+SUN_PRAIRIE_105_R2,American bison,0,0,34.00171296
+SUN_PRAIRIE_105_R2,Coyote,0,0,34.00171296
+SUN_PRAIRIE_105_R2,Mule deer,0,0,34.00171296
+SUN_PRAIRIE_105_R2,Pronghorn,0,0,34.00171296
+SUN_PRAIRIE_105_R2,White-tailed deer,0,0,34.00171296
+SUN_PRAIRIE_105_R3,American bison,0,0,26.96376157
+SUN_PRAIRIE_105_R3,Coyote,0,0,26.96376157
+SUN_PRAIRIE_105_R3,Mule deer,0,0,26.96376157
+SUN_PRAIRIE_105_R3,Pronghorn,0,0,26.96376157
+SUN_PRAIRIE_105_R3,White-tailed deer,0,0,26.96376157
+SUN_PRAIRIE_105_R4,American bison,0,0,34.06239583
+SUN_PRAIRIE_105_R4,Coyote,0,0,34.06239583
+SUN_PRAIRIE_105_R4,Mule deer,0,0,34.06239583
+SUN_PRAIRIE_105_R4,Pronghorn,0,0,34.06239583
+SUN_PRAIRIE_105_R4,White-tailed deer,0,0,34.06239583
+SUN_PRAIRIE_105_R5,American bison,174.47317979353002,172,19.18077546
+SUN_PRAIRIE_105_R5,Coyote,0,0,19.18077546
+SUN_PRAIRIE_105_R5,Mule deer,0,0,19.18077546
+SUN_PRAIRIE_105_R5,Pronghorn,0,0,19.18077546
+SUN_PRAIRIE_105_R5,White-tailed deer,0,0,19.18077546
+SUN_PRAIRIE_106_R1,American bison,78.33318607328795,78,29.97859954
+SUN_PRAIRIE_106_R1,Coyote,0,0,29.97859954
+SUN_PRAIRIE_106_R1,Mule deer,0,0,29.97859954
+SUN_PRAIRIE_106_R1,Pronghorn,0,0,29.97859954
+SUN_PRAIRIE_106_R1,White-tailed deer,50.39163476372779,52,29.97859954
+SUN_PRAIRIE_106_R2,American bison,0,0,26.48346065
+SUN_PRAIRIE_106_R2,Coyote,0,0,26.48346065
+SUN_PRAIRIE_106_R2,Mule deer,0,0,26.48346065
+SUN_PRAIRIE_106_R2,Pronghorn,0,0,26.48346065
+SUN_PRAIRIE_106_R2,White-tailed deer,0,0,26.48346065
+SUN_PRAIRIE_106_R3,American bison,0,0,0.850914352
+SUN_PRAIRIE_106_R3,Coyote,0,0,0.850914352
+SUN_PRAIRIE_106_R3,Mule deer,0,0,0.850914352
+SUN_PRAIRIE_106_R3,Pronghorn,0,0,0.850914352
+SUN_PRAIRIE_106_R3,White-tailed deer,0,0,0.850914352
+SUN_PRAIRIE_106_R4,American bison,921.0079005286344,1412,12.5965625
+SUN_PRAIRIE_106_R4,Coyote,0,0,12.5965625
+SUN_PRAIRIE_106_R4,Mule deer,0,0,12.5965625
+SUN_PRAIRIE_106_R4,Pronghorn,0,0,12.5965625
+SUN_PRAIRIE_106_R4,White-tailed deer,0,0,12.5965625
+SUN_PRAIRIE_106_R5,American bison,68.33162795354426,72,19.16335648
+SUN_PRAIRIE_106_R5,Coyote,0,0,19.16335648
+SUN_PRAIRIE_106_R5,Mule deer,0,0,19.16335648
+SUN_PRAIRIE_106_R5,Pronghorn,0,0,19.16335648
+SUN_PRAIRIE_106_R5,White-tailed deer,0,0,19.16335648
+SUN_PRAIRIE_107_R1,American bison,0,0,15.70215278
+SUN_PRAIRIE_107_R1,Coyote,0,0,15.70215278
+SUN_PRAIRIE_107_R1,Mule deer,85.58202411399343,64,15.70215278
+SUN_PRAIRIE_107_R1,Pronghorn,0,0,15.70215278
+SUN_PRAIRIE_107_R1,White-tailed deer,0,0,15.70215278
+SUN_PRAIRIE_107_R2,American bison,0,0,37.87224537
+SUN_PRAIRIE_107_R2,Coyote,0,0,37.87224537
+SUN_PRAIRIE_107_R2,Mule deer,0,0,37.87224537
+SUN_PRAIRIE_107_R2,Pronghorn,0,0,37.87224537
+SUN_PRAIRIE_107_R2,White-tailed deer,0,0,37.87224537
+SUN_PRAIRIE_107_R3,American bison,0,0,25.25414352
+SUN_PRAIRIE_107_R3,Coyote,0,0,25.25414352
+SUN_PRAIRIE_107_R3,Mule deer,0,0,25.25414352
+SUN_PRAIRIE_107_R3,Pronghorn,0,0,25.25414352
+SUN_PRAIRIE_107_R3,White-tailed deer,0,0,25.25414352
+SUN_PRAIRIE_107_R4,American bison,0,0,27.4806713
+SUN_PRAIRIE_107_R4,Coyote,0,0,27.4806713
+SUN_PRAIRIE_107_R4,Mule deer,0,0,27.4806713
+SUN_PRAIRIE_107_R4,Pronghorn,0,0,27.4806713
+SUN_PRAIRIE_107_R4,White-tailed deer,276.5838068300859,422,27.4806713
+SUN_PRAIRIE_107_R5,American bison,7.410542651181418,14,17.98284722
+SUN_PRAIRIE_107_R5,Coyote,0,0,17.98284722
+SUN_PRAIRIE_107_R5,Mule deer,113.56101205699672,102,17.98284722
+SUN_PRAIRIE_107_R5,Pronghorn,0,0,17.98284722
+SUN_PRAIRIE_107_R5,White-tailed deer,70.65210559396606,118,17.98284722
+SUN_PRAIRIE_108_R1,American bison,195.93354351888937,178,29.96465278
+SUN_PRAIRIE_108_R1,Coyote,0,0,29.96465278
+SUN_PRAIRIE_108_R1,Mule deer,0,0,29.96465278
+SUN_PRAIRIE_108_R1,Pronghorn,0,0,29.96465278
+SUN_PRAIRIE_108_R1,White-tailed deer,0,0,29.96465278
+SUN_PRAIRIE_108_R2,American bison,0,0,38.79028935
+SUN_PRAIRIE_108_R2,Coyote,0,0,38.79028935
+SUN_PRAIRIE_108_R2,Mule deer,0,0,38.79028935
+SUN_PRAIRIE_108_R2,Pronghorn,0,0,38.79028935
+SUN_PRAIRIE_108_R2,White-tailed deer,0,0,38.79028935
+SUN_PRAIRIE_108_R3,American bison,0,0,20.99662037
+SUN_PRAIRIE_108_R3,Coyote,0,0,20.99662037
+SUN_PRAIRIE_108_R3,Mule deer,0,0,20.99662037
+SUN_PRAIRIE_108_R3,Pronghorn,0,0,20.99662037
+SUN_PRAIRIE_108_R3,White-tailed deer,0,0,20.99662037
+SUN_PRAIRIE_108_R4,American bison,159.99674426703348,160,33.6796412
+SUN_PRAIRIE_108_R4,Coyote,0,0,33.6796412
+SUN_PRAIRIE_108_R4,Mule deer,0,0,33.6796412
+SUN_PRAIRIE_108_R4,Pronghorn,1.7471723220226214,2,33.6796412
+SUN_PRAIRIE_108_R4,White-tailed deer,0,0,33.6796412
+SUN_PRAIRIE_108_R5,American bison,0,0,6.094803241
+SUN_PRAIRIE_108_R5,Coyote,0,0,6.094803241
+SUN_PRAIRIE_108_R5,Mule deer,0,0,6.094803241
+SUN_PRAIRIE_108_R5,Pronghorn,0,0,6.094803241
+SUN_PRAIRIE_108_R5,White-tailed deer,0,0,6.094803241
+SUN_PRAIRIE_109_R1,American bison,0,0,4.257430556
+SUN_PRAIRIE_109_R1,Coyote,0,0,4.257430556
+SUN_PRAIRIE_109_R1,Mule deer,0,0,4.257430556
+SUN_PRAIRIE_109_R1,Pronghorn,12.747172322022621,14,4.257430556
+SUN_PRAIRIE_109_R1,White-tailed deer,0,0,4.257430556
+SUN_PRAIRIE_109_R2,American bison,0,0,37.87484954
+SUN_PRAIRIE_109_R2,Coyote,0,0,37.87484954
+SUN_PRAIRIE_109_R2,Mule deer,0,0,37.87484954
+SUN_PRAIRIE_109_R2,Pronghorn,0,0,37.87484954
+SUN_PRAIRIE_109_R2,White-tailed deer,0,0,37.87484954
+SUN_PRAIRIE_109_R3,American bison,0,0,25.31693287
+SUN_PRAIRIE_109_R3,Coyote,0,0,25.31693287
+SUN_PRAIRIE_109_R3,Mule deer,0,0,25.31693287
+SUN_PRAIRIE_109_R3,Pronghorn,0,0,25.31693287
+SUN_PRAIRIE_109_R3,White-tailed deer,0,0,25.31693287
+SUN_PRAIRIE_109_R4,American bison,931.9741330400052,942,33.64217593
+SUN_PRAIRIE_109_R4,Coyote,7.041758241758242,14,33.64217593
+SUN_PRAIRIE_109_R4,Mule deer,0,0,33.64217593
+SUN_PRAIRIE_109_R4,Pronghorn,24.735861610113105,42,33.64217593
+SUN_PRAIRIE_109_R4,White-tailed deer,0,0,33.64217593
+SUN_PRAIRIE_109_R5,American bison,277.6981397677213,246,0.973020833
+SUN_PRAIRIE_109_R5,Coyote,0,0,0.973020833
+SUN_PRAIRIE_109_R5,Mule deer,0,0,0.973020833
+SUN_PRAIRIE_109_R5,Pronghorn,0,0,0.973020833
+SUN_PRAIRIE_109_R5,White-tailed deer,0,0,0.973020833
+SUN_PRAIRIE_110_R1,American bison,0,0,4.063645833
+SUN_PRAIRIE_110_R1,Coyote,0,0,4.063645833
+SUN_PRAIRIE_110_R1,Mule deer,0,0,4.063645833
+SUN_PRAIRIE_110_R1,Pronghorn,0,0,4.063645833
+SUN_PRAIRIE_110_R1,White-tailed deer,0,0,4.063645833
+SUN_PRAIRIE_110_R2,American bison,0,0,36.00190972
+SUN_PRAIRIE_110_R2,Coyote,0,0,36.00190972
+SUN_PRAIRIE_110_R2,Mule deer,0,0,36.00190972
+SUN_PRAIRIE_110_R2,Pronghorn,0,0,36.00190972
+SUN_PRAIRIE_110_R2,White-tailed deer,0,0,36.00190972
+SUN_PRAIRIE_110_R3,American bison,0,0,28.04716435
+SUN_PRAIRIE_110_R3,Coyote,0,0,28.04716435
+SUN_PRAIRIE_110_R3,Mule deer,0,0,28.04716435
+SUN_PRAIRIE_110_R3,Pronghorn,0,0,28.04716435
+SUN_PRAIRIE_110_R3,White-tailed deer,0,0,28.04716435
+SUN_PRAIRIE_110_R4,American bison,0,0,22.27039352
+SUN_PRAIRIE_110_R4,Coyote,27.125274725274725,42,22.27039352
+SUN_PRAIRIE_110_R4,Mule deer,0,0,22.27039352
+SUN_PRAIRIE_110_R4,Pronghorn,0,0,22.27039352
+SUN_PRAIRIE_110_R4,White-tailed deer,0,0,22.27039352
+SUN_PRAIRIE_110_R5,American bison,0,0,22.00241898
+SUN_PRAIRIE_110_R5,Coyote,38.24351648351649,44,22.00241898
+SUN_PRAIRIE_110_R5,Mule deer,0,0,22.00241898
+SUN_PRAIRIE_110_R5,Pronghorn,0,0,22.00241898
+SUN_PRAIRIE_110_R5,White-tailed deer,0,0,22.00241898
+SUN_PRAIRIE_111_R1,American bison,6.821085302362835,8,8.023391204
+SUN_PRAIRIE_111_R1,Coyote,0,0,8.023391204
+SUN_PRAIRIE_111_R1,Mule deer,134.63241081004634,122,8.023391204
+SUN_PRAIRIE_111_R1,Pronghorn,0,0,8.023391204
+SUN_PRAIRIE_111_R1,White-tailed deer,0,0,8.023391204
+SUN_PRAIRIE_111_R2,American bison,0,0,36.03097222
+SUN_PRAIRIE_111_R2,Coyote,0,0,36.03097222
+SUN_PRAIRIE_111_R2,Mule deer,0,0,36.03097222
+SUN_PRAIRIE_111_R2,Pronghorn,0,0,36.03097222
+SUN_PRAIRIE_111_R2,White-tailed deer,0,0,36.03097222
+SUN_PRAIRIE_111_R3,American bison,0,0,28.0074537
+SUN_PRAIRIE_111_R3,Coyote,0,0,28.0074537
+SUN_PRAIRIE_111_R3,Mule deer,0,0,28.0074537
+SUN_PRAIRIE_111_R3,Pronghorn,0,0,28.0074537
+SUN_PRAIRIE_111_R3,White-tailed deer,0,0,28.0074537
+SUN_PRAIRIE_111_R4,American bison,0,0,31.14690972
+SUN_PRAIRIE_111_R4,Coyote,0,0,31.14690972
+SUN_PRAIRIE_111_R4,Mule deer,0,0,31.14690972
+SUN_PRAIRIE_111_R4,Pronghorn,0,0,31.14690972
+SUN_PRAIRIE_111_R4,White-tailed deer,0,0,31.14690972
+SUN_PRAIRIE_111_R5,American bison,202.4876234375988,150,22.04189815
+SUN_PRAIRIE_111_R5,Coyote,0,0,22.04189815
+SUN_PRAIRIE_111_R5,Mule deer,0,0,22.04189815
+SUN_PRAIRIE_111_R5,Pronghorn,0,0,22.04189815
+SUN_PRAIRIE_111_R5,White-tailed deer,0,0,22.04189815
+SUN_PRAIRIE_112_R1,American bison,57.520542651181415,36,31.84800926
+SUN_PRAIRIE_112_R1,Coyote,0,0,31.84800926
+SUN_PRAIRIE_112_R1,Mule deer,25.165506028498356,6,31.84800926
+SUN_PRAIRIE_112_R1,Pronghorn,0,0,31.84800926
+SUN_PRAIRIE_112_R1,White-tailed deer,0,0,31.84800926
+SUN_PRAIRIE_112_R2,American bison,0,0,6.164444444
+SUN_PRAIRIE_112_R2,Coyote,0,0,6.164444444
+SUN_PRAIRIE_112_R2,Mule deer,0,0,6.164444444
+SUN_PRAIRIE_112_R2,Pronghorn,0,0,6.164444444
+SUN_PRAIRIE_112_R2,White-tailed deer,0,0,6.164444444
+SUN_PRAIRIE_112_R3,American bison,0,0,27.94827546
+SUN_PRAIRIE_112_R3,Coyote,0,0,27.94827546
+SUN_PRAIRIE_112_R3,Mule deer,0,0,27.94827546
+SUN_PRAIRIE_112_R3,Pronghorn,0,0,27.94827546
+SUN_PRAIRIE_112_R3,White-tailed deer,0,0,27.94827546
+SUN_PRAIRIE_112_R4,American bison,53.230542651181416,38,7.005462963
+SUN_PRAIRIE_112_R4,Coyote,0,0,7.005462963
+SUN_PRAIRIE_112_R4,Mule deer,0,0,7.005462963
+SUN_PRAIRIE_112_R4,Pronghorn,0,0,7.005462963
+SUN_PRAIRIE_112_R4,White-tailed deer,0,0,7.005462963
+SUN_PRAIRIE_112_R5,American bison,60.64217060472567,60,4.304421296
+SUN_PRAIRIE_112_R5,Coyote,0,0,4.304421296
+SUN_PRAIRIE_112_R5,Mule deer,0,0,4.304421296
+SUN_PRAIRIE_112_R5,Pronghorn,0,0,4.304421296
+SUN_PRAIRIE_112_R5,White-tailed deer,0,0,4.304421296
+SUN_PRAIRIE_113_R1,American bison,4.410542651181418,8,27.93730324
+SUN_PRAIRIE_113_R1,Coyote,0,0,27.93730324
+SUN_PRAIRIE_113_R1,Mule deer,0,0,27.93730324
+SUN_PRAIRIE_113_R1,Pronghorn,0,0,27.93730324
+SUN_PRAIRIE_113_R1,White-tailed deer,0,0,27.93730324
+SUN_PRAIRIE_113_R2,American bison,0,0,34.00359954
+SUN_PRAIRIE_113_R2,Coyote,0,0,34.00359954
+SUN_PRAIRIE_113_R2,Mule deer,0,0,34.00359954
+SUN_PRAIRIE_113_R2,Pronghorn,0,0,34.00359954
+SUN_PRAIRIE_113_R2,White-tailed deer,0,0,34.00359954
+SUN_PRAIRIE_113_R3,American bison,0,0,2.400729167
+SUN_PRAIRIE_113_R3,Coyote,0,0,2.400729167
+SUN_PRAIRIE_113_R3,Mule deer,0,0,2.400729167
+SUN_PRAIRIE_113_R3,Pronghorn,0,0,2.400729167
+SUN_PRAIRIE_113_R3,White-tailed deer,0,0,2.400729167
+SUN_PRAIRIE_113_R4,American bison,0,0,1.560115741
+SUN_PRAIRIE_113_R4,Coyote,0,0,1.560115741
+SUN_PRAIRIE_113_R4,Mule deer,0,0,1.560115741
+SUN_PRAIRIE_113_R4,Pronghorn,0,0,1.560115741
+SUN_PRAIRIE_113_R4,White-tailed deer,0,0,1.560115741
+SUN_PRAIRIE_113_R5,American bison,265.60162795354427,192,5.389027778
+SUN_PRAIRIE_113_R5,Coyote,0,0,5.389027778
+SUN_PRAIRIE_113_R5,Mule deer,0,0,5.389027778
+SUN_PRAIRIE_113_R5,Pronghorn,0,0,5.389027778
+SUN_PRAIRIE_113_R5,White-tailed deer,0,0,5.389027778
+SUN_PRAIRIE_114_R1,American bison,31.29054265118142,18,29.94122685
+SUN_PRAIRIE_114_R1,Coyote,0,0,29.94122685
+SUN_PRAIRIE_114_R1,Mule deer,0,0,29.94122685
+SUN_PRAIRIE_114_R1,Pronghorn,0,0,29.94122685
+SUN_PRAIRIE_114_R1,White-tailed deer,56.37861093651791,66,29.94122685
+SUN_PRAIRIE_114_R2,American bison,0,0,13.73395833
+SUN_PRAIRIE_114_R2,Coyote,0,0,13.73395833
+SUN_PRAIRIE_114_R2,Mule deer,0,0,13.73395833
+SUN_PRAIRIE_114_R2,Pronghorn,0,0,13.73395833
+SUN_PRAIRIE_114_R2,White-tailed deer,0,0,13.73395833
+SUN_PRAIRIE_114_R3,American bison,0,0,25.96171296
+SUN_PRAIRIE_114_R3,Coyote,0,0,25.96171296
+SUN_PRAIRIE_114_R3,Mule deer,0,0,25.96171296
+SUN_PRAIRIE_114_R3,Pronghorn,0,0,25.96171296
+SUN_PRAIRIE_114_R3,White-tailed deer,0,0,25.96171296
+SUN_PRAIRIE_114_R4,American bison,0,0,34.0353588
+SUN_PRAIRIE_114_R4,Coyote,0,0,34.0353588
+SUN_PRAIRIE_114_R4,Mule deer,593.6949266882363,952,34.0353588
+SUN_PRAIRIE_114_R4,Pronghorn,0,0,34.0353588
+SUN_PRAIRIE_114_R4,White-tailed deer,0,0,34.0353588
+SUN_PRAIRIE_114_R5,American bison,126.41054265118142,206,19.18378472
+SUN_PRAIRIE_114_R5,Coyote,0,0,19.18378472
+SUN_PRAIRIE_114_R5,Mule deer,99.23873897385042,150,19.18378472
+SUN_PRAIRIE_114_R5,Pronghorn,0,0,19.18378472
+SUN_PRAIRIE_114_R5,White-tailed deer,0,0,19.18378472
+SUN_PRAIRIE_115_R1,American bison,0,0,26.01875
+SUN_PRAIRIE_115_R1,Coyote,0,0,26.01875
+SUN_PRAIRIE_115_R1,Mule deer,0,0,26.01875
+SUN_PRAIRIE_115_R1,Pronghorn,0,0,26.01875
+SUN_PRAIRIE_115_R1,White-tailed deer,71.6823610079424,108,26.01875
+SUN_PRAIRIE_115_R2,American bison,0,0,25.71938657
+SUN_PRAIRIE_115_R2,Coyote,0,0,25.71938657
+SUN_PRAIRIE_115_R2,Mule deer,0,0,25.71938657
+SUN_PRAIRIE_115_R2,Pronghorn,0,0,25.71938657
+SUN_PRAIRIE_115_R2,White-tailed deer,0,0,25.71938657
+SUN_PRAIRIE_115_R3,American bison,0,0,1.671782407
+SUN_PRAIRIE_115_R3,Coyote,0,0,1.671782407
+SUN_PRAIRIE_115_R3,Mule deer,0,0,1.671782407
+SUN_PRAIRIE_115_R3,Pronghorn,0,0,1.671782407
+SUN_PRAIRIE_115_R3,White-tailed deer,0,0,1.671782407
+SUN_PRAIRIE_115_R4,American bison,320.6510853023628,350,9.66650463
+SUN_PRAIRIE_115_R4,Coyote,0,0,9.66650463
+SUN_PRAIRIE_115_R4,Mule deer,0,0,9.66650463
+SUN_PRAIRIE_115_R4,Pronghorn,0,0,9.66650463
+SUN_PRAIRIE_115_R4,White-tailed deer,0,0,9.66650463
+SUN_PRAIRIE_115_R5,American bison,1122.786116894678,1076,6.596226852
+SUN_PRAIRIE_115_R5,Coyote,31.04175824175824,42,6.596226852
+SUN_PRAIRIE_115_R5,Mule deer,118.53042885779459,146,6.596226852
+SUN_PRAIRIE_115_R5,Pronghorn,0,0,6.596226852
+SUN_PRAIRIE_115_R5,White-tailed deer,470.20444374607166,614,6.596226852
+SUN_PRAIRIE_116_R1,American bison,80.23162795354425,82,11.86255787
+SUN_PRAIRIE_116_R1,Coyote,0,0,11.86255787
+SUN_PRAIRIE_116_R1,Mule deer,0,0,11.86255787
+SUN_PRAIRIE_116_R1,Pronghorn,9.747172322022621,12,11.86255787
+SUN_PRAIRIE_116_R1,White-tailed deer,0,0,11.86255787
+SUN_PRAIRIE_116_R2,American bison,0,0,35.18453704
+SUN_PRAIRIE_116_R2,Coyote,0,0,35.18453704
+SUN_PRAIRIE_116_R2,Mule deer,0,0,35.18453704
+SUN_PRAIRIE_116_R2,Pronghorn,0,0,35.18453704
+SUN_PRAIRIE_116_R2,White-tailed deer,0,0,35.18453704
+SUN_PRAIRIE_116_R3,American bison,0,0,29.75112269
+SUN_PRAIRIE_116_R3,Coyote,0,0,29.75112269
+SUN_PRAIRIE_116_R3,Mule deer,0,0,29.75112269
+SUN_PRAIRIE_116_R3,Pronghorn,0,0,29.75112269
+SUN_PRAIRIE_116_R3,White-tailed deer,0,0,29.75112269
+SUN_PRAIRIE_116_R4,American bison,476.3446089961419,522,12.92016204
+SUN_PRAIRIE_116_R4,Coyote,0,0,12.92016204
+SUN_PRAIRIE_116_R4,Mule deer,0,0,12.92016204
+SUN_PRAIRIE_116_R4,Pronghorn,0,0,12.92016204
+SUN_PRAIRIE_116_R4,White-tailed deer,0,0,12.92016204
+SUN_PRAIRIE_116_R5,American bison,1390.4263807432978,1000,7.471030093
+SUN_PRAIRIE_116_R5,Coyote,0,0,7.471030093
+SUN_PRAIRIE_116_R5,Mule deer,2.895506028498356,4,7.471030093
+SUN_PRAIRIE_116_R5,Pronghorn,25.1667997338656,26,7.471030093
+SUN_PRAIRIE_116_R5,White-tailed deer,0,0,7.471030093
+SUN_PRAIRIE_117_R1,American bison,131.80162795354425,138,31.15579861
+SUN_PRAIRIE_117_R1,Coyote,0,0,31.15579861
+SUN_PRAIRIE_117_R1,Mule deer,0,0,31.15579861
+SUN_PRAIRIE_117_R1,Pronghorn,459.3831370592149,528,31.15579861
+SUN_PRAIRIE_117_R1,White-tailed deer,0,0,31.15579861
+SUN_PRAIRIE_117_R2,American bison,0,0,35.20914352
+SUN_PRAIRIE_117_R2,Coyote,0,0,35.20914352
+SUN_PRAIRIE_117_R2,Mule deer,0,0,35.20914352
+SUN_PRAIRIE_117_R2,Pronghorn,0,0,35.20914352
+SUN_PRAIRIE_117_R2,White-tailed deer,0,0,35.20914352
+SUN_PRAIRIE_117_R3,American bison,0,0,5.607222222
+SUN_PRAIRIE_117_R3,Coyote,0,0,5.607222222
+SUN_PRAIRIE_117_R3,Mule deer,0,0,5.607222222
+SUN_PRAIRIE_117_R3,Pronghorn,0,0,5.607222222
+SUN_PRAIRIE_117_R3,White-tailed deer,0,0,5.607222222
+SUN_PRAIRIE_117_R4,American bison,362.37488386063274,382,31.88217593
+SUN_PRAIRIE_117_R4,Coyote,0,0,31.88217593
+SUN_PRAIRIE_117_R4,Mule deer,37.303454715219424,52,31.88217593
+SUN_PRAIRIE_117_R4,Pronghorn,12.747172322022621,18,31.88217593
+SUN_PRAIRIE_117_R4,White-tailed deer,0,0,31.88217593
+SUN_PRAIRIE_117_R5,American bison,324.5037985582699,412,9.301030093
+SUN_PRAIRIE_117_R5,Coyote,0,0,9.301030093
+SUN_PRAIRIE_117_R5,Mule deer,0,0,9.301030093
+SUN_PRAIRIE_117_R5,Pronghorn,0,0,9.301030093
+SUN_PRAIRIE_117_R5,White-tailed deer,0,0,9.301030093
+SUN_PRAIRIE_118_R1,American bison,365.88054265118143,248,31.70412037
+SUN_PRAIRIE_118_R1,Coyote,0,0,31.70412037
+SUN_PRAIRIE_118_R1,Mule deer,37.89550602849835,30,31.70412037
+SUN_PRAIRIE_118_R1,Pronghorn,0,0,31.70412037
+SUN_PRAIRIE_118_R1,White-tailed deer,0,0,31.70412037
+SUN_PRAIRIE_118_R2,American bison,0,0,1.041655093
+SUN_PRAIRIE_118_R2,Coyote,0,0,1.041655093
+SUN_PRAIRIE_118_R2,Mule deer,0,0,1.041655093
+SUN_PRAIRIE_118_R2,Pronghorn,0,0,1.041655093
+SUN_PRAIRIE_118_R2,White-tailed deer,0,0,1.041655093
+SUN_PRAIRIE_118_R3,American bison,0,0,28.04221065
+SUN_PRAIRIE_118_R3,Coyote,0,0,28.04221065
+SUN_PRAIRIE_118_R3,Mule deer,0,0,28.04221065
+SUN_PRAIRIE_118_R3,Pronghorn,0,0,28.04221065
+SUN_PRAIRIE_118_R3,White-tailed deer,0,0,28.04221065
+SUN_PRAIRIE_118_R4,American bison,0,0,31.9259375
+SUN_PRAIRIE_118_R4,Coyote,9.125274725274725,10,31.9259375
+SUN_PRAIRIE_118_R4,Mule deer,0,0,31.9259375
+SUN_PRAIRIE_118_R4,Pronghorn,2.7471723220226214,6,31.9259375
+SUN_PRAIRIE_118_R4,White-tailed deer,0,0,31.9259375
+SUN_PRAIRIE_118_R5,American bison,54.82108530236283,92,18.48417824
+SUN_PRAIRIE_118_R5,Coyote,0,0,18.48417824
+SUN_PRAIRIE_118_R5,Mule deer,0,0,18.48417824
+SUN_PRAIRIE_118_R5,Pronghorn,38.74717232202262,40,18.48417824
+SUN_PRAIRIE_118_R5,White-tailed deer,0,0,18.48417824
+SUN_PRAIRIE_120_R1,American bison,0,0,31.11965278
+SUN_PRAIRIE_120_R1,Coyote,0,0,31.11965278
+SUN_PRAIRIE_120_R1,Mule deer,4.895506028498356,8,31.11965278
+SUN_PRAIRIE_120_R1,Pronghorn,0,0,31.11965278
+SUN_PRAIRIE_120_R1,White-tailed deer,797.2451914661481,1068,31.11965278
+SUN_PRAIRIE_120_R2,American bison,0,0,38.84021991
+SUN_PRAIRIE_120_R2,Coyote,0,0,38.84021991
+SUN_PRAIRIE_120_R2,Mule deer,0,0,38.84021991
+SUN_PRAIRIE_120_R2,Pronghorn,0,0,38.84021991
+SUN_PRAIRIE_120_R2,White-tailed deer,0,0,38.84021991
+SUN_PRAIRIE_120_R3,American bison,0,0,26.10076389
+SUN_PRAIRIE_120_R3,Coyote,0,0,26.10076389
+SUN_PRAIRIE_120_R3,Mule deer,0,0,26.10076389
+SUN_PRAIRIE_120_R3,Pronghorn,0,0,26.10076389
+SUN_PRAIRIE_120_R3,White-tailed deer,0,0,26.10076389
+SUN_PRAIRIE_120_R4,American bison,26.82108530236283,24,31.91858796
+SUN_PRAIRIE_120_R4,Coyote,0,0,31.91858796
+SUN_PRAIRIE_120_R4,Mule deer,95.00657024428962,98,31.91858796
+SUN_PRAIRIE_120_R4,Pronghorn,0,0,31.91858796
+SUN_PRAIRIE_120_R4,White-tailed deer,157.34466142164618,172,31.91858796
+SUN_PRAIRIE_120_R5,American bison,0,0,21.17347222
+SUN_PRAIRIE_120_R5,Coyote,0,0,21.17347222
+SUN_PRAIRIE_120_R5,Mule deer,119.47701091866325,242,21.17347222
+SUN_PRAIRIE_120_R5,Pronghorn,22.241516966067863,44,21.17347222
+SUN_PRAIRIE_120_R5,White-tailed deer,53.84580950774938,80,21.17347222
+SUN_PRAIRIE_13_R1,American bison,0,0,24.74930556
+SUN_PRAIRIE_13_R1,Coyote,0,0,24.74930556
+SUN_PRAIRIE_13_R1,Mule deer,307.6605663134819,514,24.74930556
+SUN_PRAIRIE_13_R1,Pronghorn,4.747172322022621,8,24.74930556
+SUN_PRAIRIE_13_R1,White-tailed deer,0,0,24.74930556
+SUN_PRAIRIE_13_R2,American bison,0,0,34.96982639
+SUN_PRAIRIE_13_R2,Coyote,0,0,34.96982639
+SUN_PRAIRIE_13_R2,Mule deer,0,0,34.96982639
+SUN_PRAIRIE_13_R2,Pronghorn,0,0,34.96982639
+SUN_PRAIRIE_13_R2,White-tailed deer,0,0,34.96982639
+SUN_PRAIRIE_13_R3,American bison,0,0,28.95341435
+SUN_PRAIRIE_13_R3,Coyote,0,0,28.95341435
+SUN_PRAIRIE_13_R3,Mule deer,0,0,28.95341435
+SUN_PRAIRIE_13_R3,Pronghorn,0,0,28.95341435
+SUN_PRAIRIE_13_R3,White-tailed deer,0,0,28.95341435
+SUN_PRAIRIE_13_R4,American bison,230.41054265118143,240,14.36488426
+SUN_PRAIRIE_13_R4,Coyote,0,0,14.36488426
+SUN_PRAIRIE_13_R4,Mule deer,40.791012056996706,128,14.36488426
+SUN_PRAIRIE_13_R4,Pronghorn,0,0,14.36488426
+SUN_PRAIRIE_13_R4,White-tailed deer,0,0,14.36488426
+SUN_PRAIRIE_13_R5,American bison,0,0,20.02763889
+SUN_PRAIRIE_13_R5,Coyote,0,0,20.02763889
+SUN_PRAIRIE_13_R5,Mule deer,0,0,20.02763889
+SUN_PRAIRIE_13_R5,Pronghorn,0,0,20.02763889
+SUN_PRAIRIE_13_R5,White-tailed deer,0,0,20.02763889
+SUN_PRAIRIE_14_R1,American bison,104.82108530236283,52,25.72059028
+SUN_PRAIRIE_14_R1,Coyote,0,0,25.72059028
+SUN_PRAIRIE_14_R1,Mule deer,140.4775301424918,224,25.72059028
+SUN_PRAIRIE_14_R1,Pronghorn,0,0,25.72059028
+SUN_PRAIRIE_14_R1,White-tailed deer,0,0,25.72059028
+SUN_PRAIRIE_14_R2,American bison,0,0,34.96732639
+SUN_PRAIRIE_14_R2,Coyote,0,0,34.96732639
+SUN_PRAIRIE_14_R2,Mule deer,0,0,34.96732639
+SUN_PRAIRIE_14_R2,Pronghorn,0,0,34.96732639
+SUN_PRAIRIE_14_R2,White-tailed deer,0,0,34.96732639
+SUN_PRAIRIE_14_R3,American bison,0,0,28.972511570000002
+SUN_PRAIRIE_14_R3,Coyote,0,0,28.972511570000002
+SUN_PRAIRIE_14_R3,Mule deer,0,0,28.972511570000002
+SUN_PRAIRIE_14_R3,Pronghorn,0,0,28.972511570000002
+SUN_PRAIRIE_14_R3,White-tailed deer,0,0,28.972511570000002
+SUN_PRAIRIE_14_R4,American bison,0,0,32.06395833
+SUN_PRAIRIE_14_R4,Coyote,0,0,32.06395833
+SUN_PRAIRIE_14_R4,Mule deer,0,0,32.06395833
+SUN_PRAIRIE_14_R4,Pronghorn,0,0,32.06395833
+SUN_PRAIRIE_14_R4,White-tailed deer,0,0,32.06395833
+SUN_PRAIRIE_14_R5,American bison,0,0,11.71158565
+SUN_PRAIRIE_14_R5,Coyote,22.04175824175824,28,11.71158565
+SUN_PRAIRIE_14_R5,Mule deer,0,0,11.71158565
+SUN_PRAIRIE_14_R5,Pronghorn,0,0,11.71158565
+SUN_PRAIRIE_14_R5,White-tailed deer,0,0,11.71158565
+SUN_PRAIRIE_18_R1,American bison,0,0,25.86083333
+SUN_PRAIRIE_18_R1,Coyote,0,0,25.86083333
+SUN_PRAIRIE_18_R1,Mule deer,29.47753014249178,48,25.86083333
+SUN_PRAIRIE_18_R1,Pronghorn,0,0,25.86083333
+SUN_PRAIRIE_18_R1,White-tailed deer,0,0,25.86083333
+SUN_PRAIRIE_18_R2,American bison,0,0,33.08898148
+SUN_PRAIRIE_18_R2,Coyote,0,0,33.08898148
+SUN_PRAIRIE_18_R2,Mule deer,0,0,33.08898148
+SUN_PRAIRIE_18_R2,Pronghorn,0,0,33.08898148
+SUN_PRAIRIE_18_R2,White-tailed deer,0,0,33.08898148
+SUN_PRAIRIE_18_R3,American bison,0,0,28.95243056
+SUN_PRAIRIE_18_R3,Coyote,0,0,28.95243056
+SUN_PRAIRIE_18_R3,Mule deer,0,0,28.95243056
+SUN_PRAIRIE_18_R3,Pronghorn,0,0,28.95243056
+SUN_PRAIRIE_18_R3,White-tailed deer,0,0,28.95243056
+SUN_PRAIRIE_18_R4,American bison,0,0,32.05392361
+SUN_PRAIRIE_18_R4,Coyote,0,0,32.05392361
+SUN_PRAIRIE_18_R4,Mule deer,0,0,32.05392361
+SUN_PRAIRIE_18_R4,Pronghorn,0,0,32.05392361
+SUN_PRAIRIE_18_R4,White-tailed deer,0,0,32.05392361
+SUN_PRAIRIE_18_R5,American bison,0,0,20.02363426
+SUN_PRAIRIE_18_R5,Coyote,4.041758241758242,8,20.02363426
+SUN_PRAIRIE_18_R5,Mule deer,0,0,20.02363426
+SUN_PRAIRIE_18_R5,Pronghorn,0,0,20.02363426
+SUN_PRAIRIE_18_R5,White-tailed deer,0,0,20.02363426
+SUN_PRAIRIE_19_R1,American bison,0,0,8.118472222
+SUN_PRAIRIE_19_R1,Coyote,0,0,8.118472222
+SUN_PRAIRIE_19_R1,Mule deer,0,0,8.118472222
+SUN_PRAIRIE_19_R1,Pronghorn,0,0,8.118472222
+SUN_PRAIRIE_19_R1,White-tailed deer,0,0,8.118472222
+SUN_PRAIRIE_19_R2,American bison,0,0,32.46592593
+SUN_PRAIRIE_19_R2,Coyote,0,0,32.46592593
+SUN_PRAIRIE_19_R2,Mule deer,0,0,32.46592593
+SUN_PRAIRIE_19_R2,Pronghorn,0,0,32.46592593
+SUN_PRAIRIE_19_R2,White-tailed deer,0,0,32.46592593
+SUN_PRAIRIE_19_R3,American bison,0,0,28.95814815
+SUN_PRAIRIE_19_R3,Coyote,0,0,28.95814815
+SUN_PRAIRIE_19_R3,Mule deer,0,0,28.95814815
+SUN_PRAIRIE_19_R3,Pronghorn,0,0,28.95814815
+SUN_PRAIRIE_19_R3,White-tailed deer,0,0,28.95814815
+SUN_PRAIRIE_19_R4,American bison,0,0,0
+SUN_PRAIRIE_19_R4,Coyote,0,0,0
+SUN_PRAIRIE_19_R4,Mule deer,0,0,0
+SUN_PRAIRIE_19_R4,Pronghorn,0,0,0
+SUN_PRAIRIE_19_R4,White-tailed deer,0,0,0
+SUN_PRAIRIE_19_R5,American bison,0,0,20.02258102
+SUN_PRAIRIE_19_R5,Coyote,0,0,20.02258102
+SUN_PRAIRIE_19_R5,Mule deer,0,0,20.02258102
+SUN_PRAIRIE_19_R5,Pronghorn,0,0,20.02258102
+SUN_PRAIRIE_19_R5,White-tailed deer,0,0,20.02258102
+SUN_PRAIRIE_23_R1,American bison,0,0,25.87056713
+SUN_PRAIRIE_23_R1,Coyote,0,0,25.87056713
+SUN_PRAIRIE_23_R1,Mule deer,23.895506028498357,40,25.87056713
+SUN_PRAIRIE_23_R1,Pronghorn,6.747172322022621,12,25.87056713
+SUN_PRAIRIE_23_R1,White-tailed deer,0,0,25.87056713
+SUN_PRAIRIE_23_R2,American bison,0,0,22.97302083
+SUN_PRAIRIE_23_R2,Coyote,0,0,22.97302083
+SUN_PRAIRIE_23_R2,Mule deer,0,0,22.97302083
+SUN_PRAIRIE_23_R2,Pronghorn,0,0,22.97302083
+SUN_PRAIRIE_23_R2,White-tailed deer,0,0,22.97302083
+SUN_PRAIRIE_23_R3,American bison,0,0,6.393449074
+SUN_PRAIRIE_23_R3,Coyote,0,0,6.393449074
+SUN_PRAIRIE_23_R3,Mule deer,0,0,6.393449074
+SUN_PRAIRIE_23_R3,Pronghorn,0,0,6.393449074
+SUN_PRAIRIE_23_R3,White-tailed deer,0,0,6.393449074
+SUN_PRAIRIE_23_R4,American bison,0,0,8.020844907
+SUN_PRAIRIE_23_R4,Coyote,0,0,8.020844907
+SUN_PRAIRIE_23_R4,Mule deer,0,0,8.020844907
+SUN_PRAIRIE_23_R4,Pronghorn,0,0,8.020844907
+SUN_PRAIRIE_23_R4,White-tailed deer,0,0,8.020844907
+SUN_PRAIRIE_23_R5,American bison,0,0,20.02259259
+SUN_PRAIRIE_23_R5,Coyote,0,0,20.02259259
+SUN_PRAIRIE_23_R5,Mule deer,0,0,20.02259259
+SUN_PRAIRIE_23_R5,Pronghorn,0,0,20.02259259
+SUN_PRAIRIE_23_R5,White-tailed deer,0,0,20.02259259
+SUN_PRAIRIE_24_R1,American bison,165.97054265118143,156,15.20685185
+SUN_PRAIRIE_24_R1,Coyote,0,0,15.20685185
+SUN_PRAIRIE_24_R1,Mule deer,267.68099915610725,266,15.20685185
+SUN_PRAIRIE_24_R1,Pronghorn,0,0,15.20685185
+SUN_PRAIRIE_24_R1,White-tailed deer,0,0,15.20685185
+SUN_PRAIRIE_24_R2,American bison,0,0,21.83200231
+SUN_PRAIRIE_24_R2,Coyote,0,0,21.83200231
+SUN_PRAIRIE_24_R2,Mule deer,0,0,21.83200231
+SUN_PRAIRIE_24_R2,Pronghorn,0,0,21.83200231
+SUN_PRAIRIE_24_R2,White-tailed deer,0,0,21.83200231
+SUN_PRAIRIE_24_R3,American bison,0,0,28.88165509
+SUN_PRAIRIE_24_R3,Coyote,0,0,28.88165509
+SUN_PRAIRIE_24_R3,Mule deer,0,0,28.88165509
+SUN_PRAIRIE_24_R3,Pronghorn,0,0,28.88165509
+SUN_PRAIRIE_24_R3,White-tailed deer,0,0,28.88165509
+SUN_PRAIRIE_24_R4,American bison,0,0,32.03774306
+SUN_PRAIRIE_24_R4,Coyote,0,0,32.03774306
+SUN_PRAIRIE_24_R4,Mule deer,0,0,32.03774306
+SUN_PRAIRIE_24_R4,Pronghorn,0,0,32.03774306
+SUN_PRAIRIE_24_R4,White-tailed deer,0,0,32.03774306
+SUN_PRAIRIE_24_R5,American bison,822.5354265118142,638,18.97659722
+SUN_PRAIRIE_24_R5,Coyote,0,0,18.97659722
+SUN_PRAIRIE_24_R5,Mule deer,0,0,18.97659722
+SUN_PRAIRIE_24_R5,Pronghorn,0,0,18.97659722
+SUN_PRAIRIE_24_R5,White-tailed deer,0,0,18.97659722
+SUN_PRAIRIE_25_R1,American bison,61.410542651181416,72,15.17244213
+SUN_PRAIRIE_25_R1,Coyote,0,0,15.17244213
+SUN_PRAIRIE_25_R1,Mule deer,2293.6601201777335,2256,15.17244213
+SUN_PRAIRIE_25_R1,Pronghorn,0,0,15.17244213
+SUN_PRAIRIE_25_R1,White-tailed deer,0,0,15.17244213
+SUN_PRAIRIE_25_R3,American bison,0,0,28.89659722
+SUN_PRAIRIE_25_R3,Coyote,0,0,28.89659722
+SUN_PRAIRIE_25_R3,Mule deer,0,0,28.89659722
+SUN_PRAIRIE_25_R3,Pronghorn,0,0,28.89659722
+SUN_PRAIRIE_25_R3,White-tailed deer,0,0,28.89659722
+SUN_PRAIRIE_25_R4,American bison,0,0,19.55023148
+SUN_PRAIRIE_25_R4,Coyote,0,0,19.55023148
+SUN_PRAIRIE_25_R4,Mule deer,0,0,19.55023148
+SUN_PRAIRIE_25_R4,Pronghorn,0,0,19.55023148
+SUN_PRAIRIE_25_R4,White-tailed deer,0,0,19.55023148
+SUN_PRAIRIE_25_R5,American bison,0,0,19.86783565
+SUN_PRAIRIE_25_R5,Coyote,0,0,19.86783565
+SUN_PRAIRIE_25_R5,Mule deer,29.895506028498357,32,19.86783565
+SUN_PRAIRIE_25_R5,Pronghorn,0,0,19.86783565
+SUN_PRAIRIE_25_R5,White-tailed deer,0,0,19.86783565
+SUN_PRAIRIE_26_R1,American bison,10.821085302362835,16,20.99165509
+SUN_PRAIRIE_26_R1,Coyote,0,0,20.99165509
+SUN_PRAIRIE_26_R1,Mule deer,61.09438253562295,38,20.99165509
+SUN_PRAIRIE_26_R1,Pronghorn,0,0,20.99165509
+SUN_PRAIRIE_26_R1,White-tailed deer,0,0,20.99165509
+SUN_PRAIRIE_26_R2,American bison,0,0,6.541770833
+SUN_PRAIRIE_26_R2,Coyote,0,0,6.541770833
+SUN_PRAIRIE_26_R2,Mule deer,0,0,6.541770833
+SUN_PRAIRIE_26_R2,Pronghorn,0,0,6.541770833
+SUN_PRAIRIE_26_R2,White-tailed deer,0,0,6.541770833
+SUN_PRAIRIE_26_R3,American bison,0,0,28.88149306
+SUN_PRAIRIE_26_R3,Coyote,0,0,28.88149306
+SUN_PRAIRIE_26_R3,Mule deer,0,0,28.88149306
+SUN_PRAIRIE_26_R3,Pronghorn,0,0,28.88149306
+SUN_PRAIRIE_26_R3,White-tailed deer,0,0,28.88149306
+SUN_PRAIRIE_26_R4,American bison,0,0,0.657453704
+SUN_PRAIRIE_26_R4,Coyote,0,0,0.657453704
+SUN_PRAIRIE_26_R4,Mule deer,0,0,0.657453704
+SUN_PRAIRIE_26_R4,Pronghorn,0,0,0.657453704
+SUN_PRAIRIE_26_R4,White-tailed deer,0,0,0.657453704
+SUN_PRAIRIE_26_R5,American bison,10.410542651181418,18,19.85465278
+SUN_PRAIRIE_26_R5,Coyote,0,0,19.85465278
+SUN_PRAIRIE_26_R5,Mule deer,33.82912524277445,74,19.85465278
+SUN_PRAIRIE_26_R5,Pronghorn,0,0,19.85465278
+SUN_PRAIRIE_26_R5,White-tailed deer,0,0,19.85465278
+SUN_PRAIRIE_27_R1,American bison,568.1132559070885,384,29.30572917
+SUN_PRAIRIE_27_R1,Coyote,0,0,29.30572917
+SUN_PRAIRIE_27_R1,Mule deer,0,0,29.30572917
+SUN_PRAIRIE_27_R1,Pronghorn,0,0,29.30572917
+SUN_PRAIRIE_27_R1,White-tailed deer,0,0,29.30572917
+SUN_PRAIRIE_27_R2,American bison,0,0,35.95834491
+SUN_PRAIRIE_27_R2,Coyote,0,0,35.95834491
+SUN_PRAIRIE_27_R2,Mule deer,0,0,35.95834491
+SUN_PRAIRIE_27_R2,Pronghorn,0,0,35.95834491
+SUN_PRAIRIE_27_R2,White-tailed deer,0,0,35.95834491
+SUN_PRAIRIE_27_R3,American bison,0,0,26.85153935
+SUN_PRAIRIE_27_R3,Coyote,0,0,26.85153935
+SUN_PRAIRIE_27_R3,Mule deer,0,0,26.85153935
+SUN_PRAIRIE_27_R3,Pronghorn,0,0,26.85153935
+SUN_PRAIRIE_27_R3,White-tailed deer,0,0,26.85153935
+SUN_PRAIRIE_27_R4,American bison,0,0,32.0075
+SUN_PRAIRIE_27_R4,Coyote,0,0,32.0075
+SUN_PRAIRIE_27_R4,Mule deer,0,0,32.0075
+SUN_PRAIRIE_27_R4,Pronghorn,0,0,32.0075
+SUN_PRAIRIE_27_R4,White-tailed deer,0,0,32.0075
+SUN_PRAIRIE_27_R5,American bison,18.231627953544255,24,21.03034722
+SUN_PRAIRIE_27_R5,Coyote,0,0,21.03034722
+SUN_PRAIRIE_27_R5,Mule deer,269.86865546218485,402,21.03034722
+SUN_PRAIRIE_27_R5,Pronghorn,0,0,21.03034722
+SUN_PRAIRIE_27_R5,White-tailed deer,0,0,21.03034722
+SUN_PRAIRIE_28_R1,American bison,147.57217060472567,124,31.18527778
+SUN_PRAIRIE_28_R1,Coyote,0,0,31.18527778
+SUN_PRAIRIE_28_R1,Mule deer,0,0,31.18527778
+SUN_PRAIRIE_28_R1,Pronghorn,46.66717232202262,30,31.18527778
+SUN_PRAIRIE_28_R1,White-tailed deer,0,0,31.18527778
+SUN_PRAIRIE_28_R2,American bison,0,0,26.06422454
+SUN_PRAIRIE_28_R2,Coyote,0,0,26.06422454
+SUN_PRAIRIE_28_R2,Mule deer,0,0,26.06422454
+SUN_PRAIRIE_28_R2,Pronghorn,0,0,26.06422454
+SUN_PRAIRIE_28_R2,White-tailed deer,0,0,26.06422454
+SUN_PRAIRIE_28_R3,American bison,0,0,12.34111111
+SUN_PRAIRIE_28_R3,Coyote,0,0,12.34111111
+SUN_PRAIRIE_28_R3,Mule deer,0,0,12.34111111
+SUN_PRAIRIE_28_R3,Pronghorn,0,0,12.34111111
+SUN_PRAIRIE_28_R3,White-tailed deer,0,0,12.34111111
+SUN_PRAIRIE_28_R4,American bison,0,0,28.06472222
+SUN_PRAIRIE_28_R4,Coyote,0,0,28.06472222
+SUN_PRAIRIE_28_R4,Mule deer,0,0,28.06472222
+SUN_PRAIRIE_28_R4,Pronghorn,0,0,28.06472222
+SUN_PRAIRIE_28_R4,White-tailed deer,0,0,28.06472222
+SUN_PRAIRIE_28_R5,American bison,91.07271325590709,46,13.59225694
+SUN_PRAIRIE_28_R5,Coyote,0,0,13.59225694
+SUN_PRAIRIE_28_R5,Mule deer,140.4085421994885,176,13.59225694
+SUN_PRAIRIE_28_R5,Pronghorn,0,0,13.59225694
+SUN_PRAIRIE_28_R5,White-tailed deer,0,0,13.59225694
+SUN_PRAIRIE_30_R1,American bison,0,0,25.0290162
+SUN_PRAIRIE_30_R1,Coyote,0,0,25.0290162
+SUN_PRAIRIE_30_R1,Mule deer,0,0,25.0290162
+SUN_PRAIRIE_30_R1,Pronghorn,0,0,25.0290162
+SUN_PRAIRIE_30_R1,White-tailed deer,0,0,25.0290162
+SUN_PRAIRIE_30_R2,American bison,0,0,14.75215278
+SUN_PRAIRIE_30_R2,Coyote,0,0,14.75215278
+SUN_PRAIRIE_30_R2,Mule deer,0,0,14.75215278
+SUN_PRAIRIE_30_R2,Pronghorn,0,0,14.75215278
+SUN_PRAIRIE_30_R2,White-tailed deer,0,0,14.75215278
+SUN_PRAIRIE_30_R3,American bison,0,0,28.84487269
+SUN_PRAIRIE_30_R3,Coyote,0,0,28.84487269
+SUN_PRAIRIE_30_R3,Mule deer,0,0,28.84487269
+SUN_PRAIRIE_30_R3,Pronghorn,0,0,28.84487269
+SUN_PRAIRIE_30_R3,White-tailed deer,0,0,28.84487269
+SUN_PRAIRIE_30_R4,American bison,0,0,32.06466435
+SUN_PRAIRIE_30_R4,Coyote,0,0,32.06466435
+SUN_PRAIRIE_30_R4,Mule deer,0,0,32.06466435
+SUN_PRAIRIE_30_R4,Pronghorn,0,0,32.06466435
+SUN_PRAIRIE_30_R4,White-tailed deer,0,0,32.06466435
+SUN_PRAIRIE_30_R5,American bison,0,0,20.08667824
+SUN_PRAIRIE_30_R5,Coyote,0,0,20.08667824
+SUN_PRAIRIE_30_R5,Mule deer,0,0,20.08667824
+SUN_PRAIRIE_30_R5,Pronghorn,0,0,20.08667824
+SUN_PRAIRIE_30_R5,White-tailed deer,0,0,20.08667824
+SUN_PRAIRIE_31_R1,American bison,0,0,25.95986111
+SUN_PRAIRIE_31_R1,Coyote,0,0,25.95986111
+SUN_PRAIRIE_31_R1,Mule deer,0,0,25.95986111
+SUN_PRAIRIE_31_R1,Pronghorn,0,0,25.95986111
+SUN_PRAIRIE_31_R1,White-tailed deer,0,0,25.95986111
+SUN_PRAIRIE_31_R2,American bison,0,0,19.17137731
+SUN_PRAIRIE_31_R2,Coyote,0,0,19.17137731
+SUN_PRAIRIE_31_R2,Mule deer,0,0,19.17137731
+SUN_PRAIRIE_31_R2,Pronghorn,0,0,19.17137731
+SUN_PRAIRIE_31_R2,White-tailed deer,0,0,19.17137731
+SUN_PRAIRIE_31_R3,American bison,0,0,28.94449074
+SUN_PRAIRIE_31_R3,Coyote,0,0,28.94449074
+SUN_PRAIRIE_31_R3,Mule deer,0,0,28.94449074
+SUN_PRAIRIE_31_R3,Pronghorn,0,0,28.94449074
+SUN_PRAIRIE_31_R3,White-tailed deer,0,0,28.94449074
+SUN_PRAIRIE_31_R4,American bison,0,0,32.05028935
+SUN_PRAIRIE_31_R4,Coyote,0,0,32.05028935
+SUN_PRAIRIE_31_R4,Mule deer,0,0,32.05028935
+SUN_PRAIRIE_31_R4,Pronghorn,0,0,32.05028935
+SUN_PRAIRIE_31_R4,White-tailed deer,0,0,32.05028935
+SUN_PRAIRIE_31_R5,American bison,0,0,19.96869213
+SUN_PRAIRIE_31_R5,Coyote,0,0,19.96869213
+SUN_PRAIRIE_31_R5,Mule deer,0,0,19.96869213
+SUN_PRAIRIE_31_R5,Pronghorn,0,0,19.96869213
+SUN_PRAIRIE_31_R5,White-tailed deer,0,0,19.96869213
+SUN_PRAIRIE_32_R1,American bison,4.410542651181418,4,2.119652778
+SUN_PRAIRIE_32_R1,Coyote,0,0,2.119652778
+SUN_PRAIRIE_32_R1,Mule deer,0,0,2.119652778
+SUN_PRAIRIE_32_R1,Pronghorn,0,0,2.119652778
+SUN_PRAIRIE_32_R1,White-tailed deer,0,0,2.119652778
+SUN_PRAIRIE_32_R2,American bison,0,0,11.40952546
+SUN_PRAIRIE_32_R2,Coyote,0,0,11.40952546
+SUN_PRAIRIE_32_R2,Mule deer,0,0,11.40952546
+SUN_PRAIRIE_32_R2,Pronghorn,0,0,11.40952546
+SUN_PRAIRIE_32_R2,White-tailed deer,0,0,11.40952546
+SUN_PRAIRIE_32_R3,American bison,0,0,0.155173611
+SUN_PRAIRIE_32_R3,Coyote,0,0,0.155173611
+SUN_PRAIRIE_32_R3,Mule deer,0,0,0.155173611
+SUN_PRAIRIE_32_R3,Pronghorn,0,0,0.155173611
+SUN_PRAIRIE_32_R3,White-tailed deer,0,0,0.155173611
+SUN_PRAIRIE_32_R4,American bison,0,0,12.81857639
+SUN_PRAIRIE_32_R4,Coyote,0,0,12.81857639
+SUN_PRAIRIE_32_R4,Mule deer,0,0,12.81857639
+SUN_PRAIRIE_32_R4,Pronghorn,0,0,12.81857639
+SUN_PRAIRIE_32_R4,White-tailed deer,0,0,12.81857639
+SUN_PRAIRIE_32_R5,American bison,0,0,1.123252315
+SUN_PRAIRIE_32_R5,Coyote,0,0,1.123252315
+SUN_PRAIRIE_32_R5,Mule deer,0,0,1.123252315
+SUN_PRAIRIE_32_R5,Pronghorn,0,0,1.123252315
+SUN_PRAIRIE_32_R5,White-tailed deer,0,0,1.123252315
+SUN_PRAIRIE_33_R1,American bison,0,0,21.53935185
+SUN_PRAIRIE_33_R1,Coyote,18.167032967032966,28,21.53935185
+SUN_PRAIRIE_33_R1,Mule deer,512.2161428718645,506,21.53935185
+SUN_PRAIRIE_33_R1,Pronghorn,0,0,21.53935185
+SUN_PRAIRIE_33_R1,White-tailed deer,0,0,21.53935185
+SUN_PRAIRIE_33_R2,American bison,0,0,10.57048611
+SUN_PRAIRIE_33_R2,Coyote,0,0,10.57048611
+SUN_PRAIRIE_33_R2,Mule deer,9.895506028498357,8,10.57048611
+SUN_PRAIRIE_33_R2,Pronghorn,0,0,10.57048611
+SUN_PRAIRIE_33_R2,White-tailed deer,0,0,10.57048611
+SUN_PRAIRIE_33_R3,American bison,13.231627953544253,18,28.90186343
+SUN_PRAIRIE_33_R3,Coyote,0,0,28.90186343
+SUN_PRAIRIE_33_R3,Mule deer,15.686518085495067,24,28.90186343
+SUN_PRAIRIE_33_R3,Pronghorn,0,0,28.90186343
+SUN_PRAIRIE_33_R3,White-tailed deer,0,0,28.90186343
+SUN_PRAIRIE_33_R4,American bison,52.050542651181416,34,32.05372685
+SUN_PRAIRIE_33_R4,Coyote,0,0,32.05372685
+SUN_PRAIRIE_33_R4,Mule deer,0,0,32.05372685
+SUN_PRAIRIE_33_R4,Pronghorn,0,0,32.05372685
+SUN_PRAIRIE_33_R4,White-tailed deer,0,0,32.05372685
+SUN_PRAIRIE_33_R5,American bison,28.410542651181416,72,19.89670139
+SUN_PRAIRIE_33_R5,Coyote,0,0,19.89670139
+SUN_PRAIRIE_33_R5,Mule deer,48.79101205699671,58,19.89670139
+SUN_PRAIRIE_33_R5,Pronghorn,0,0,19.89670139
+SUN_PRAIRIE_33_R5,White-tailed deer,0,0,19.89670139
+SUN_PRAIRIE_34_R1,American bison,489.3532559070885,602,25.81501157
+SUN_PRAIRIE_34_R1,Coyote,14.167032967032966,22,25.81501157
+SUN_PRAIRIE_34_R1,Mule deer,751.1327106575694,802,25.81501157
+SUN_PRAIRIE_34_R1,Pronghorn,17.494344644045242,34,25.81501157
+SUN_PRAIRIE_34_R1,White-tailed deer,0,0,25.81501157
+SUN_PRAIRIE_34_R2,American bison,0,0,33.60115741
+SUN_PRAIRIE_34_R2,Coyote,0,0,33.60115741
+SUN_PRAIRIE_34_R2,Mule deer,0,0,33.60115741
+SUN_PRAIRIE_34_R2,Pronghorn,0,0,33.60115741
+SUN_PRAIRIE_34_R2,White-tailed deer,0,0,33.60115741
+SUN_PRAIRIE_34_R3,American bison,0,0,28.8830787
+SUN_PRAIRIE_34_R3,Coyote,0,0,28.8830787
+SUN_PRAIRIE_34_R3,Mule deer,0,0,28.8830787
+SUN_PRAIRIE_34_R3,Pronghorn,0,0,28.8830787
+SUN_PRAIRIE_34_R3,White-tailed deer,0,0,28.8830787
+SUN_PRAIRIE_34_R4,American bison,0,0,32.02666667
+SUN_PRAIRIE_34_R4,Coyote,0,0,32.02666667
+SUN_PRAIRIE_34_R4,Mule deer,98.05202411399343,94,32.02666667
+SUN_PRAIRIE_34_R4,Pronghorn,0,0,32.02666667
+SUN_PRAIRIE_34_R4,White-tailed deer,0,0,32.02666667
+SUN_PRAIRIE_34_R5,American bison,13.821085302362835,22,19.8775463
+SUN_PRAIRIE_34_R5,Coyote,0,0,19.8775463
+SUN_PRAIRIE_34_R5,Mule deer,116.54753014249178,242,19.8775463
+SUN_PRAIRIE_34_R5,Pronghorn,0,0,19.8775463
+SUN_PRAIRIE_34_R5,White-tailed deer,0,0,19.8775463
+SUN_PRAIRIE_38_R1,American bison,0,0,28.2328125
+SUN_PRAIRIE_38_R1,Coyote,0,0,28.2328125
+SUN_PRAIRIE_38_R1,Mule deer,0,0,28.2328125
+SUN_PRAIRIE_38_R1,Pronghorn,0,0,28.2328125
+SUN_PRAIRIE_38_R1,White-tailed deer,1.6543054682589566,2,28.2328125
+SUN_PRAIRIE_38_R2,American bison,0,0,35.80444444
+SUN_PRAIRIE_38_R2,Coyote,0,0,35.80444444
+SUN_PRAIRIE_38_R2,Mule deer,0,0,35.80444444
+SUN_PRAIRIE_38_R2,Pronghorn,0,0,35.80444444
+SUN_PRAIRIE_38_R2,White-tailed deer,0,0,35.80444444
+SUN_PRAIRIE_38_R3,American bison,0,0,27.09827546
+SUN_PRAIRIE_38_R3,Coyote,0,0,27.09827546
+SUN_PRAIRIE_38_R3,Mule deer,0,0,27.09827546
+SUN_PRAIRIE_38_R3,Pronghorn,0,0,27.09827546
+SUN_PRAIRIE_38_R3,White-tailed deer,0,0,27.09827546
+SUN_PRAIRIE_38_R4,American bison,238.18503904685622,398,32.63923611
+SUN_PRAIRIE_38_R4,Coyote,0,0,32.63923611
+SUN_PRAIRIE_38_R4,Mule deer,331.9208697113628,474,32.63923611
+SUN_PRAIRIE_38_R4,Pronghorn,0,0,32.63923611
+SUN_PRAIRIE_38_R4,White-tailed deer,0,0,32.63923611
+SUN_PRAIRIE_38_R5,American bison,377.3232559070885,340,19.82493056
+SUN_PRAIRIE_38_R5,Coyote,0,0,19.82493056
+SUN_PRAIRIE_38_R5,Mule deer,346.7369103503954,470,19.82493056
+SUN_PRAIRIE_38_R5,Pronghorn,0,0,19.82493056
+SUN_PRAIRIE_38_R5,White-tailed deer,0,0,19.82493056
+SUN_PRAIRIE_39_R1,American bison,0,0,23.4516088
+SUN_PRAIRIE_39_R1,Coyote,4.041758241758242,4,23.4516088
+SUN_PRAIRIE_39_R1,Mule deer,1303.5695542564852,1958,23.4516088
+SUN_PRAIRIE_39_R1,Pronghorn,0,0,23.4516088
+SUN_PRAIRIE_39_R1,White-tailed deer,0,0,23.4516088
+SUN_PRAIRIE_39_R2,American bison,0,0,38.34163194
+SUN_PRAIRIE_39_R2,Coyote,0,0,38.34163194
+SUN_PRAIRIE_39_R2,Mule deer,0,0,38.34163194
+SUN_PRAIRIE_39_R2,Pronghorn,0,0,38.34163194
+SUN_PRAIRIE_39_R2,White-tailed deer,0,0,38.34163194
+SUN_PRAIRIE_39_R4,American bison,0,0,36.05049769
+SUN_PRAIRIE_39_R4,Coyote,4.041758241758242,6,36.05049769
+SUN_PRAIRIE_39_R4,Mule deer,71.09561929119474,84,36.05049769
+SUN_PRAIRIE_39_R4,Pronghorn,0,0,36.05049769
+SUN_PRAIRIE_39_R4,White-tailed deer,0,0,36.05049769
+SUN_PRAIRIE_39_R5,American bison,0,0,17.92138889
+SUN_PRAIRIE_39_R5,Coyote,0,0,17.92138889
+SUN_PRAIRIE_39_R5,Mule deer,59.68651808549507,54,17.92138889
+SUN_PRAIRIE_39_R5,Pronghorn,0,0,17.92138889
+SUN_PRAIRIE_39_R5,White-tailed deer,0,0,17.92138889
+SUN_PRAIRIE_45_R1,American bison,0,0,10.4516088
+SUN_PRAIRIE_45_R1,Coyote,0,0,10.4516088
+SUN_PRAIRIE_45_R1,Mule deer,0,0,10.4516088
+SUN_PRAIRIE_45_R1,Pronghorn,0,0,10.4516088
+SUN_PRAIRIE_45_R1,White-tailed deer,0,0,10.4516088
+SUN_PRAIRIE_45_R2,American bison,0,0,35.86818287
+SUN_PRAIRIE_45_R2,Coyote,0,0,35.86818287
+SUN_PRAIRIE_45_R2,Mule deer,0,0,35.86818287
+SUN_PRAIRIE_45_R2,Pronghorn,0,0,35.86818287
+SUN_PRAIRIE_45_R2,White-tailed deer,0,0,35.86818287
+SUN_PRAIRIE_45_R3,American bison,0,0,26.91412037
+SUN_PRAIRIE_45_R3,Coyote,0,0,26.91412037
+SUN_PRAIRIE_45_R3,Mule deer,0,0,26.91412037
+SUN_PRAIRIE_45_R3,Pronghorn,0,0,26.91412037
+SUN_PRAIRIE_45_R3,White-tailed deer,0,0,26.91412037
+SUN_PRAIRIE_45_R4,American bison,20.821085302362835,36,29.98024306
+SUN_PRAIRIE_45_R4,Coyote,0,0,29.98024306
+SUN_PRAIRIE_45_R4,Mule deer,15.582024113993423,36,29.98024306
+SUN_PRAIRIE_45_R4,Pronghorn,0,0,29.98024306
+SUN_PRAIRIE_45_R4,White-tailed deer,0,0,29.98024306
+SUN_PRAIRIE_45_R5,American bison,156.14108530236285,142,20.0294213
+SUN_PRAIRIE_45_R5,Coyote,0,0,20.0294213
+SUN_PRAIRIE_45_R5,Mule deer,8.895506028498357,16,20.0294213
+SUN_PRAIRIE_45_R5,Pronghorn,0,0,20.0294213
+SUN_PRAIRIE_45_R5,White-tailed deer,0,0,20.0294213
+SUN_PRAIRIE_46_R1,American bison,53.240542651181414,74,12.38568287
+SUN_PRAIRIE_46_R1,Coyote,0,0,12.38568287
+SUN_PRAIRIE_46_R1,Mule deer,0,0,12.38568287
+SUN_PRAIRIE_46_R1,Pronghorn,0,0,12.38568287
+SUN_PRAIRIE_46_R1,White-tailed deer,0,0,12.38568287
+SUN_PRAIRIE_46_R2,American bison,0,0,35.86664352
+SUN_PRAIRIE_46_R2,Coyote,0,0,35.86664352
+SUN_PRAIRIE_46_R2,Mule deer,0,0,35.86664352
+SUN_PRAIRIE_46_R2,Pronghorn,0,0,35.86664352
+SUN_PRAIRIE_46_R2,White-tailed deer,0,0,35.86664352
+SUN_PRAIRIE_46_R3,American bison,0,0,20.03962963
+SUN_PRAIRIE_46_R3,Coyote,0,0,20.03962963
+SUN_PRAIRIE_46_R3,Mule deer,0,0,20.03962963
+SUN_PRAIRIE_46_R3,Pronghorn,0,0,20.03962963
+SUN_PRAIRIE_46_R3,White-tailed deer,0,0,20.03962963
+SUN_PRAIRIE_46_R4,American bison,0,0,25.03858796
+SUN_PRAIRIE_46_R4,Coyote,0,0,25.03858796
+SUN_PRAIRIE_46_R4,Mule deer,0,0,25.03858796
+SUN_PRAIRIE_46_R4,Pronghorn,0,0,25.03858796
+SUN_PRAIRIE_46_R4,White-tailed deer,0,0,25.03858796
+SUN_PRAIRIE_46_R5,American bison,25.64217060472567,40,21.00545139
+SUN_PRAIRIE_46_R5,Coyote,0,0,21.00545139
+SUN_PRAIRIE_46_R5,Mule deer,24.895506028498357,48,21.00545139
+SUN_PRAIRIE_46_R5,Pronghorn,13.494344644045242,20,21.00545139
+SUN_PRAIRIE_46_R5,White-tailed deer,0,0,21.00545139
+SUN_PRAIRIE_47_R1,American bison,374.8660563445365,396,25.67664352
+SUN_PRAIRIE_47_R1,Coyote,47.37582417582418,58,25.67664352
+SUN_PRAIRIE_47_R1,Mule deer,0,0,25.67664352
+SUN_PRAIRIE_47_R1,Pronghorn,0,0,25.67664352
+SUN_PRAIRIE_47_R1,White-tailed deer,0,0,25.67664352
+SUN_PRAIRIE_47_R2,American bison,0,0,23.48094907
+SUN_PRAIRIE_47_R2,Coyote,0,0,23.48094907
+SUN_PRAIRIE_47_R2,Mule deer,0,0,23.48094907
+SUN_PRAIRIE_47_R2,Pronghorn,0,0,23.48094907
+SUN_PRAIRIE_47_R2,White-tailed deer,0,0,23.48094907
+SUN_PRAIRIE_47_R3,American bison,0,0,28.98131944
+SUN_PRAIRIE_47_R3,Coyote,0,0,28.98131944
+SUN_PRAIRIE_47_R3,Mule deer,0,0,28.98131944
+SUN_PRAIRIE_47_R3,Pronghorn,0,0,28.98131944
+SUN_PRAIRIE_47_R3,White-tailed deer,0,0,28.98131944
+SUN_PRAIRIE_47_R4,American bison,40.052713255907086,24,32.06195602
+SUN_PRAIRIE_47_R4,Coyote,2.0417582417582416,2,32.06195602
+SUN_PRAIRIE_47_R4,Mule deer,87.44753014249177,136,32.06195602
+SUN_PRAIRIE_47_R4,Pronghorn,0,0,32.06195602
+SUN_PRAIRIE_47_R4,White-tailed deer,0,0,32.06195602
+SUN_PRAIRIE_47_R5,American bison,647.9282203996909,486,14.23297454
+SUN_PRAIRIE_47_R5,Coyote,0,0,14.23297454
+SUN_PRAIRIE_47_R5,Mule deer,21.686518085495067,36,14.23297454
+SUN_PRAIRIE_47_R5,Pronghorn,0,0,14.23297454
+SUN_PRAIRIE_47_R5,White-tailed deer,0,0,14.23297454
+SUN_PRAIRIE_48_R1,American bison,399.27806688338507,510,0.811759259
+SUN_PRAIRIE_48_R1,Coyote,0,0,0.811759259
+SUN_PRAIRIE_48_R1,Mule deer,0,0,0.811759259
+SUN_PRAIRIE_48_R1,Pronghorn,0,0,0.811759259
+SUN_PRAIRIE_48_R1,White-tailed deer,0,0,0.811759259
+SUN_PRAIRIE_48_R2,American bison,0,0,24.43795139
+SUN_PRAIRIE_48_R2,Coyote,0,0,24.43795139
+SUN_PRAIRIE_48_R2,Mule deer,0,0,24.43795139
+SUN_PRAIRIE_48_R2,Pronghorn,0,0,24.43795139
+SUN_PRAIRIE_48_R2,White-tailed deer,0,0,24.43795139
+SUN_PRAIRIE_48_R3,American bison,0,0,28.9775463
+SUN_PRAIRIE_48_R3,Coyote,0,0,28.9775463
+SUN_PRAIRIE_48_R3,Mule deer,0,0,28.9775463
+SUN_PRAIRIE_48_R3,Pronghorn,0,0,28.9775463
+SUN_PRAIRIE_48_R3,White-tailed deer,0,0,28.9775463
+SUN_PRAIRIE_48_R4,American bison,899.553915942374,374,23.12829861
+SUN_PRAIRIE_48_R4,Coyote,42.37582417582418,60,23.12829861
+SUN_PRAIRIE_48_R4,Mule deer,26.4537084398977,58,23.12829861
+SUN_PRAIRIE_48_R4,Pronghorn,0,0,23.12829861
+SUN_PRAIRIE_48_R4,White-tailed deer,0,0,23.12829861
+SUN_PRAIRIE_48_R5,American bison,638.2321706047256,564,12.96928241
+SUN_PRAIRIE_48_R5,Coyote,0,0,12.96928241
+SUN_PRAIRIE_48_R5,Mule deer,0,0,12.96928241
+SUN_PRAIRIE_48_R5,Pronghorn,0,0,12.96928241
+SUN_PRAIRIE_48_R5,White-tailed deer,0,0,12.96928241
+SUN_PRAIRIE_49_R1,American bison,296.5670254232085,272,13.21960648
+SUN_PRAIRIE_49_R1,Coyote,24.083516483516483,22,13.21960648
+SUN_PRAIRIE_49_R1,Mule deer,0,0,13.21960648
+SUN_PRAIRIE_49_R1,Pronghorn,13.494344644045242,26,13.21960648
+SUN_PRAIRIE_49_R1,White-tailed deer,0,0,13.21960648
+SUN_PRAIRIE_49_R2,American bison,0,0,9.984456019
+SUN_PRAIRIE_49_R2,Coyote,0,0,9.984456019
+SUN_PRAIRIE_49_R2,Mule deer,0,0,9.984456019
+SUN_PRAIRIE_49_R2,Pronghorn,0,0,9.984456019
+SUN_PRAIRIE_49_R2,White-tailed deer,0,0,9.984456019
+SUN_PRAIRIE_49_R3,American bison,297.88619403283946,254,28.91707176
+SUN_PRAIRIE_49_R3,Coyote,0,0,28.91707176
+SUN_PRAIRIE_49_R3,Mule deer,16.791012056996713,34,28.91707176
+SUN_PRAIRIE_49_R3,Pronghorn,7.747172322022621,18,28.91707176
+SUN_PRAIRIE_49_R3,White-tailed deer,0,0,28.91707176
+SUN_PRAIRIE_49_R4,American bison,614.238337230483,558,32.05015046
+SUN_PRAIRIE_49_R4,Coyote,40.08351648351648,30,32.05015046
+SUN_PRAIRIE_49_R4,Mule deer,0,0,32.05015046
+SUN_PRAIRIE_49_R4,Pronghorn,2.7471723220226214,4,32.05015046
+SUN_PRAIRIE_49_R4,White-tailed deer,0,0,32.05015046
+SUN_PRAIRIE_49_R5,American bison,330.2927132559071,220,15.91309028
+SUN_PRAIRIE_49_R5,Coyote,0,0,15.91309028
+SUN_PRAIRIE_49_R5,Mule deer,60.791012056996706,86,15.91309028
+SUN_PRAIRIE_49_R5,Pronghorn,0,0,15.91309028
+SUN_PRAIRIE_49_R5,White-tailed deer,0,0,15.91309028
+SUN_PRAIRIE_50_R1,American bison,261.4505426511814,282,0.449409722
+SUN_PRAIRIE_50_R1,Coyote,0,0,0.449409722
+SUN_PRAIRIE_50_R1,Mule deer,0,0,0.449409722
+SUN_PRAIRIE_50_R1,Pronghorn,0,0,0.449409722
+SUN_PRAIRIE_50_R1,White-tailed deer,0,0,0.449409722
+SUN_PRAIRIE_50_R2,American bison,0,0,6.951597222
+SUN_PRAIRIE_50_R2,Coyote,0,0,6.951597222
+SUN_PRAIRIE_50_R2,Mule deer,0,0,6.951597222
+SUN_PRAIRIE_50_R2,Pronghorn,0,0,6.951597222
+SUN_PRAIRIE_50_R2,White-tailed deer,0,0,6.951597222
+SUN_PRAIRIE_50_R3,American bison,2.4105426511814176,2,28.90114583
+SUN_PRAIRIE_50_R3,Coyote,0,0,28.90114583
+SUN_PRAIRIE_50_R3,Mule deer,21.895506028498357,20,28.90114583
+SUN_PRAIRIE_50_R3,Pronghorn,0,0,28.90114583
+SUN_PRAIRIE_50_R3,White-tailed deer,0,0,28.90114583
+SUN_PRAIRIE_50_R4,American bison,0,0,32.04196759
+SUN_PRAIRIE_50_R4,Coyote,0,0,32.04196759
+SUN_PRAIRIE_50_R4,Mule deer,0,0,32.04196759
+SUN_PRAIRIE_50_R4,Pronghorn,0,0,32.04196759
+SUN_PRAIRIE_50_R4,White-tailed deer,0,0,32.04196759
+SUN_PRAIRIE_50_R5,American bison,214.01162795354423,160,15.6228588
+SUN_PRAIRIE_50_R5,Coyote,0,0,15.6228588
+SUN_PRAIRIE_50_R5,Mule deer,4.895506028498356,8,15.6228588
+SUN_PRAIRIE_50_R5,Pronghorn,0,0,15.6228588
+SUN_PRAIRIE_50_R5,White-tailed deer,0,0,15.6228588
+SUN_PRAIRIE_52_R1,American bison,0,0,9.691354167
+SUN_PRAIRIE_52_R1,Coyote,0,0,9.691354167
+SUN_PRAIRIE_52_R1,Mule deer,50.791012056996706,42,9.691354167
+SUN_PRAIRIE_52_R1,Pronghorn,0,0,9.691354167
+SUN_PRAIRIE_52_R1,White-tailed deer,0,0,9.691354167
+SUN_PRAIRIE_52_R2,American bison,0,0,34.99016204
+SUN_PRAIRIE_52_R2,Coyote,0,0,34.99016204
+SUN_PRAIRIE_52_R2,Mule deer,0,0,34.99016204
+SUN_PRAIRIE_52_R2,Pronghorn,0,0,34.99016204
+SUN_PRAIRIE_52_R2,White-tailed deer,0,0,34.99016204
+SUN_PRAIRIE_52_R3,American bison,0,0,23.99550926
+SUN_PRAIRIE_52_R3,Coyote,0,0,23.99550926
+SUN_PRAIRIE_52_R3,Mule deer,75.51651808549506,80,23.99550926
+SUN_PRAIRIE_52_R3,Pronghorn,0,0,23.99550926
+SUN_PRAIRIE_52_R3,White-tailed deer,0,0,23.99550926
+SUN_PRAIRIE_52_R4,American bison,15.821085302362835,16,34.03130787
+SUN_PRAIRIE_52_R4,Coyote,0,0,34.03130787
+SUN_PRAIRIE_52_R4,Mule deer,0,0,34.03130787
+SUN_PRAIRIE_52_R4,Pronghorn,0,0,34.03130787
+SUN_PRAIRIE_52_R4,White-tailed deer,0,0,34.03130787
+SUN_PRAIRIE_52_R5,American bison,0,0,19.21571759
+SUN_PRAIRIE_52_R5,Coyote,0,0,19.21571759
+SUN_PRAIRIE_52_R5,Mule deer,0,0,19.21571759
+SUN_PRAIRIE_52_R5,Pronghorn,0,0,19.21571759
+SUN_PRAIRIE_52_R5,White-tailed deer,0,0,19.21571759
+SUN_PRAIRIE_53_R1,American bison,8.410542651181418,16,27.758125
+SUN_PRAIRIE_53_R1,Coyote,2.0417582417582416,2,27.758125
+SUN_PRAIRIE_53_R1,Mule deer,418.77506028498357,354,27.758125
+SUN_PRAIRIE_53_R1,Pronghorn,52.441516966067866,36,27.758125
+SUN_PRAIRIE_53_R1,White-tailed deer,0,0,27.758125
+SUN_PRAIRIE_53_R2,American bison,0,0,0
+SUN_PRAIRIE_53_R2,Coyote,0,0,0
+SUN_PRAIRIE_53_R2,Mule deer,0,0,0
+SUN_PRAIRIE_53_R2,Pronghorn,0,0,0
+SUN_PRAIRIE_53_R2,White-tailed deer,0,0,0
+SUN_PRAIRIE_53_R3,American bison,0,0,13.7437037
+SUN_PRAIRIE_53_R3,Coyote,0,0,13.7437037
+SUN_PRAIRIE_53_R3,Mule deer,116.24651808549507,180,13.7437037
+SUN_PRAIRIE_53_R3,Pronghorn,0,0,13.7437037
+SUN_PRAIRIE_53_R3,White-tailed deer,0,0,13.7437037
+SUN_PRAIRIE_53_R4,American bison,347.57379855826997,122,28.41318287
+SUN_PRAIRIE_53_R4,Coyote,75.20175824175824,34,28.41318287
+SUN_PRAIRIE_53_R4,Mule deer,0,0,28.41318287
+SUN_PRAIRIE_53_R4,Pronghorn,150.95959488430546,120,28.41318287
+SUN_PRAIRIE_53_R4,White-tailed deer,0,0,28.41318287
+SUN_PRAIRIE_53_R5,American bison,0,0,19.21106481
+SUN_PRAIRIE_53_R5,Coyote,0,0,19.21106481
+SUN_PRAIRIE_53_R5,Mule deer,0,0,19.21106481
+SUN_PRAIRIE_53_R5,Pronghorn,0,0,19.21106481
+SUN_PRAIRIE_53_R5,White-tailed deer,0,0,19.21106481
+SUN_PRAIRIE_54_R1,American bison,3246.6138668356957,2658,22.21520833
+SUN_PRAIRIE_54_R1,Coyote,10.083516483516483,16,22.21520833
+SUN_PRAIRIE_54_R1,Mule deer,0,0,22.21520833
+SUN_PRAIRIE_54_R1,Pronghorn,0,0,22.21520833
+SUN_PRAIRIE_54_R1,White-tailed deer,0,0,22.21520833
+SUN_PRAIRIE_54_R2,American bison,0,0,35.27244213
+SUN_PRAIRIE_54_R2,Coyote,0,0,35.27244213
+SUN_PRAIRIE_54_R2,Mule deer,0,0,35.27244213
+SUN_PRAIRIE_54_R2,Pronghorn,0,0,35.27244213
+SUN_PRAIRIE_54_R2,White-tailed deer,0,0,35.27244213
+SUN_PRAIRIE_54_R3,American bison,13.410542651181418,20,25.69164352
+SUN_PRAIRIE_54_R3,Coyote,0,0,25.69164352
+SUN_PRAIRIE_54_R3,Mule deer,65.03550602849836,88,25.69164352
+SUN_PRAIRIE_54_R3,Pronghorn,0,0,25.69164352
+SUN_PRAIRIE_54_R3,White-tailed deer,0,0,25.69164352
+SUN_PRAIRIE_54_R4,American bison,18.410542651181416,16,13.23943287
+SUN_PRAIRIE_54_R4,Coyote,0,0,13.23943287
+SUN_PRAIRIE_54_R4,Mule deer,0,0,13.23943287
+SUN_PRAIRIE_54_R4,Pronghorn,0,0,13.23943287
+SUN_PRAIRIE_54_R4,White-tailed deer,0,0,13.23943287
+SUN_PRAIRIE_54_R5,American bison,141.86162795354426,172,19.20773148
+SUN_PRAIRIE_54_R5,Coyote,4.041758241758242,6,19.20773148
+SUN_PRAIRIE_54_R5,Mule deer,0,0,19.20773148
+SUN_PRAIRIE_54_R5,Pronghorn,0,0,19.20773148
+SUN_PRAIRIE_54_R5,White-tailed deer,0,0,19.20773148
+SUN_PRAIRIE_55_R1,American bison,0,0,6.487824074
+SUN_PRAIRIE_55_R1,Coyote,0,0,6.487824074
+SUN_PRAIRIE_55_R1,Mule deer,0,0,6.487824074
+SUN_PRAIRIE_55_R1,Pronghorn,0,0,6.487824074
+SUN_PRAIRIE_55_R1,White-tailed deer,0,0,6.487824074
+SUN_PRAIRIE_55_R2,American bison,0,0,4.921585648
+SUN_PRAIRIE_55_R2,Coyote,0,0,4.921585648
+SUN_PRAIRIE_55_R2,Mule deer,0,0,4.921585648
+SUN_PRAIRIE_55_R2,Pronghorn,0,0,4.921585648
+SUN_PRAIRIE_55_R2,White-tailed deer,0,0,4.921585648
+SUN_PRAIRIE_55_R3,American bison,0,0,6.228946759
+SUN_PRAIRIE_55_R3,Coyote,0,0,6.228946759
+SUN_PRAIRIE_55_R3,Mule deer,0,0,6.228946759
+SUN_PRAIRIE_55_R3,Pronghorn,0,0,6.228946759
+SUN_PRAIRIE_55_R3,White-tailed deer,0,0,6.228946759
+SUN_PRAIRIE_55_R5,American bison,76.63054265118141,42,3.351585648
+SUN_PRAIRIE_55_R5,Coyote,0,0,3.351585648
+SUN_PRAIRIE_55_R5,Mule deer,0,0,3.351585648
+SUN_PRAIRIE_55_R5,Pronghorn,0,0,3.351585648
+SUN_PRAIRIE_55_R5,White-tailed deer,0,0,3.351585648
+SUN_PRAIRIE_56_R1,American bison,0,0,7.134722222
+SUN_PRAIRIE_56_R1,Coyote,0,0,7.134722222
+SUN_PRAIRIE_56_R1,Mule deer,0,0,7.134722222
+SUN_PRAIRIE_56_R1,Pronghorn,0,0,7.134722222
+SUN_PRAIRIE_56_R1,White-tailed deer,0,0,7.134722222
+SUN_PRAIRIE_56_R2,American bison,0,0,17.88690972
+SUN_PRAIRIE_56_R2,Coyote,0,0,17.88690972
+SUN_PRAIRIE_56_R2,Mule deer,0,0,17.88690972
+SUN_PRAIRIE_56_R2,Pronghorn,0,0,17.88690972
+SUN_PRAIRIE_56_R2,White-tailed deer,0,0,17.88690972
+SUN_PRAIRIE_56_R3,American bison,44.64217060472567,40,26.79958333
+SUN_PRAIRIE_56_R3,Coyote,0,0,26.79958333
+SUN_PRAIRIE_56_R3,Mule deer,0,0,26.79958333
+SUN_PRAIRIE_56_R3,Pronghorn,0,0,26.79958333
+SUN_PRAIRIE_56_R3,White-tailed deer,0,0,26.79958333
+SUN_PRAIRIE_56_R4,American bison,108.79759711653985,92,34.04396991
+SUN_PRAIRIE_56_R4,Coyote,0,0,34.04396991
+SUN_PRAIRIE_56_R4,Mule deer,158.26854219948848,56,34.04396991
+SUN_PRAIRIE_56_R4,Pronghorn,0,0,34.04396991
+SUN_PRAIRIE_56_R4,White-tailed deer,0,0,34.04396991
+SUN_PRAIRIE_56_R5,American bison,303.8348838606328,326,18.53393519
+SUN_PRAIRIE_56_R5,Coyote,0,0,18.53393519
+SUN_PRAIRIE_56_R5,Mule deer,154.28651808549506,158,18.53393519
+SUN_PRAIRIE_56_R5,Pronghorn,0,0,18.53393519
+SUN_PRAIRIE_56_R5,White-tailed deer,0,0,18.53393519
+SUN_PRAIRIE_57_R1,American bison,0,0,13.61680556
+SUN_PRAIRIE_57_R1,Coyote,0,0,13.61680556
+SUN_PRAIRIE_57_R1,Mule deer,0,0,13.61680556
+SUN_PRAIRIE_57_R1,Pronghorn,0,0,13.61680556
+SUN_PRAIRIE_57_R1,White-tailed deer,0,0,13.61680556
+SUN_PRAIRIE_57_R2,American bison,0,0,9.658854167
+SUN_PRAIRIE_57_R2,Coyote,0,0,9.658854167
+SUN_PRAIRIE_57_R2,Mule deer,0,0,9.658854167
+SUN_PRAIRIE_57_R2,Pronghorn,0,0,9.658854167
+SUN_PRAIRIE_57_R2,White-tailed deer,0,0,9.658854167
+SUN_PRAIRIE_57_R3,American bison,0,0,1.095208333
+SUN_PRAIRIE_57_R3,Coyote,0,0,1.095208333
+SUN_PRAIRIE_57_R3,Mule deer,0,0,1.095208333
+SUN_PRAIRIE_57_R3,Pronghorn,0,0,1.095208333
+SUN_PRAIRIE_57_R3,White-tailed deer,0,0,1.095208333
+SUN_PRAIRIE_57_R5,American bison,0,0,18.06549769
+SUN_PRAIRIE_57_R5,Coyote,0,0,18.06549769
+SUN_PRAIRIE_57_R5,Mule deer,50.36540782320833,72,18.06549769
+SUN_PRAIRIE_57_R5,Pronghorn,0,0,18.06549769
+SUN_PRAIRIE_57_R5,White-tailed deer,0,0,18.06549769
+SUN_PRAIRIE_58_R1,American bison,17.821085302362835,32,24.35534722
+SUN_PRAIRIE_58_R1,Coyote,0,0,24.35534722
+SUN_PRAIRIE_58_R1,Mule deer,1265.657084398977,796,24.35534722
+SUN_PRAIRIE_58_R1,Pronghorn,68.49434464404524,94,24.35534722
+SUN_PRAIRIE_58_R1,White-tailed deer,0,0,24.35534722
+SUN_PRAIRIE_58_R2,American bison,0,0,4.413148148
+SUN_PRAIRIE_58_R2,Coyote,0,0,4.413148148
+SUN_PRAIRIE_58_R2,Mule deer,0,0,4.413148148
+SUN_PRAIRIE_58_R2,Pronghorn,0,0,4.413148148
+SUN_PRAIRIE_58_R2,White-tailed deer,0,0,4.413148148
+SUN_PRAIRIE_58_R3,American bison,0,0,27.71759259
+SUN_PRAIRIE_58_R3,Coyote,0,0,27.71759259
+SUN_PRAIRIE_58_R3,Mule deer,57.855506028498354,58,27.71759259
+SUN_PRAIRIE_58_R3,Pronghorn,0,0,27.71759259
+SUN_PRAIRIE_58_R3,White-tailed deer,0,0,27.71759259
+SUN_PRAIRIE_58_R4,American bison,4.410542651181418,8,31.21606481
+SUN_PRAIRIE_58_R4,Coyote,4.041758241758242,4,31.21606481
+SUN_PRAIRIE_58_R4,Mule deer,75.7241278715733,142,31.21606481
+SUN_PRAIRIE_58_R4,Pronghorn,0,0,31.21606481
+SUN_PRAIRIE_58_R4,White-tailed deer,0,0,31.21606481
+SUN_PRAIRIE_58_R5,American bison,0,0,21.1821875
+SUN_PRAIRIE_58_R5,Coyote,0,0,21.1821875
+SUN_PRAIRIE_58_R5,Mule deer,13.895506028498357,10,21.1821875
+SUN_PRAIRIE_58_R5,Pronghorn,0,0,21.1821875
+SUN_PRAIRIE_58_R5,White-tailed deer,0,0,21.1821875
+SUN_PRAIRIE_61_R1,American bison,126.64108530236282,154,22.8952662
+SUN_PRAIRIE_61_R1,Coyote,0,0,22.8952662
+SUN_PRAIRIE_61_R1,Mule deer,233.69651808549506,192,22.8952662
+SUN_PRAIRIE_61_R1,Pronghorn,0,0,22.8952662
+SUN_PRAIRIE_61_R1,White-tailed deer,129.5286109365179,212,22.8952662
+SUN_PRAIRIE_61_R2,American bison,0,0,35.85059028
+SUN_PRAIRIE_61_R2,Coyote,0,0,35.85059028
+SUN_PRAIRIE_61_R2,Mule deer,0,0,35.85059028
+SUN_PRAIRIE_61_R2,Pronghorn,0,0,35.85059028
+SUN_PRAIRIE_61_R2,White-tailed deer,0,0,35.85059028
+SUN_PRAIRIE_61_R3,American bison,89.82162795354425,80,27.03976852
+SUN_PRAIRIE_61_R3,Coyote,0,0,27.03976852
+SUN_PRAIRIE_61_R3,Mule deer,133.9977514848204,162,27.03976852
+SUN_PRAIRIE_61_R3,Pronghorn,0,0,27.03976852
+SUN_PRAIRIE_61_R3,White-tailed deer,0,0,27.03976852
+SUN_PRAIRIE_61_R4,American bison,0,0,32.02791667
+SUN_PRAIRIE_61_R4,Coyote,0,0,32.02791667
+SUN_PRAIRIE_61_R4,Mule deer,0,0,32.02791667
+SUN_PRAIRIE_61_R4,Pronghorn,0,0,32.02791667
+SUN_PRAIRIE_61_R4,White-tailed deer,0,0,32.02791667
+SUN_PRAIRIE_61_R5,American bison,98.13108530236283,118,22.08453704
+SUN_PRAIRIE_61_R5,Coyote,0,0,22.08453704
+SUN_PRAIRIE_61_R5,Mule deer,31.791012056996713,64,22.08453704
+SUN_PRAIRIE_61_R5,Pronghorn,0,0,22.08453704
+SUN_PRAIRIE_61_R5,White-tailed deer,0,0,22.08453704
+SUN_PRAIRIE_62_R1,American bison,3.4105426511814176,4,11.00332176
+SUN_PRAIRIE_62_R1,Coyote,0,0,11.00332176
+SUN_PRAIRIE_62_R1,Mule deer,75.70202411399343,64,11.00332176
+SUN_PRAIRIE_62_R1,Pronghorn,29.74717232202262,30,11.00332176
+SUN_PRAIRIE_62_R1,White-tailed deer,0,0,11.00332176
+SUN_PRAIRIE_62_R2,American bison,0,0,35.87471065
+SUN_PRAIRIE_62_R2,Coyote,0,0,35.87471065
+SUN_PRAIRIE_62_R2,Mule deer,0,0,35.87471065
+SUN_PRAIRIE_62_R2,Pronghorn,0,0,35.87471065
+SUN_PRAIRIE_62_R2,White-tailed deer,0,0,35.87471065
+SUN_PRAIRIE_62_R3,American bison,101.43108530236283,52,5.934293981
+SUN_PRAIRIE_62_R3,Coyote,0,0,5.934293981
+SUN_PRAIRIE_62_R3,Mule deer,0,0,5.934293981
+SUN_PRAIRIE_62_R3,Pronghorn,0,0,5.934293981
+SUN_PRAIRIE_62_R3,White-tailed deer,0,0,5.934293981
+SUN_PRAIRIE_62_R4,American bison,180.9521706047257,98,4.005208333
+SUN_PRAIRIE_62_R4,Coyote,0,0,4.005208333
+SUN_PRAIRIE_62_R4,Mule deer,0,0,4.005208333
+SUN_PRAIRIE_62_R4,Pronghorn,0,0,4.005208333
+SUN_PRAIRIE_62_R4,White-tailed deer,0,0,4.005208333
+SUN_PRAIRIE_62_R5,American bison,43.33162795354425,28,3.594178241
+SUN_PRAIRIE_62_R5,Coyote,0,0,3.594178241
+SUN_PRAIRIE_62_R5,Mule deer,0,0,3.594178241
+SUN_PRAIRIE_62_R5,Pronghorn,0,0,3.594178241
+SUN_PRAIRIE_62_R5,White-tailed deer,0,0,3.594178241
+SUN_PRAIRIE_63_R2,American bison,0,0,12.1977662
+SUN_PRAIRIE_63_R2,Coyote,0,0,12.1977662
+SUN_PRAIRIE_63_R2,Mule deer,0,0,12.1977662
+SUN_PRAIRIE_63_R2,Pronghorn,0,0,12.1977662
+SUN_PRAIRIE_63_R2,White-tailed deer,0,0,12.1977662
+SUN_PRAIRIE_63_R3,American bison,18.410542651181416,16,5.925868056
+SUN_PRAIRIE_63_R3,Coyote,0,0,5.925868056
+SUN_PRAIRIE_63_R3,Mule deer,0,0,5.925868056
+SUN_PRAIRIE_63_R3,Pronghorn,0,0,5.925868056
+SUN_PRAIRIE_63_R3,White-tailed deer,0,0,5.925868056
+SUN_PRAIRIE_63_R4,American bison,173.41162795354427,116,0.834155093
+SUN_PRAIRIE_63_R4,Coyote,0,0,0.834155093
+SUN_PRAIRIE_63_R4,Mule deer,0,0,0.834155093
+SUN_PRAIRIE_63_R4,Pronghorn,0,0,0.834155093
+SUN_PRAIRIE_63_R4,White-tailed deer,0,0,0.834155093
+SUN_PRAIRIE_63_R5,American bison,118.84515518622347,154,16.09174769
+SUN_PRAIRIE_63_R5,Coyote,0,0,16.09174769
+SUN_PRAIRIE_63_R5,Mule deer,244.2420241139934,344,16.09174769
+SUN_PRAIRIE_63_R5,Pronghorn,27.847172322022622,20,16.09174769
+SUN_PRAIRIE_63_R5,White-tailed deer,0,0,16.09174769
+SUN_PRAIRIE_66_R1,American bison,1347.4352650527571,292,3.340555556
+SUN_PRAIRIE_66_R1,Coyote,0,0,3.340555556
+SUN_PRAIRIE_66_R1,Mule deer,0,0,3.340555556
+SUN_PRAIRIE_66_R1,Pronghorn,0,0,3.340555556
+SUN_PRAIRIE_66_R1,White-tailed deer,0,0,3.340555556
+SUN_PRAIRIE_66_R2,American bison,0,0,34.99381944
+SUN_PRAIRIE_66_R2,Coyote,0,0,34.99381944
+SUN_PRAIRIE_66_R2,Mule deer,0,0,34.99381944
+SUN_PRAIRIE_66_R2,Pronghorn,0,0,34.99381944
+SUN_PRAIRIE_66_R2,White-tailed deer,0,0,34.99381944
+SUN_PRAIRIE_66_R3,American bison,69.64217060472566,82,25.97677083
+SUN_PRAIRIE_66_R3,Coyote,0,0,25.97677083
+SUN_PRAIRIE_66_R3,Mule deer,35.93101205699671,46,25.97677083
+SUN_PRAIRIE_66_R3,Pronghorn,0,0,25.97677083
+SUN_PRAIRIE_66_R3,White-tailed deer,0,0,25.97677083
+SUN_PRAIRIE_66_R4,American bison,360.75356627953545,242,31.39009259
+SUN_PRAIRIE_66_R4,Coyote,0,0,31.39009259
+SUN_PRAIRIE_66_R4,Mule deer,0,0,31.39009259
+SUN_PRAIRIE_66_R4,Pronghorn,0,0,31.39009259
+SUN_PRAIRIE_66_R4,White-tailed deer,0,0,31.39009259
+SUN_PRAIRIE_66_R5,American bison,0,0,19.20586806
+SUN_PRAIRIE_66_R5,Coyote,0,0,19.20586806
+SUN_PRAIRIE_66_R5,Mule deer,0,0,19.20586806
+SUN_PRAIRIE_66_R5,Pronghorn,0,0,19.20586806
+SUN_PRAIRIE_66_R5,White-tailed deer,0,0,19.20586806
+SUN_PRAIRIE_67_R1,American bison,0,0,11.13055556
+SUN_PRAIRIE_67_R1,Coyote,0,0,11.13055556
+SUN_PRAIRIE_67_R1,Mule deer,0,0,11.13055556
+SUN_PRAIRIE_67_R1,Pronghorn,0,0,11.13055556
+SUN_PRAIRIE_67_R1,White-tailed deer,0,0,11.13055556
+SUN_PRAIRIE_67_R2,American bison,0,0,4.267361111
+SUN_PRAIRIE_67_R2,Coyote,0,0,4.267361111
+SUN_PRAIRIE_67_R2,Mule deer,0,0,4.267361111
+SUN_PRAIRIE_67_R2,Pronghorn,0,0,4.267361111
+SUN_PRAIRIE_67_R2,White-tailed deer,0,0,4.267361111
+SUN_PRAIRIE_67_R3,American bison,0,0,25.97267361
+SUN_PRAIRIE_67_R3,Coyote,0,0,25.97267361
+SUN_PRAIRIE_67_R3,Mule deer,0,0,25.97267361
+SUN_PRAIRIE_67_R3,Pronghorn,0,0,25.97267361
+SUN_PRAIRIE_67_R3,White-tailed deer,0,0,25.97267361
+SUN_PRAIRIE_67_R4,American bison,0,0,20.15703704
+SUN_PRAIRIE_67_R4,Coyote,0,0,20.15703704
+SUN_PRAIRIE_67_R4,Mule deer,0,0,20.15703704
+SUN_PRAIRIE_67_R4,Pronghorn,0,0,20.15703704
+SUN_PRAIRIE_67_R4,White-tailed deer,0,0,20.15703704
+SUN_PRAIRIE_67_R5,American bison,361.2509808554832,620,17.0833912
+SUN_PRAIRIE_67_R5,Coyote,0,0,17.0833912
+SUN_PRAIRIE_67_R5,Mule deer,0,0,17.0833912
+SUN_PRAIRIE_67_R5,Pronghorn,0,0,17.0833912
+SUN_PRAIRIE_67_R5,White-tailed deer,0,0,17.0833912
+SUN_PRAIRIE_68_R1,American bison,0,0,27.92496528
+SUN_PRAIRIE_68_R1,Coyote,0,0,27.92496528
+SUN_PRAIRIE_68_R1,Mule deer,0,0,27.92496528
+SUN_PRAIRIE_68_R1,Pronghorn,0,0,27.92496528
+SUN_PRAIRIE_68_R1,White-tailed deer,0,0,27.92496528
+SUN_PRAIRIE_68_R2,American bison,0,0,33.94206019
+SUN_PRAIRIE_68_R2,Coyote,0,0,33.94206019
+SUN_PRAIRIE_68_R2,Mule deer,0,0,33.94206019
+SUN_PRAIRIE_68_R2,Pronghorn,0,0,33.94206019
+SUN_PRAIRIE_68_R2,White-tailed deer,0,0,33.94206019
+SUN_PRAIRIE_68_R3,American bison,21.410542651181416,40,25.9619213
+SUN_PRAIRIE_68_R3,Coyote,0,0,25.9619213
+SUN_PRAIRIE_68_R3,Mule deer,0,0,25.9619213
+SUN_PRAIRIE_68_R3,Pronghorn,0,0,25.9619213
+SUN_PRAIRIE_68_R3,White-tailed deer,0,0,25.9619213
+SUN_PRAIRIE_68_R4,American bison,18.410542651181416,32,10.89550926
+SUN_PRAIRIE_68_R4,Coyote,0,0,10.89550926
+SUN_PRAIRIE_68_R4,Mule deer,0,0,10.89550926
+SUN_PRAIRIE_68_R4,Pronghorn,0,0,10.89550926
+SUN_PRAIRIE_68_R4,White-tailed deer,0,0,10.89550926
+SUN_PRAIRIE_68_R5,American bison,0,0,19.19523148
+SUN_PRAIRIE_68_R5,Coyote,0,0,19.19523148
+SUN_PRAIRIE_68_R5,Mule deer,0,0,19.19523148
+SUN_PRAIRIE_68_R5,Pronghorn,0,0,19.19523148
+SUN_PRAIRIE_68_R5,White-tailed deer,0,0,19.19523148
+SUN_PRAIRIE_69_R1,American bison,0,0,24.1183912
+SUN_PRAIRIE_69_R1,Coyote,0,0,24.1183912
+SUN_PRAIRIE_69_R1,Mule deer,0,0,24.1183912
+SUN_PRAIRIE_69_R1,Pronghorn,0,0,24.1183912
+SUN_PRAIRIE_69_R1,White-tailed deer,0,0,24.1183912
+SUN_PRAIRIE_69_R2,American bison,0,0,20.18693287
+SUN_PRAIRIE_69_R2,Coyote,0,0,20.18693287
+SUN_PRAIRIE_69_R2,Mule deer,0,0,20.18693287
+SUN_PRAIRIE_69_R2,Pronghorn,0,0,20.18693287
+SUN_PRAIRIE_69_R2,White-tailed deer,0,0,20.18693287
+SUN_PRAIRIE_69_R3,American bison,96.03162795354426,96,25.96515046
+SUN_PRAIRIE_69_R3,Coyote,27.04175824175824,34,25.96515046
+SUN_PRAIRIE_69_R3,Mule deer,0,0,25.96515046
+SUN_PRAIRIE_69_R3,Pronghorn,0,0,25.96515046
+SUN_PRAIRIE_69_R3,White-tailed deer,18.654305468258958,48,25.96515046
+SUN_PRAIRIE_69_R4,American bison,5.410542651181418,8,34.04373843
+SUN_PRAIRIE_69_R4,Coyote,0,0,34.04373843
+SUN_PRAIRIE_69_R4,Mule deer,4.895506028498356,8,34.04373843
+SUN_PRAIRIE_69_R4,Pronghorn,0,0,34.04373843
+SUN_PRAIRIE_69_R4,White-tailed deer,0,0,34.04373843
+SUN_PRAIRIE_69_R5,American bison,378.99577202735026,302,12.90010417
+SUN_PRAIRIE_69_R5,Coyote,0,0,12.90010417
+SUN_PRAIRIE_69_R5,Mule deer,0,0,12.90010417
+SUN_PRAIRIE_69_R5,Pronghorn,0,0,12.90010417
+SUN_PRAIRIE_69_R5,White-tailed deer,0,0,12.90010417
+SUN_PRAIRIE_70_R1,American bison,0,0,28.13152778
+SUN_PRAIRIE_70_R1,Coyote,0,0,28.13152778
+SUN_PRAIRIE_70_R1,Mule deer,0,0,28.13152778
+SUN_PRAIRIE_70_R1,Pronghorn,0,0,28.13152778
+SUN_PRAIRIE_70_R1,White-tailed deer,0,0,28.13152778
+SUN_PRAIRIE_70_R2,American bison,0,0,3.164363426
+SUN_PRAIRIE_70_R2,Coyote,0,0,3.164363426
+SUN_PRAIRIE_70_R2,Mule deer,0,0,3.164363426
+SUN_PRAIRIE_70_R2,Pronghorn,0,0,3.164363426
+SUN_PRAIRIE_70_R2,White-tailed deer,0,0,3.164363426
+SUN_PRAIRIE_70_R3,American bison,0,0,0.001342593
+SUN_PRAIRIE_70_R3,Coyote,0,0,0.001342593
+SUN_PRAIRIE_70_R3,Mule deer,0,0,0.001342593
+SUN_PRAIRIE_70_R3,Pronghorn,0,0,0.001342593
+SUN_PRAIRIE_70_R3,White-tailed deer,0,0,0.001342593
+SUN_PRAIRIE_70_R4,American bison,0,0,34.04636574
+SUN_PRAIRIE_70_R4,Coyote,0,0,34.04636574
+SUN_PRAIRIE_70_R4,Mule deer,0,0,34.04636574
+SUN_PRAIRIE_70_R4,Pronghorn,0,0,34.04636574
+SUN_PRAIRIE_70_R4,White-tailed deer,0,0,34.04636574
+SUN_PRAIRIE_70_R5,American bison,0,0,19.85539352
+SUN_PRAIRIE_70_R5,Coyote,0,0,19.85539352
+SUN_PRAIRIE_70_R5,Mule deer,3.895506028498356,6,19.85539352
+SUN_PRAIRIE_70_R5,Pronghorn,0,0,19.85539352
+SUN_PRAIRIE_70_R5,White-tailed deer,47.654305468258954,32,19.85539352
+SUN_PRAIRIE_71_R1,American bison,81.31162795354425,26,10.7649537
+SUN_PRAIRIE_71_R1,Coyote,4.041758241758242,6,10.7649537
+SUN_PRAIRIE_71_R1,Mule deer,70.52550602849836,58,10.7649537
+SUN_PRAIRIE_71_R1,Pronghorn,24.74717232202262,28,10.7649537
+SUN_PRAIRIE_71_R1,White-tailed deer,0,0,10.7649537
+SUN_PRAIRIE_71_R2,American bison,0,0,2.951226852
+SUN_PRAIRIE_71_R2,Coyote,0,0,2.951226852
+SUN_PRAIRIE_71_R2,Mule deer,0,0,2.951226852
+SUN_PRAIRIE_71_R2,Pronghorn,0,0,2.951226852
+SUN_PRAIRIE_71_R2,White-tailed deer,0,0,2.951226852
+SUN_PRAIRIE_71_R3,American bison,280.22162795354427,182,10.75513889
+SUN_PRAIRIE_71_R3,Coyote,0,0,10.75513889
+SUN_PRAIRIE_71_R3,Mule deer,0,0,10.75513889
+SUN_PRAIRIE_71_R3,Pronghorn,92.05434464404524,208,10.75513889
+SUN_PRAIRIE_71_R3,White-tailed deer,0,0,10.75513889
+SUN_PRAIRIE_71_R4,American bison,116.88108530236283,106,25.06175926
+SUN_PRAIRIE_71_R4,Coyote,0,0,25.06175926
+SUN_PRAIRIE_71_R4,Mule deer,0,0,25.06175926
+SUN_PRAIRIE_71_R4,Pronghorn,103.17524371546762,130,25.06175926
+SUN_PRAIRIE_71_R4,White-tailed deer,0,0,25.06175926
+SUN_PRAIRIE_71_R5,American bison,353.8437985582699,336,5.318668981
+SUN_PRAIRIE_71_R5,Coyote,0,0,5.318668981
+SUN_PRAIRIE_71_R5,Mule deer,50.791012056996706,50,5.318668981
+SUN_PRAIRIE_71_R5,Pronghorn,0,0,5.318668981
+SUN_PRAIRIE_71_R5,White-tailed deer,0,0,5.318668981
+SUN_PRAIRIE_72_R1,American bison,213.3727132559071,82,24.41081019
+SUN_PRAIRIE_72_R1,Coyote,0,0,24.41081019
+SUN_PRAIRIE_72_R1,Mule deer,44.68651808549507,70,24.41081019
+SUN_PRAIRIE_72_R1,Pronghorn,0,0,24.41081019
+SUN_PRAIRIE_72_R1,White-tailed deer,0,0,24.41081019
+SUN_PRAIRIE_72_R2,American bison,0,0,14.25972222
+SUN_PRAIRIE_72_R2,Coyote,0,0,14.25972222
+SUN_PRAIRIE_72_R2,Mule deer,0,0,14.25972222
+SUN_PRAIRIE_72_R2,Pronghorn,0,0,14.25972222
+SUN_PRAIRIE_72_R2,White-tailed deer,0,0,14.25972222
+SUN_PRAIRIE_72_R3,American bison,282.77255826140305,284,10.37087963
+SUN_PRAIRIE_72_R3,Coyote,0,0,10.37087963
+SUN_PRAIRIE_72_R3,Mule deer,0,0,10.37087963
+SUN_PRAIRIE_72_R3,Pronghorn,0,0,10.37087963
+SUN_PRAIRIE_72_R3,White-tailed deer,0,0,10.37087963
+SUN_PRAIRIE_72_R4,American bison,491.9643412094513,458,33.88349537
+SUN_PRAIRIE_72_R4,Coyote,0,0,33.88349537
+SUN_PRAIRIE_72_R4,Mule deer,167.23550602849835,194,33.88349537
+SUN_PRAIRIE_72_R4,Pronghorn,0,0,33.88349537
+SUN_PRAIRIE_72_R4,White-tailed deer,0,0,33.88349537
+SUN_PRAIRIE_72_R5,American bison,195.74162795354425,188,21.19616898
+SUN_PRAIRIE_72_R5,Coyote,0,0,21.19616898
+SUN_PRAIRIE_72_R5,Mule deer,15.791012056996713,32,21.19616898
+SUN_PRAIRIE_72_R5,Pronghorn,0,0,21.19616898
+SUN_PRAIRIE_72_R5,White-tailed deer,0,0,21.19616898
+SUN_PRAIRIE_73_R1,American bison,615.2066153359935,330,4.977974537
+SUN_PRAIRIE_73_R1,Coyote,0,0,4.977974537
+SUN_PRAIRIE_73_R1,Mule deer,0,0,4.977974537
+SUN_PRAIRIE_73_R1,Pronghorn,0,0,4.977974537
+SUN_PRAIRIE_73_R1,White-tailed deer,0,0,4.977974537
+SUN_PRAIRIE_73_R2,American bison,0,0,3.601736111
+SUN_PRAIRIE_73_R2,Coyote,0,0,3.601736111
+SUN_PRAIRIE_73_R2,Mule deer,0,0,3.601736111
+SUN_PRAIRIE_73_R2,Pronghorn,0,0,3.601736111
+SUN_PRAIRIE_73_R2,White-tailed deer,0,0,3.601736111
+SUN_PRAIRIE_73_R3,American bison,67.53162795354426,36,28.07091435
+SUN_PRAIRIE_73_R3,Coyote,0,0,28.07091435
+SUN_PRAIRIE_73_R3,Mule deer,17.895506028498357,28,28.07091435
+SUN_PRAIRIE_73_R3,Pronghorn,0,0,28.07091435
+SUN_PRAIRIE_73_R3,White-tailed deer,0,0,28.07091435
+SUN_PRAIRIE_73_R4,American bison,38.82108530236283,30,33.86306713
+SUN_PRAIRIE_73_R4,Coyote,0,0,33.86306713
+SUN_PRAIRIE_73_R4,Mule deer,73.58202411399343,108,33.86306713
+SUN_PRAIRIE_73_R4,Pronghorn,0,0,33.86306713
+SUN_PRAIRIE_73_R4,White-tailed deer,0,0,33.86306713
+SUN_PRAIRIE_73_R5,American bison,0,0,21.16837963
+SUN_PRAIRIE_73_R5,Coyote,0,0,21.16837963
+SUN_PRAIRIE_73_R5,Mule deer,223.7910120569967,258,21.16837963
+SUN_PRAIRIE_73_R5,Pronghorn,0,0,21.16837963
+SUN_PRAIRIE_73_R5,White-tailed deer,0,0,21.16837963
+SUN_PRAIRIE_76_R1,American bison,88.98217060472567,120,31.90894676
+SUN_PRAIRIE_76_R1,Coyote,3.0417582417582416,2,31.90894676
+SUN_PRAIRIE_76_R1,Mule deer,19.791012056996713,38,31.90894676
+SUN_PRAIRIE_76_R1,Pronghorn,51.74717232202262,50,31.90894676
+SUN_PRAIRIE_76_R1,White-tailed deer,0,0,31.90894676
+SUN_PRAIRIE_76_R3,American bison,46.410542651181416,48,19.39658565
+SUN_PRAIRIE_76_R3,Coyote,0,0,19.39658565
+SUN_PRAIRIE_76_R3,Mule deer,4.895506028498356,8,19.39658565
+SUN_PRAIRIE_76_R3,Pronghorn,0,0,19.39658565
+SUN_PRAIRIE_76_R3,White-tailed deer,0,0,19.39658565
+SUN_PRAIRIE_76_R4,American bison,34.75054265118142,28,32.06353009
+SUN_PRAIRIE_76_R4,Coyote,0,0,32.06353009
+SUN_PRAIRIE_76_R4,Mule deer,0,0,32.06353009
+SUN_PRAIRIE_76_R4,Pronghorn,0,0,32.06353009
+SUN_PRAIRIE_76_R4,White-tailed deer,0,0,32.06353009
+SUN_PRAIRIE_76_R5,American bison,0,0,22.00984954
+SUN_PRAIRIE_76_R5,Coyote,0,0,22.00984954
+SUN_PRAIRIE_76_R5,Mule deer,0,0,22.00984954
+SUN_PRAIRIE_76_R5,Pronghorn,0,0,22.00984954
+SUN_PRAIRIE_76_R5,White-tailed deer,0,0,22.00984954
+SUN_PRAIRIE_77_R1,American bison,12.821085302362835,20,2.351018519
+SUN_PRAIRIE_77_R1,Coyote,0,0,2.351018519
+SUN_PRAIRIE_77_R1,Mule deer,0,0,2.351018519
+SUN_PRAIRIE_77_R1,Pronghorn,0,0,2.351018519
+SUN_PRAIRIE_77_R1,White-tailed deer,0,0,2.351018519
+SUN_PRAIRIE_77_R2,American bison,0,0,11.00340278
+SUN_PRAIRIE_77_R2,Coyote,0,0,11.00340278
+SUN_PRAIRIE_77_R2,Mule deer,0,0,11.00340278
+SUN_PRAIRIE_77_R2,Pronghorn,0,0,11.00340278
+SUN_PRAIRIE_77_R2,White-tailed deer,0,0,11.00340278
+SUN_PRAIRIE_77_R3,American bison,827.8776199279135,758,5.570520833
+SUN_PRAIRIE_77_R3,Coyote,0,0,5.570520833
+SUN_PRAIRIE_77_R3,Mule deer,163.23995652703425,136,5.570520833
+SUN_PRAIRIE_77_R3,Pronghorn,0,0,5.570520833
+SUN_PRAIRIE_77_R3,White-tailed deer,0,0,5.570520833
+SUN_PRAIRIE_77_R4,American bison,14.821085302362835,24,4.038981481
+SUN_PRAIRIE_77_R4,Coyote,0,0,4.038981481
+SUN_PRAIRIE_77_R4,Mule deer,0,0,4.038981481
+SUN_PRAIRIE_77_R4,Pronghorn,0,0,4.038981481
+SUN_PRAIRIE_77_R4,White-tailed deer,0,0,4.038981481
+SUN_PRAIRIE_77_R5,American bison,0,0,1.855636574
+SUN_PRAIRIE_77_R5,Coyote,0,0,1.855636574
+SUN_PRAIRIE_77_R5,Mule deer,55.89550602849835,94,1.855636574
+SUN_PRAIRIE_77_R5,Pronghorn,0,0,1.855636574
+SUN_PRAIRIE_77_R5,White-tailed deer,0,0,1.855636574
+SUN_PRAIRIE_78_R1,American bison,152.24108530236282,286,8.001701389
+SUN_PRAIRIE_78_R1,Coyote,0,0,8.001701389
+SUN_PRAIRIE_78_R1,Mule deer,0,0,8.001701389
+SUN_PRAIRIE_78_R1,Pronghorn,0,0,8.001701389
+SUN_PRAIRIE_78_R1,White-tailed deer,0,0,8.001701389
+SUN_PRAIRIE_78_R2,American bison,0,0,0.751053241
+SUN_PRAIRIE_78_R2,Coyote,0,0,0.751053241
+SUN_PRAIRIE_78_R2,Mule deer,0,0,0.751053241
+SUN_PRAIRIE_78_R2,Pronghorn,0,0,0.751053241
+SUN_PRAIRIE_78_R2,White-tailed deer,0,0,0.751053241
+SUN_PRAIRIE_78_R3,American bison,61.560813976772124,38,10.07184028
+SUN_PRAIRIE_78_R3,Coyote,0,0,10.07184028
+SUN_PRAIRIE_78_R3,Mule deer,0,0,10.07184028
+SUN_PRAIRIE_78_R3,Pronghorn,0,0,10.07184028
+SUN_PRAIRIE_78_R3,White-tailed deer,0,0,10.07184028
+SUN_PRAIRIE_78_R4,American bison,2989.1721480254837,2690,25.26364583
+SUN_PRAIRIE_78_R4,Coyote,0,0,25.26364583
+SUN_PRAIRIE_78_R4,Mule deer,32.995506028498355,12,25.26364583
+SUN_PRAIRIE_78_R4,Pronghorn,0,0,25.26364583
+SUN_PRAIRIE_78_R4,White-tailed deer,0,0,25.26364583
+SUN_PRAIRIE_78_R5,American bison,396.38054265118143,116,12.69715278
+SUN_PRAIRIE_78_R5,Coyote,0,0,12.69715278
+SUN_PRAIRIE_78_R5,Mule deer,22.895506028498357,28,12.69715278
+SUN_PRAIRIE_78_R5,Pronghorn,0,0,12.69715278
+SUN_PRAIRIE_78_R5,White-tailed deer,0,0,12.69715278
+SUN_PRAIRIE_84_R1,American bison,174.78434120945133,156,27.9996412
+SUN_PRAIRIE_84_R1,Coyote,4.041758241758242,8,27.9996412
+SUN_PRAIRIE_84_R1,Mule deer,0,0,27.9996412
+SUN_PRAIRIE_84_R1,Pronghorn,3.7471723220226214,8,27.9996412
+SUN_PRAIRIE_84_R1,White-tailed deer,88.3715273412948,42,27.9996412
+SUN_PRAIRIE_84_R2,American bison,84.59434120945134,56,34.99898148
+SUN_PRAIRIE_84_R2,Coyote,0,0,34.99898148
+SUN_PRAIRIE_84_R2,Mule deer,0,0,34.99898148
+SUN_PRAIRIE_84_R2,Pronghorn,0,0,34.99898148
+SUN_PRAIRIE_84_R2,White-tailed deer,0,0,34.99898148
+SUN_PRAIRIE_84_R3,American bison,139.86108530236285,206,25.96346065
+SUN_PRAIRIE_84_R3,Coyote,0,0,25.96346065
+SUN_PRAIRIE_84_R3,Mule deer,0,0,25.96346065
+SUN_PRAIRIE_84_R3,Pronghorn,0,0,25.96346065
+SUN_PRAIRIE_84_R3,White-tailed deer,0,0,25.96346065
+SUN_PRAIRIE_84_R4,American bison,193.36856160726208,88,34.04247685
+SUN_PRAIRIE_84_R4,Coyote,10.083516483516483,16,34.04247685
+SUN_PRAIRIE_84_R4,Mule deer,0,0,34.04247685
+SUN_PRAIRIE_84_R4,Pronghorn,0,0,34.04247685
+SUN_PRAIRIE_84_R4,White-tailed deer,0,0,34.04247685
+SUN_PRAIRIE_84_R5,American bison,0,0,19.19173611
+SUN_PRAIRIE_84_R5,Coyote,0,0,19.19173611
+SUN_PRAIRIE_84_R5,Mule deer,55.15151344818864,96,19.19173611
+SUN_PRAIRIE_84_R5,Pronghorn,0,0,19.19173611
+SUN_PRAIRIE_84_R5,White-tailed deer,0,0,19.19173611
+SUN_PRAIRIE_85_R1,American bison,0,0,26.1103588
+SUN_PRAIRIE_85_R1,Coyote,0,0,26.1103588
+SUN_PRAIRIE_85_R1,Mule deer,0,0,26.1103588
+SUN_PRAIRIE_85_R1,Pronghorn,0,0,26.1103588
+SUN_PRAIRIE_85_R1,White-tailed deer,0,0,26.1103588
+SUN_PRAIRIE_85_R2,American bison,10.410542651181418,14,26.89971065
+SUN_PRAIRIE_85_R2,Coyote,0,0,26.89971065
+SUN_PRAIRIE_85_R2,Mule deer,0,0,26.89971065
+SUN_PRAIRIE_85_R2,Pronghorn,0,0,26.89971065
+SUN_PRAIRIE_85_R2,White-tailed deer,0,0,26.89971065
+SUN_PRAIRIE_85_R3,American bison,14.821085302362835,14,25.7721875
+SUN_PRAIRIE_85_R3,Coyote,0,0,25.7721875
+SUN_PRAIRIE_85_R3,Mule deer,47.79101205699671,28,25.7721875
+SUN_PRAIRIE_85_R3,Pronghorn,0,0,25.7721875
+SUN_PRAIRIE_85_R3,White-tailed deer,0,0,25.7721875
+SUN_PRAIRIE_85_R4,American bison,0,0,8.142303241
+SUN_PRAIRIE_85_R4,Coyote,0,0,8.142303241
+SUN_PRAIRIE_85_R4,Mule deer,0,0,8.142303241
+SUN_PRAIRIE_85_R4,Pronghorn,0,0,8.142303241
+SUN_PRAIRIE_85_R4,White-tailed deer,0,0,8.142303241
+SUN_PRAIRIE_85_R5,American bison,564.3931244483347,736,17.85353009
+SUN_PRAIRIE_85_R5,Coyote,0,0,17.85353009
+SUN_PRAIRIE_85_R5,Mule deer,102.53717573986117,166,17.85353009
+SUN_PRAIRIE_85_R5,Pronghorn,0,0,17.85353009
+SUN_PRAIRIE_85_R5,White-tailed deer,97.33444374607166,116,17.85353009
+SUN_PRAIRIE_86_R1,American bison,83.74217060472567,42,29.97918981
+SUN_PRAIRIE_86_R1,Coyote,0,0,29.97918981
+SUN_PRAIRIE_86_R1,Mule deer,0,0,29.97918981
+SUN_PRAIRIE_86_R1,Pronghorn,7.494344644045243,14,29.97918981
+SUN_PRAIRIE_86_R1,White-tailed deer,0,0,29.97918981
+SUN_PRAIRIE_86_R2,American bison,832.8616279535444,764,2.908877315
+SUN_PRAIRIE_86_R2,Coyote,0,0,2.908877315
+SUN_PRAIRIE_86_R2,Mule deer,0,0,2.908877315
+SUN_PRAIRIE_86_R2,Pronghorn,0,0,2.908877315
+SUN_PRAIRIE_86_R2,White-tailed deer,0,0,2.908877315
+SUN_PRAIRIE_86_R3,American bison,5.821085302362835,4,10.67466435
+SUN_PRAIRIE_86_R3,Coyote,0,0,10.67466435
+SUN_PRAIRIE_86_R3,Mule deer,0,0,10.67466435
+SUN_PRAIRIE_86_R3,Pronghorn,0,0,10.67466435
+SUN_PRAIRIE_86_R3,White-tailed deer,0,0,10.67466435
+SUN_PRAIRIE_86_R4,American bison,2.4105426511814176,2,33.87122685
+SUN_PRAIRIE_86_R4,Coyote,0,0,33.87122685
+SUN_PRAIRIE_86_R4,Mule deer,85.85921446839605,68,33.87122685
+SUN_PRAIRIE_86_R4,Pronghorn,0,0,33.87122685
+SUN_PRAIRIE_86_R4,White-tailed deer,0,0,33.87122685
+SUN_PRAIRIE_86_R5,American bison,659.1440065013,932,18.94219907
+SUN_PRAIRIE_86_R5,Coyote,0,0,18.94219907
+SUN_PRAIRIE_86_R5,Mule deer,59.38354037267081,64,18.94219907
+SUN_PRAIRIE_86_R5,Pronghorn,0,0,18.94219907
+SUN_PRAIRIE_86_R5,White-tailed deer,0,0,18.94219907
+SUN_PRAIRIE_87_R1,American bison,0,0,5.08875
+SUN_PRAIRIE_87_R1,Coyote,0,0,5.08875
+SUN_PRAIRIE_87_R1,Mule deer,0,0,5.08875
+SUN_PRAIRIE_87_R1,Pronghorn,0,0,5.08875
+SUN_PRAIRIE_87_R1,White-tailed deer,0,0,5.08875
+SUN_PRAIRIE_87_R2,American bison,353.7010853023628,378,34.88229167
+SUN_PRAIRIE_87_R2,Coyote,0,0,34.88229167
+SUN_PRAIRIE_87_R2,Mule deer,0,0,34.88229167
+SUN_PRAIRIE_87_R2,Pronghorn,4.747172322022621,8,34.88229167
+SUN_PRAIRIE_87_R2,White-tailed deer,0,0,34.88229167
+SUN_PRAIRIE_87_R3,American bison,3.4105426511814176,2,27.30909722
+SUN_PRAIRIE_87_R3,Coyote,4.041758241758242,2,27.30909722
+SUN_PRAIRIE_87_R3,Mule deer,0,0,27.30909722
+SUN_PRAIRIE_87_R3,Pronghorn,0,0,27.30909722
+SUN_PRAIRIE_87_R3,White-tailed deer,0,0,27.30909722
+SUN_PRAIRIE_87_R4,American bison,0,0,33.83905093
+SUN_PRAIRIE_87_R4,Coyote,9.083516483516483,14,33.83905093
+SUN_PRAIRIE_87_R4,Mule deer,0,0,33.83905093
+SUN_PRAIRIE_87_R4,Pronghorn,887.4124394003743,828,33.83905093
+SUN_PRAIRIE_87_R4,White-tailed deer,0,0,33.83905093
+SUN_PRAIRIE_87_R5,American bison,0,0,21.17447917
+SUN_PRAIRIE_87_R5,Coyote,7.083516483516483,8,21.17447917
+SUN_PRAIRIE_87_R5,Mule deer,29.205506028498355,20,21.17447917
+SUN_PRAIRIE_87_R5,Pronghorn,95.34127425149701,82,21.17447917
+SUN_PRAIRIE_87_R5,White-tailed deer,0,0,21.17447917
+SUN_PRAIRIE_88_R1,American bison,402.14087861684015,528,9.428240741
+SUN_PRAIRIE_88_R1,Coyote,7.041758241758242,14,9.428240741
+SUN_PRAIRIE_88_R1,Mule deer,59.761012056996705,78,9.428240741
+SUN_PRAIRIE_88_R1,Pronghorn,8.494344644045242,16,9.428240741
+SUN_PRAIRIE_88_R1,White-tailed deer,0,0,9.428240741
+SUN_PRAIRIE_88_R2,American bison,106.64217060472566,148,34.8780787
+SUN_PRAIRIE_88_R2,Coyote,0,0,34.8780787
+SUN_PRAIRIE_88_R2,Mule deer,0,0,34.8780787
+SUN_PRAIRIE_88_R2,Pronghorn,24.57717232202262,18,34.8780787
+SUN_PRAIRIE_88_R2,White-tailed deer,0,0,34.8780787
+SUN_PRAIRIE_88_R3,American bison,4.410542651181418,8,28.09965278
+SUN_PRAIRIE_88_R3,Coyote,0,0,28.09965278
+SUN_PRAIRIE_88_R3,Mule deer,33.89550602849835,32,28.09965278
+SUN_PRAIRIE_88_R3,Pronghorn,0,0,28.09965278
+SUN_PRAIRIE_88_R3,White-tailed deer,0,0,28.09965278
+SUN_PRAIRIE_88_R4,American bison,0,0,33.8347338
+SUN_PRAIRIE_88_R4,Coyote,17.125274725274725,30,33.8347338
+SUN_PRAIRIE_88_R4,Mule deer,0,0,33.8347338
+SUN_PRAIRIE_88_R4,Pronghorn,3.7471723220226214,2,33.8347338
+SUN_PRAIRIE_88_R4,White-tailed deer,0,0,33.8347338
+SUN_PRAIRIE_88_R5,American bison,0,0,21.206875
+SUN_PRAIRIE_88_R5,Coyote,0,0,21.206875
+SUN_PRAIRIE_88_R5,Mule deer,0,0,21.206875
+SUN_PRAIRIE_88_R5,Pronghorn,0,0,21.206875
+SUN_PRAIRIE_88_R5,White-tailed deer,0,0,21.206875
+SUN_PRAIRIE_88B_R1,American bison,1109.6182494973868,1170,11.10444444
+SUN_PRAIRIE_88B_R1,Coyote,0,0,11.10444444
+SUN_PRAIRIE_88B_R1,Mule deer,0,0,11.10444444
+SUN_PRAIRIE_88B_R1,Pronghorn,0,0,11.10444444
+SUN_PRAIRIE_88B_R1,White-tailed deer,0,0,11.10444444
+SUN_PRAIRIE_89_R1,American bison,163.70130183806776,242,31.95515046
+SUN_PRAIRIE_89_R1,Coyote,33.613516483516484,22,31.95515046
+SUN_PRAIRIE_89_R1,Mule deer,3111.0679763731746,3354,31.95515046
+SUN_PRAIRIE_89_R1,Pronghorn,0,0,31.95515046
+SUN_PRAIRIE_89_R1,White-tailed deer,0,0,31.95515046
+SUN_PRAIRIE_89_R2,American bison,314.85162795354427,318,35.92532407
+SUN_PRAIRIE_89_R2,Coyote,0,0,35.92532407
+SUN_PRAIRIE_89_R2,Mule deer,73.52550602849836,80,35.92532407
+SUN_PRAIRIE_89_R2,Pronghorn,0,0,35.92532407
+SUN_PRAIRIE_89_R2,White-tailed deer,0,0,35.92532407
+SUN_PRAIRIE_89_R3,American bison,9.410542651181418,14,28.03560185
+SUN_PRAIRIE_89_R3,Coyote,0,0,28.03560185
+SUN_PRAIRIE_89_R3,Mule deer,395.4205663134819,532,28.03560185
+SUN_PRAIRIE_89_R3,Pronghorn,0,0,28.03560185
+SUN_PRAIRIE_89_R3,White-tailed deer,0,0,28.03560185
+SUN_PRAIRIE_89_R4,American bison,0,0,31.13888889
+SUN_PRAIRIE_89_R4,Coyote,0,0,31.13888889
+SUN_PRAIRIE_89_R4,Mule deer,16.895506028498357,28,31.13888889
+SUN_PRAIRIE_89_R4,Pronghorn,0,0,31.13888889
+SUN_PRAIRIE_89_R4,White-tailed deer,0,0,31.13888889
+SUN_PRAIRIE_89_R5,American bison,0,0,22.11115741
+SUN_PRAIRIE_89_R5,Coyote,0,0,22.11115741
+SUN_PRAIRIE_89_R5,Mule deer,0,0,22.11115741
+SUN_PRAIRIE_89_R5,Pronghorn,0,0,22.11115741
+SUN_PRAIRIE_89_R5,White-tailed deer,0,0,22.11115741
+SUN_PRAIRIE_90_R1,American bison,54.96108530236283,24,1.356354167
+SUN_PRAIRIE_90_R1,Coyote,0,0,1.356354167
+SUN_PRAIRIE_90_R1,Mule deer,0,0,1.356354167
+SUN_PRAIRIE_90_R1,Pronghorn,0,0,1.356354167
+SUN_PRAIRIE_90_R1,White-tailed deer,0,0,1.356354167
+SUN_PRAIRIE_90_R2,American bison,195.57108530236286,130,3.214849537
+SUN_PRAIRIE_90_R2,Coyote,0,0,3.214849537
+SUN_PRAIRIE_90_R2,Mule deer,0,0,3.214849537
+SUN_PRAIRIE_90_R2,Pronghorn,0,0,3.214849537
+SUN_PRAIRIE_90_R2,White-tailed deer,0,0,3.214849537
+SUN_PRAIRIE_90_R3,American bison,4.410542651181418,6,28.02836806
+SUN_PRAIRIE_90_R3,Coyote,89.62054945054946,62,28.02836806
+SUN_PRAIRIE_90_R3,Mule deer,124.14202411399343,168,28.02836806
+SUN_PRAIRIE_90_R3,Pronghorn,0,0,28.02836806
+SUN_PRAIRIE_90_R3,White-tailed deer,0,0,28.02836806
+SUN_PRAIRIE_90_R4,American bison,77.82108530236283,100,7.518506944
+SUN_PRAIRIE_90_R4,Coyote,0,0,7.518506944
+SUN_PRAIRIE_90_R4,Mule deer,0,0,7.518506944
+SUN_PRAIRIE_90_R4,Pronghorn,0,0,7.518506944
+SUN_PRAIRIE_90_R4,White-tailed deer,0,0,7.518506944
+SUN_PRAIRIE_90_R5,American bison,237.08500054860355,290,10.99478009
+SUN_PRAIRIE_90_R5,Coyote,2.0417582417582416,2,10.99478009
+SUN_PRAIRIE_90_R5,Mule deer,52.104120488775216,34,10.99478009
+SUN_PRAIRIE_90_R5,Pronghorn,0,0,10.99478009
+SUN_PRAIRIE_90_R5,White-tailed deer,0,0,10.99478009
+SUN_PRAIRIE_91_R1,American bison,267.9557786300082,304,7.518599537
+SUN_PRAIRIE_91_R1,Coyote,0,0,7.518599537
+SUN_PRAIRIE_91_R1,Mule deer,0,0,7.518599537
+SUN_PRAIRIE_91_R1,Pronghorn,0,0,7.518599537
+SUN_PRAIRIE_91_R1,White-tailed deer,0,0,7.518599537
+SUN_PRAIRIE_91_R2,American bison,188.23162795354426,218,36.95849537
+SUN_PRAIRIE_91_R2,Coyote,56.12527472527473,24,36.95849537
+SUN_PRAIRIE_91_R2,Mule deer,0,0,36.95849537
+SUN_PRAIRIE_91_R2,Pronghorn,18.494344644045242,28,36.95849537
+SUN_PRAIRIE_91_R2,White-tailed deer,0,0,36.95849537
+SUN_PRAIRIE_91_R3,American bison,40.410542651181416,54,4.09650463
+SUN_PRAIRIE_91_R3,Coyote,0,0,4.09650463
+SUN_PRAIRIE_91_R3,Mule deer,0,0,4.09650463
+SUN_PRAIRIE_91_R3,Pronghorn,0,0,4.09650463
+SUN_PRAIRIE_91_R3,White-tailed deer,0,0,4.09650463
+SUN_PRAIRIE_91_R4,American bison,40.65108530236283,38,6.957094907
+SUN_PRAIRIE_91_R4,Coyote,0,0,6.957094907
+SUN_PRAIRIE_91_R4,Mule deer,0,0,6.957094907
+SUN_PRAIRIE_91_R4,Pronghorn,0,0,6.957094907
+SUN_PRAIRIE_91_R4,White-tailed deer,0,0,6.957094907
+SUN_PRAIRIE_91_R5,American bison,0,0,22.04914352
+SUN_PRAIRIE_91_R5,Coyote,0,0,22.04914352
+SUN_PRAIRIE_91_R5,Mule deer,0,0,22.04914352
+SUN_PRAIRIE_91_R5,Pronghorn,0,0,22.04914352
+SUN_PRAIRIE_91_R5,White-tailed deer,0,0,22.04914352
+SUN_PRAIRIE_92_R1,American bison,260.7672946535843,170,8.709988426
+SUN_PRAIRIE_92_R1,Coyote,0,0,8.709988426
+SUN_PRAIRIE_92_R1,Mule deer,0,0,8.709988426
+SUN_PRAIRIE_92_R1,Pronghorn,29.79717232202262,20,8.709988426
+SUN_PRAIRIE_92_R1,White-tailed deer,0,0,8.709988426
+SUN_PRAIRIE_92_R2,American bison,168.66108530236284,64,35.89355324
+SUN_PRAIRIE_92_R2,Coyote,0,0,35.89355324
+SUN_PRAIRIE_92_R2,Mule deer,0,0,35.89355324
+SUN_PRAIRIE_92_R2,Pronghorn,0,0,35.89355324
+SUN_PRAIRIE_92_R2,White-tailed deer,0,0,35.89355324
+SUN_PRAIRIE_92_R3,American bison,87.94108530236284,82,26.95689815
+SUN_PRAIRIE_92_R3,Coyote,0,0,26.95689815
+SUN_PRAIRIE_92_R3,Mule deer,0,0,26.95689815
+SUN_PRAIRIE_92_R3,Pronghorn,182.5631630727616,122,26.95689815
+SUN_PRAIRIE_92_R3,White-tailed deer,0,0,26.95689815
+SUN_PRAIRIE_92_R4,American bison,36.052713255907086,60,12.28074074
+SUN_PRAIRIE_92_R4,Coyote,0,0,12.28074074
+SUN_PRAIRIE_92_R4,Mule deer,3.895506028498356,8,12.28074074
+SUN_PRAIRIE_92_R4,Pronghorn,21.241516966067863,28,12.28074074
+SUN_PRAIRIE_92_R4,White-tailed deer,0,0,12.28074074
+SUN_PRAIRIE_92_R5,American bison,286.1032559070885,130,13.60984954
+SUN_PRAIRIE_92_R5,Coyote,0,0,13.60984954
+SUN_PRAIRIE_92_R5,Mule deer,0,0,13.60984954
+SUN_PRAIRIE_92_R5,Pronghorn,0,0,13.60984954
+SUN_PRAIRIE_92_R5,White-tailed deer,0,0,13.60984954
+SUN_PRAIRIE_93_R1,American bison,42.46054265118141,16,6.620752315
+SUN_PRAIRIE_93_R1,Coyote,0,0,6.620752315
+SUN_PRAIRIE_93_R1,Mule deer,0,0,6.620752315
+SUN_PRAIRIE_93_R1,Pronghorn,0,0,6.620752315
+SUN_PRAIRIE_93_R1,White-tailed deer,0,0,6.620752315
+SUN_PRAIRIE_93_R2,American bison,16.821085302362835,24,26.00864583
+SUN_PRAIRIE_93_R2,Coyote,0,0,26.00864583
+SUN_PRAIRIE_93_R2,Mule deer,0,0,26.00864583
+SUN_PRAIRIE_93_R2,Pronghorn,0,0,26.00864583
+SUN_PRAIRIE_93_R2,White-tailed deer,0,0,26.00864583
+SUN_PRAIRIE_93_R3,American bison,8.410542651181418,18,10.00965278
+SUN_PRAIRIE_93_R3,Coyote,0,0,10.00965278
+SUN_PRAIRIE_93_R3,Mule deer,0,0,10.00965278
+SUN_PRAIRIE_93_R3,Pronghorn,0,0,10.00965278
+SUN_PRAIRIE_93_R3,White-tailed deer,0,0,10.00965278
+SUN_PRAIRIE_93_R4,American bison,702.1726673363968,512,7.139085648
+SUN_PRAIRIE_93_R4,Coyote,0,0,7.139085648
+SUN_PRAIRIE_93_R4,Mule deer,0,0,7.139085648
+SUN_PRAIRIE_93_R4,Pronghorn,0,0,7.139085648
+SUN_PRAIRIE_93_R4,White-tailed deer,0,0,7.139085648
+SUN_PRAIRIE_93_R5,American bison,2.4105426511814176,2,19.20078704
+SUN_PRAIRIE_93_R5,Coyote,0,0,19.20078704
+SUN_PRAIRIE_93_R5,Mule deer,0,0,19.20078704
+SUN_PRAIRIE_93_R5,Pronghorn,0,0,19.20078704
+SUN_PRAIRIE_93_R5,White-tailed deer,0,0,19.20078704
+SUN_PRAIRIE_95_R1,American bison,76.82108530236283,100,17.09109954
+SUN_PRAIRIE_95_R1,Coyote,0,0,17.09109954
+SUN_PRAIRIE_95_R1,Mule deer,0,0,17.09109954
+SUN_PRAIRIE_95_R1,Pronghorn,28.367930805056552,56,17.09109954
+SUN_PRAIRIE_95_R1,White-tailed deer,0,0,17.09109954
+SUN_PRAIRIE_95_R2,American bison,151.94782403169518,138,33.99114583
+SUN_PRAIRIE_95_R2,Coyote,0,0,33.99114583
+SUN_PRAIRIE_95_R2,Mule deer,0,0,33.99114583
+SUN_PRAIRIE_95_R2,Pronghorn,32.24151696606786,52,33.99114583
+SUN_PRAIRIE_95_R2,White-tailed deer,0,0,33.99114583
+SUN_PRAIRIE_95_R3,American bison,0,0,0.021076389
+SUN_PRAIRIE_95_R3,Coyote,0,0,0.021076389
+SUN_PRAIRIE_95_R3,Mule deer,0,0,0.021076389
+SUN_PRAIRIE_95_R3,Pronghorn,0,0,0.021076389
+SUN_PRAIRIE_95_R3,White-tailed deer,0,0,0.021076389
+SUN_PRAIRIE_95_R4,American bison,7.821085302362835,10,2.451226852
+SUN_PRAIRIE_95_R4,Coyote,0,0,2.451226852
+SUN_PRAIRIE_95_R4,Mule deer,0,0,2.451226852
+SUN_PRAIRIE_95_R4,Pronghorn,0,0,2.451226852
+SUN_PRAIRIE_95_R4,White-tailed deer,0,0,2.451226852
+SUN_PRAIRIE_95_R5,American bison,18.82108530236283,20,11.06902778
+SUN_PRAIRIE_95_R5,Coyote,0,0,11.06902778
+SUN_PRAIRIE_95_R5,Mule deer,0,0,11.06902778
+SUN_PRAIRIE_95_R5,Pronghorn,0,0,11.06902778
+SUN_PRAIRIE_95_R5,White-tailed deer,0,0,11.06902778
+SUN_PRAIRIE_96_R1,American bison,0,0,19.16759259
+SUN_PRAIRIE_96_R1,Coyote,0,0,19.16759259
+SUN_PRAIRIE_96_R1,Mule deer,0,0,19.16759259
+SUN_PRAIRIE_96_R1,Pronghorn,0,0,19.16759259
+SUN_PRAIRIE_96_R1,White-tailed deer,4.654305468258957,8,19.16759259
+SUN_PRAIRIE_96_R2,American bison,13.821085302362835,14,28.01274306
+SUN_PRAIRIE_96_R2,Coyote,0,0,28.01274306
+SUN_PRAIRIE_96_R2,Mule deer,0,0,28.01274306
+SUN_PRAIRIE_96_R2,Pronghorn,0,0,28.01274306
+SUN_PRAIRIE_96_R2,White-tailed deer,15.654305468258956,36,28.01274306
+SUN_PRAIRIE_96_R3,American bison,11.410542651181418,14,27.03232639
+SUN_PRAIRIE_96_R3,Coyote,0,0,27.03232639
+SUN_PRAIRIE_96_R3,Mule deer,0,0,27.03232639
+SUN_PRAIRIE_96_R3,Pronghorn,0,0,27.03232639
+SUN_PRAIRIE_96_R3,White-tailed deer,0,0,27.03232639
+SUN_PRAIRIE_96_R4,American bison,0,0,34.04498843
+SUN_PRAIRIE_96_R4,Coyote,0,0,34.04498843
+SUN_PRAIRIE_96_R4,Mule deer,329.66294699945195,366,34.04498843
+SUN_PRAIRIE_96_R4,Pronghorn,0,0,34.04498843
+SUN_PRAIRIE_96_R4,White-tailed deer,0,0,34.04498843
+SUN_PRAIRIE_96_R5,American bison,0,0,19.86006944
+SUN_PRAIRIE_96_R5,Coyote,0,0,19.86006944
+SUN_PRAIRIE_96_R5,Mule deer,30.895506028498357,52,19.86006944
+SUN_PRAIRIE_96_R5,Pronghorn,0,0,19.86006944
+SUN_PRAIRIE_96_R5,White-tailed deer,0,0,19.86006944
+SUN_PRAIRIE_97_R1,American bison,277.6605426511814,218,30.05181713
+SUN_PRAIRIE_97_R1,Coyote,0,0,30.05181713
+SUN_PRAIRIE_97_R1,Mule deer,0,0,30.05181713
+SUN_PRAIRIE_97_R1,Pronghorn,0,0,30.05181713
+SUN_PRAIRIE_97_R1,White-tailed deer,0,0,30.05181713
+SUN_PRAIRIE_97_R2,American bison,60.873798558269925,108,37.91802083
+SUN_PRAIRIE_97_R2,Coyote,0,0,37.91802083
+SUN_PRAIRIE_97_R2,Mule deer,0,0,37.91802083
+SUN_PRAIRIE_97_R2,Pronghorn,14.494344644045242,18,37.91802083
+SUN_PRAIRIE_97_R2,White-tailed deer,0,0,37.91802083
+SUN_PRAIRIE_97_R3,American bison,0,0,25.15600694
+SUN_PRAIRIE_97_R3,Coyote,0,0,25.15600694
+SUN_PRAIRIE_97_R3,Mule deer,0,0,25.15600694
+SUN_PRAIRIE_97_R3,Pronghorn,0,0,25.15600694
+SUN_PRAIRIE_97_R3,White-tailed deer,0,0,25.15600694
+SUN_PRAIRIE_97_R4,American bison,84.05054265118142,50,24.13731481
+SUN_PRAIRIE_97_R4,Coyote,0,0,24.13731481
+SUN_PRAIRIE_97_R4,Mule deer,0,0,24.13731481
+SUN_PRAIRIE_97_R4,Pronghorn,0,0,24.13731481
+SUN_PRAIRIE_97_R4,White-tailed deer,0,0,24.13731481
+SUN_PRAIRIE_97_R5,American bison,29.936899279134963,28,4.919178241
+SUN_PRAIRIE_97_R5,Coyote,0,0,4.919178241
+SUN_PRAIRIE_97_R5,Mule deer,31.965506028498357,18,4.919178241
+SUN_PRAIRIE_97_R5,Pronghorn,0,0,4.919178241
+SUN_PRAIRIE_97_R5,White-tailed deer,0,0,4.919178241
+SUN_PRAIRIE_98_R1,American bison,247.33162795354423,294,22.54513889
+SUN_PRAIRIE_98_R1,Coyote,0,0,22.54513889
+SUN_PRAIRIE_98_R1,Mule deer,0,0,22.54513889
+SUN_PRAIRIE_98_R1,Pronghorn,11.241516966067863,20,22.54513889
+SUN_PRAIRIE_98_R1,White-tailed deer,0,0,22.54513889
+SUN_PRAIRIE_98_R2,American bison,132.79162795354426,118,0.013229167
+SUN_PRAIRIE_98_R2,Coyote,0,0,0.013229167
+SUN_PRAIRIE_98_R2,Mule deer,0,0,0.013229167
+SUN_PRAIRIE_98_R2,Pronghorn,0,0,0.013229167
+SUN_PRAIRIE_98_R2,White-tailed deer,0,0,0.013229167
+SUN_PRAIRIE_98_R3,American bison,235.9470895650538,218,3.208668981
+SUN_PRAIRIE_98_R3,Coyote,0,0,3.208668981
+SUN_PRAIRIE_98_R3,Mule deer,0,0,3.208668981
+SUN_PRAIRIE_98_R3,Pronghorn,0,0,3.208668981
+SUN_PRAIRIE_98_R3,White-tailed deer,0,0,3.208668981
+SUN_PRAIRIE_98_R4,American bison,244.09271325590709,230,32.14980324
+SUN_PRAIRIE_98_R4,Coyote,0,0,32.14980324
+SUN_PRAIRIE_98_R4,Mule deer,27.47753014249178,60,32.14980324
+SUN_PRAIRIE_98_R4,Pronghorn,148.20273053892217,50,32.14980324
+SUN_PRAIRIE_98_R4,White-tailed deer,0,0,32.14980324
+SUN_PRAIRIE_98_R5,American bison,292.76323002545587,354,6.047164352
+SUN_PRAIRIE_98_R5,Coyote,0,0,6.047164352
+SUN_PRAIRIE_98_R5,Mule deer,28.696967482645235,18,6.047164352
+SUN_PRAIRIE_98_R5,Pronghorn,0,0,6.047164352
+SUN_PRAIRIE_98_R5,White-tailed deer,0,0,6.047164352
+SUN_PRAIRIE_99_R1,American bison,0,0,1.1253125
+SUN_PRAIRIE_99_R1,Coyote,0,0,1.1253125
+SUN_PRAIRIE_99_R1,Mule deer,0,0,1.1253125
+SUN_PRAIRIE_99_R1,Pronghorn,0,0,1.1253125
+SUN_PRAIRIE_99_R1,White-tailed deer,0,0,1.1253125
+SUN_PRAIRIE_99_R2,American bison,2.4105426511814176,2,12.87725694
+SUN_PRAIRIE_99_R2,Coyote,4.041758241758242,2,12.87725694
+SUN_PRAIRIE_99_R2,Mule deer,8.791012056996712,16,12.87725694
+SUN_PRAIRIE_99_R2,Pronghorn,0,0,12.87725694
+SUN_PRAIRIE_99_R2,White-tailed deer,0,0,12.87725694
+SUN_PRAIRIE_99_R3,American bison,17.06741089307169,26,25.28394676
+SUN_PRAIRIE_99_R3,Coyote,0,0,25.28394676
+SUN_PRAIRIE_99_R3,Mule deer,4.895506028498356,8,25.28394676
+SUN_PRAIRIE_99_R3,Pronghorn,0,0,25.28394676
+SUN_PRAIRIE_99_R3,White-tailed deer,0,0,25.28394676
+SUN_PRAIRIE_99_R4,American bison,0,0,33.70762731
+SUN_PRAIRIE_99_R4,Coyote,50.29230769230769,68,33.70762731
+SUN_PRAIRIE_99_R4,Mule deer,19.895506028498357,28,33.70762731
+SUN_PRAIRIE_99_R4,Pronghorn,5.747172322022621,2,33.70762731
+SUN_PRAIRIE_99_R4,White-tailed deer,0,0,33.70762731
+SUN_PRAIRIE_99_R5,American bison,0,0,17.99971065
+SUN_PRAIRIE_99_R5,Coyote,0,0,17.99971065
+SUN_PRAIRIE_99_R5,Mule deer,16.895506028498357,36,17.99971065
+SUN_PRAIRIE_99_R5,Pronghorn,0,0,17.99971065
+SUN_PRAIRIE_99_R5,White-tailed deer,0,0,17.99971065
