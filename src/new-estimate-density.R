@@ -16,7 +16,7 @@ sp <- "American bison"
 cam_fov_angle <- 37.7 # Taken directly from the data
 
 # Load American Prairie Reserve (APR) data
-df_apr <- read_csv("./data/base/SCBI_2020_camera_trap_survey.csv") %>%
+df_apr <- read_csv("./data/base/apr_revised_data.csv") %>%
   clean_names() %>%
   # Consistent deployment naming
   mutate(deployment_id = toupper(deployment_id))
@@ -36,7 +36,7 @@ df_gap_groups <- read_csv("./data/lookup/species-gap-groups.csv") %>%
 # Identify Series
 df_series <- df_apr %>%
   # Relevant columns:
-  select(deployment_id, date_detected = timestamp2, species = species_common_name, number = sighting_quantity,
+  select(deployment_id, date_detected = timestamp, species = species_common_name, number = sighting_quantity,
          frame, sex, life_stage) %>%
   # Only look at species of interest
   filter(species %in% sp) %>%
@@ -215,24 +215,19 @@ source(paste0(root, "src/R/summarise-density_2021-06-23.R"))
 df_density_apr <- df_density %>%
   filter(!density_km2 == "NaN",
          duration_days > 5) %>%
-  summarise_density(species_col = species, dens_col = density_km2) # 2.97 (1.8 - 4.54)
+  summarise_density(species_col = species, dens_col = density_km2) # 4.19 (3 - 5.64)
 
-df_density_apr_R1 <- df_density %>%
-  filter(!str_detect(deployment_id, "_R2$"),
+r1 <- df_density %>%
+  filter(str_detect(deployment_id, "_R1$"),
          !density_km2 == "NaN",
          duration_days > 5) %>%
-  summarise_density(species_col = species, dens_col = density_km2) # 5.64
+  summarise_density(species_col = species, dens_col = density_km2) # 7.6
 
-df_density_apr_R1 %>%
-  ggplot(aes(x = density_km2)) +
-  geom_histogram(fill = "#2D415B") +
-  labs(x = expression(Bison~density~(animals~per~km^2)),
-       y = "Number of camera deployments",
-       title = "Bison density at individual cameras in May/June") +
-  theme_abmi()
-
-ggsave(filename = "plot1.png")
-
+r2 <- df_density %>%
+  filter(str_detect(deployment_id, "_R2$"),
+         !density_km2 == "NaN",
+         duration_days > 5) %>%
+  summarise_density(species_col = species, dens_col = density_km2) # 0.75
 
 #-----------------------------------------------------------------------------------------------------------------------
 
@@ -303,7 +298,7 @@ df_tt_ydays <- df %>%
   ungroup() %>%
   mutate_if(is.factor, as.character) %>%
   mutate(yday = as.integer(yday)) %>%
-  # Remove weeks in which the deployment_period was not actually operating
+  # Remove days in which the deployment_period was not actually operating
   semi_join(df_ydays, by = c("deployment_id", "yday")) %>%
   # Join duration information
   mutate(duration_days = 1)
@@ -383,7 +378,8 @@ df_density_ydays_mid <- df_density_ydays %>%
   mutate(bookend = if_else(row_number() == 1 | row_number() == n(), 1, 0)) %>%
   filter(bookend == "0",
          # Get rid of 0 distance
-         distance_m > 0)
+         distance_m > 0) %>%
+  ungroup()
 
 #-----------------------------------------------------------------------------------------------------------------------
 
@@ -394,11 +390,15 @@ summarise_week <- df_density_week_mid %>%
   summarise(density = mean(density_km2),
             n_deployments = n())
 
-summarise_day <- df_density_ydays_mid %>%
+# Leaving in mid days for now.
+summarise_day <- df_density_ydays %>%
+  # Let's take out SUN_PRAIRIE_25_R1 after ... 158.
+  filter(!(deployment_id == "SUN_PRAIRIE_25_R1" & yday > 158)) %>%
   group_by(yday) %>%
   summarise(density = mean(density_km2),
             n_deployments = n()) %>%
-  mutate(date = as.Date(paste0("2020-01-01")) + yday - 1)
+  mutate(date = as.Date(paste0("2020-01-01")) + yday - 1) %>%
+  ungroup()
 
 # Let's look at day 149 ...
 day_149 <- df_density_ydays_mid %>%
@@ -424,12 +424,12 @@ library(ggplot2)
 
 # Mean of days
 observed_mean <- summarise_day %>%
-  filter(n_deployments > 20) %>%
-  summarise(mean = mean(density)) # 1.41 animals
+  #filter(n_deployments > 20) %>%
+  summarise(mean = mean(density)) # 2.30
 
 bootstrap <- summarise_day %>%
   # Remove last two days when virtually all deployments had been removed
-  filter(n_deployments > 20) %>%
+  # filter(n_deployments > 20) %>%
   specify(response = density) %>%
   generate(reps = 100000, type = "bootstrap") %>%
   calculate(stat = "mean")
@@ -451,14 +451,16 @@ ggplot(data = bootstrap) +
        title = "Variation in the mean estimate of bison density",
        subtitle = "With day as the bootstrapped resampling unit (10,000 replications)",
        caption = "Mean bison density: 1.41 (90% CI: 0.76, 2.20)") +
-  scale_x_continuous(breaks = seq(0, 3, 0.25), limits = c(0, 3)) +
+  scale_x_continuous(breaks = seq(0, 5, 0.5), limits = c(0, 5)) +
   theme(axis.text.y = element_blank(),
         axis.ticks.y = element_blank())
 
 # What if we just looked at R1?
 
-summarise_day_R1 <- df_density_ydays_mid %>%
+summarise_day_R1 <- df_density_ydays %>%
+  filter(!(deployment_id == "SUN_PRAIRIE_25_R1" & yday > 158)) %>%
   filter(!str_detect(deployment_id, "_R2$")) %>%
+  filter(yday < 172) %>%
   group_by(yday) %>%
   summarise(density = mean(density_km2),
             n_deployments = n()) %>%
@@ -466,12 +468,12 @@ summarise_day_R1 <- df_density_ydays_mid %>%
 
 # Mean of days
 observed_mean_R1 <- summarise_day_R1 %>%
-  filter(n_deployments > 20) %>%
-  summarise(mean = mean(density)) #
+  #filter(n_deployments > 20) %>%
+  summarise(mean = mean(density))
 
 bootstrap_R1 <- summarise_day_R1 %>%
   # Remove last two days when virtually all deployments had been removed
-  filter(n_deployments > 20) %>%
+  # filter(n_deployments > 20) %>%
   specify(response = density) %>%
   generate(reps = 10000, type = "bootstrap") %>%
   calculate(stat = "mean")
@@ -485,7 +487,7 @@ conf_ints_R1 <- bootstrap_R1 %>%
 ggplot(data = bootstrap_R1) +
   geom_density(aes(x = stat), color = "cornflowerblue", fill = "cornflowerblue", alpha = 0.5) +
   geom_vline(xintercept = observed_mean_R1$mean, color = "darkred", size = 1.5) +
-  # geom_vline(xintercept = bootstrapped_mean, color = "darkblue") +
+  geom_vline(xintercept = bootstrapped_mean, color = "darkblue") +
   geom_vline(xintercept = conf_ints_R1$upper, color = "black", linetype = 2, size = 1) +
   geom_vline(xintercept = conf_ints_R1$lower, color = "black", linetype = 2, size = 1) +
   labs(x = expression(Bison~density~(animals~per~km^2)),
@@ -493,7 +495,7 @@ ggplot(data = bootstrap_R1) +
        title = "Variation in the mean estimate of bison density",
        subtitle = "With day as the bootstrapped resampling unit (10,000 replications)",
        caption = "Mean bison density: 2.86 (90% CI: 1.55, 4.44)") +
-  scale_x_continuous(breaks = seq(0, 6, 0.5), limits = c(0, 6)) +
+  scale_x_continuous(breaks = seq(0, 8, 0.5), limits = c(0, 8)) +
   theme(axis.text.y = element_blank(),
         axis.ticks.y = element_blank())
 
